@@ -139,9 +139,9 @@
 
 ## Related
 
-[[_cloud-app]]
-[[monoliths]]
-[[microservices]]
-[[_flask]]
-[[_docker]]
+[[_cloud-app]]  
+[[monoliths]]  
+[[microservices]]  
+[[_flask]]  
+[[_docker]]  
 [[_kubernetes]]
