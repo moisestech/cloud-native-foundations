@@ -15,7 +15,7 @@
 
 ## [Intro to Cloud-Native](https://classroom.udacity.com/nanodegrees/nd064-1/parts/30cb07da-8fd4-4438-a209-b3457adb5d82/modules/7b21dfa4-aac8-4d24-82c5-65325e6dc691/lessons/092ac437-081d-4946-b54d-a2f537931c13/concepts/6197dd89-0c18-4bb1-998d-e7baa69aef65)
 
-🎥 [Video Link](https://www.youtube.com/watch?v=J3avoSaPzZ4)
+🎥 [Udacity, Video Link](https://www.youtube.com/watch?v=J3avoSaPzZ4)
 
 - **Cloud-native** refers to the set of practices that empowers an organization to **build and manage applications at scale**.
 
@@ -23,8 +23,17 @@
 
   - In addition to scale, an organization needs to be agile in integrating customer feedback and adapting to the surrounding technology ecosystem.
 
-- **Containers** are closely associated with cloud-native terminology. Containers are used to run a single application with all required dependencies. The main characteristics of containers are easy to manage, deploy, and fast to recover. As such, often, a **micro-service-based architecture** is chosen in tandem with cloud-native tooling.
+- **Containers** are associated with cloud-native terminology.
+- Containers are small units of a bigger software which are isolated from each other which makes deploying them fast and resilient and they fit very well in a micro-service based architecture.
+- Containers are used to run a single application with all required dependencies. The main characteristics of containers are easy to manage, deploy, and fast to recover.
+- As such, often, a **micro-service-based architecture** is chosen in tandem with cloud-native tooling.
 - **Micro-services** are used to manage and configure a collection of small, independent services that can be easily packaged and executed within a container.
+
+Using multiple containers and managing them can be quite hectic so you can use am orchestrator that will help configure and deploy your containers to your cloud. There are many cloud orchestrators available some of them are.
+
+1. Docker Swarm
+2. Apache Mesos
+3. Kubernetes
 
 ---
 
@@ -65,18 +74,55 @@
 
 ## [Tools, Environment & dependencies](https://classroom.udacity.com/nanodegrees/nd064-1/parts/30cb07da-8fd4-4438-a209-b3457adb5d82/modules/7b21dfa4-aac8-4d24-82c5-65325e6dc691/lessons/092ac437-081d-4946-b54d-a2f537931c13/concepts/41d3074d-ccc2-4fc0-a153-ba7a4ba77b3b)
 
-[ ] [Python](https://www.python.org/downloads/)
-[ ] [Flask](https://flask.palletsprojects.com/en/2.0.x/)
-[ ] [Git](https://git-scm.com/downloads)
-[ ] [Docker](https://docs.docker.com/get-docker/)
-[ ] [Vagrant](https://www.vagrantup.com/downloads)
-[ ] [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
+- [ ] [Python](https://www.python.org/downloads/)
+- [ ] [Flask](https://flask.palletsprojects.com/en/2.0.x)
+- [ ] [Git](https://git-scm.com/downloads)
+- [ ] [Docker](https://docs.docker.com/get-docker/)
+- [ ] [Vagrant](https://www.vagrantup.com/downloads)
+- [ ] [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
 
 ---
 
 ## [Recap]
 
 🎥 [Video Link](https://www.youtube.com/watch?v=1vpaXWBs6HU)
+
+---
+
+## Resources
+
+## Course Notes
+
+- [Udacity SUSE Cloud Native Scholarship Program](https://www.notion.so/Udacity-SUSE-Cloud-Native-Scholarship-Program-e42890b84701411da4b6e7b95403ce08), _Udacity_, Notion
+
+## Github
+
+- [Udacity Cloud Native Fundamentals](https://github.com/josepraveen/Udacity_Cloud_Native_Fundamentals/tree/main/tools), _JosePraveen_, GitHub
+
+## Courses
+
+- [IBM CLoud Native](https://cloudnative101.dev/course-overview/)
+- [Cloud Marathon](https://cloudacademy.com/promos/marathon/), _CloudAcademy_
+
+### Blog Post
+
+- [What is Cloud Computing? A Beginner's Guide](https://azure.microsoft.com/en-us/overview/what-is-cloud-computing/), _Microsoft Azure_
+- [What is cloud computing? Everything you need to know](https://www.zdnet.com/article/what-is-cloud-computing-everything-you-need-to-know-about-the-cloud/), _ZDNet_
+- [2021 Upskitting Enterprise DevOps Skills Report Download](https://info.devopsinstitute.com/2021-upskilling-report-download?utm_campaign=Upskilling%202021&utm_content=167900943&utm_medium=social&utm_source=linkedin&hss_channel=lcp-6402730)
+- [Linux Filesystem Hierarchy Explained](https://raghavaggarwal.hashnode.dev/linux-filesystem-hierarchy-explained), _Raghav Aggarwal_
+- [Everything You Need To Know About The Green Linux Lizard](https://linuxiac.com/opensuse/), _Linuxiac_
+- [What is Cloud-Native Architecture?](https://www.sdxcentral.com/cloud/cloud-native/definitions/what-is-cloud-native-architecture/)
+- [Thinking Cloud Native](https://sjoukjezaal.com/thinking-cloud-native/?utm_source=linkedin&utm_medium=social&utm_campaign=ReviveOldPost), _Sjoukje Zaal_
+- [What is the Difference Between Hyper-V and VirtualBox](https://www.diskinternals.com/vmfs-recovery/hyper-v-vs-virtualbox/), _Diskinternals_
+-
+
+### Video
+
+- [What is Cloud Native?](https://www.youtube.com/watch?v=fp9_ubiKqFU&list=PLOspHqNVtKACSagAEeIY20NMVLNeQ1ZJx), _IBM_, Youtube
+- [100 seconds of CI/CD DevOp Explained](https://www.youtube.com/watch?v=scEDHsr3APg), _Fireship_, YouTube
+- [100 Seconds of ServerLess](https://youtu.be/W_VV2Fx32_Y), _Fireship_, YouTube
+- [Cloud Native 101 Video](https://www.youtube.com/watch?v=9Ik96SBaIvs), _VMware Cloud Native Apps_, YouTube
+- [Cloud Native DevOps Explained](https://www.youtube.com/watch?v=FzERTm_j2wE), _IBM Cloud_, YouTube
 
 ---
 
