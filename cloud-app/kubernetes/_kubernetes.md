@@ -158,16 +158,40 @@ Explore Kubernetes features:
 
 ## Resources
 
+## Community
+
+- [SUSE & Racher Community](https://community.suse.com/share/F1pMnGSvpP0S8gMl?utm_source=manual), _Community Suse_, Website
+
+## Courses
+
+- [Getting Started with Google Kubernetes Engine](https://www.coursera.org/learn/google-kubernetes-engine), _Coursera_
+- [Kubernetes for developers](https://www.udemy.com/share/101BQaAkYZc19WQ3w=/), _Udamy_
+- [Kubernetes For Container Orchestration](https://www.youtube.com/watch?v=Iz6jwltiNyY), _Eudereka_
+- [100 Days of Kubernetes](https://www.youtube.com/playlist?list=PLWnens-FYbIpUpmiiNYfkqTZQUYppGMFV), _Anais Urlichs_, YouTube
+- [Intro to Containers w/ Docker, Kubernetes & OpenShit](https://www.coursera.org/learn/ibm-containers-docker-kubernetes-openshift), _IBM_, Coursera
+- [SUSE Academy Class](https://community.suse.com/share/F1pMnGSvpP0S8gMl?utm_source=manual), _Academy Classes_, Website
+- [Kubernetes and Docker: The Conatiner Masterclass](https://www.packtpub.com/product/kubernetes-and-docker-the-container-masterclass-video/9781801075084), _Pack_, Website
+- [Lightweight Kubernetes with K3s](https://www.oreilly.com/library/view/lightweight-kubernetes-with/9781838821173/), _O'Reilly Online Learning_, Website
+
 ### Books
 
-- [Mastering Kubernetes](https://subscription.packtpub.com/book/application_development/9781788999786), _Pack_
+- [Mastering Kubernetes](https://subscription.packtpub.com/book/application_development/9781788999786), _Pack_, Website
+- [The Kubernetes Handbook](https://www.freecodecamp.org/news/the-kubernetes-handbook/), _freeCodeCamp_, Website
 
 ### Blog Post
 
-- [MiniKube, Kubeadm, Kind, how to start with Kubernetes?](https://www.padok.fr/en/blog/minikube-kubeadm-kind-k3s)
+- [Kubernetes 101: Pods, Nodes, Containers, and Clusters](https://medium.com/google-cloud/kubernetes-101-pods-nodes-containers-and-clusters-c1509e409e16), _Google Clouds_, Medium
+- [MiniKube, Kubeadm, Kind, how to start with Kubernetes?](https://www.padok.fr/en/blog/minikube-kubeadm-kind-k3s),_Padok_, Website
+- [Learn Kubernetes Basics](https://kubernetes.io/docs/tutorials/kubernetes-basics/), _Kubernetes_, Website
+
+### Github
+
+- [Microservices Basics](https://github.com/Eifel42/microservices-basics), _GitHub_, Eifel42
+- [Kubernetes The Hard Way](), _GitHub_, KelseyHighTower
 
 ### Video
 
-- [MicroServices, RabbitMQ, CQRS and Event sourcing with Node](https://www.youtube.com/watch?v=XrkNwwVLyOY)
-- [Microservices + Events + Dockers = A Perfect Trio](https://www.youtube.com/watch?v=sSm2dRarhPo)
-- [Design Patterns: Why Event Sourcing?](https://www.youtube.com/watch?v=rUDN40rdly8)
+- [MicroServices, RabbitMQ, CQRS and Event sourcing with Node](https://www.youtube.com/watch?v=XrkNwwVLyOY). YouTube
+- [Microservices + Events + Dockers = A Perfect Trio](https://www.youtube.com/watch?v=sSm2dRarhPo), YouTube
+- [Design Patterns: Why Event Sourcing?](https://www.youtube.com/watch?v=rUDN40rdly8), YouTube
+- [Just Me & OpenSource](https://www.youtube.com/c/wenkatn-justmeandopensource/playlists), _Just Me and Opensource_, YouTube
