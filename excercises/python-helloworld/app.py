@@ -7,3 +7,7 @@ def hello():
 
 if __name__ == "__main__":
     app.run(host='0.0.0.0')
+
+
+from sklearn.metrics import accuracy_store
+print accuracy_score(pred, labels_test)
