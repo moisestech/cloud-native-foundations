@@ -58,18 +58,42 @@ By default, Docker will create OCI (Open Container Initiative) compliant images.
 
 ## Resources
 
-### Blog Post
+## GitHub
 
-- [Best Practices for building containers](https://dev.to/ankit01oss/best-practices-for-building-containers-4mkp)
-
-### Video Blog
-
-- [Docker in 100 Second](https://www.youtube.com/watch?v=Gjnup-PuquQ), _Fireship_
-- [How To Dockerize in 7 Easy Steps](https://www.youtube.com/watch?v=gAkwW2tuIqE) _Fireship_
+- [CompleteIntroToContainers](https://btholt.github.io/complete-intro-to-containers/), _Bholt_, GitHub
 
 ### Courses
 
-- [Docker For The Absolute Beginner](https://kodekloud.com/p/docker-for-the-absolute-beginner-hands-on), _KodeKloud_
+- [Docker For The Absolute Beginner](https://kodekloud.com/p/docker-for-the-absolute-beginner-hands-on), _KodeKloud_, Website
+- [Docker for Beginners: Full Free Course](https://www.youtube.com/watch?v=zJ6WbK9zFpI), _FreeCodeCamp_, YouTube
+- [DevOps Engineering Course for Beginners](https://www.youtube.com/watch?v=j5Zsa_eOXeY), _FreeCodeCamp_, Website
+- [Learn Docker & Containers using Interactive Browser Based Labs](https://www.katacoda.com/courses/docker), _Katacoda_, Website
+- [IBM Cloud Essentials Course](https://www.ibm.com/blogs/ibm-training/get-ready-for-ibm-cloud-certification-with-new-free-ibm-cloud-essentials-course/), _IBM_, Website
+- [Learn Docker by Building a Node / Express App](https://www.freecodecamp.org/news/learn-docker-by-building-a-node-express-app/), _FreeCodeCamp_, YouTube
+- [Docker in 1 Hour](https://www.youtube.com/watch?v=pTFZFxd4hOI), _Programming with Mosh_, YouTube
+- [Docker Essentials](https://www.udemy.com/cart/subscribe/course/1948098/), _Cerulean Canvas_, Udemy
+
+### Blog Post
+
+- [Best Practices for building containers](https://dev.to/ankit01oss/best-practices-for-building-containers-4mkp)
+- [Build your Python image](https://docs.docker.com/language/python/build-images/), _Docker Docs_
+- [Dockerize You Data Science Project, A Quick Guide](https://pub.towardsai.net/how-to-dockerize-your-data-science-project-a-quick-guide-b6fa2d6a8ba1), _TowardsAI_, Medium
+- [Differences between a Dockerfile, Docker Image and Docker Conatiner](https://nickjanetakis.com/blog/differences-between-a-dockerfile-docker-image-and-docker-container), _Nick Janetakis_, Website
+- [Get to Know Docker's Ecosystem](https://nickjanetakis.com/blog/get-to-know-dockers-ecosystem), _Nick Janetakis_, Website
+
+### Video Blog
+
+- [Exercise 1: Docker for Application Packaging](https://www.youtube.com/watch?v=zcENH_nvPCU&index=3), _MLOps Ninja_, YouTube
+- [Docker in 100 Second](https://www.youtube.com/watch?v=Gjnup-PuquQ), _Fireship_, YouTube
+- [How To Dockerize in 7 Easy Steps](https://www.youtube.com/watch?v=gAkwW2tuIqE) _Fireship_, YouTube
+- [Containerization Explained](https://www.youtube.com/watch?v=0qotVMX-J5s), _IBM Cloud_, YouTube
+- [Introduction to Kubernetes and Docker](https://www.youtube.com/watch?v=PfRWP60qxPM), _Caleb Curry_, YouTube
+- [Kubernetes vs Docker](https://www.youtube.com/watch?v=2vMEQ5zs1ko&t=389s), _IBM Cloud_, YouTube
+- [Intro to Microservices, Dockerm and Kubernetes](https://www.youtube.com/watch?v=1xo-0gCVhTU), _James Quigley_, YouTube
+
+### Tools
+
+- [Labs Play with Docker](https://labs.play-with-docker.com/)
 
 ---
 
