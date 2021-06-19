@@ -145,3 +145,10 @@
 [[_flask]]
 [[_docker]]
 [[_kubernetes]]
+
+---
+
+## My commitment to the Program
+
+my commitment to the program is due to my use to AWS, as I use its SageMaker to train some machine learning models that will either consume too much time over my local setup or even are too big for a local setup
+so, this program will help me to digest the cloud concepts much better and how can I build a docker container regardless the purpose of my application, and so if you are looking forward to building applications "I guess in your case here that will be web applications" on the cloud, then I highly suggest sticking to this course.
