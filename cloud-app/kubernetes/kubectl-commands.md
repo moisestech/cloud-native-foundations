@@ -43,3 +43,11 @@ Create Resources
 <pre><code class="lang-yaml">kubectl delete RESOURCE NAME
 </code></pre>
 </div></div>
+
+---
+
+## Resources
+
+### Blog Post
+
+- [3 Basic Kubernetes Shortcurs for Gaster Command Line Kung Fu](https://medium.com/james-reads-public-cloud-technology-blog/3-basic-kubernetes-shortcuts-for-faster-command-line-kung-fu-5c041295ea78), _James Read Public Cloud Tech_, Medium
