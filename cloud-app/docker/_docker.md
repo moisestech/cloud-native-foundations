@@ -56,6 +56,24 @@ By default, Docker will create OCI (Open Container Initiative) compliant images.
 
 ---
 
+## How docker works?
+
+1. It packages apps into a single unit called an image.
+2. When you run these images via docker, they are called containers.
+3. A single container is an instance of an image.
+4. You can run many containers based out of single image.
+5. A common analogy is to imagine containers like shipping containers. The content of the container may vary, but because they are similarly shaped (containers), they can be handled the same way.
+6. However, often, containers are related, and they may be sent to a single location.
+7. In docker, the contents of a container come together to form a singular unit that represents an app, service or any piece of software.
+8. A dockerized app contains all the services, programs and libraries you need along with the instruction on how to run the dockerized app and the environment.
+9. An image is an immutable that is a snapshot of a container.
+10. Imagines are constructed with build command and executed with a container with the run command.
+11. Images are stored in the docker registry and used when needed.
+12. Large images are composed of layers of other images.
+13. The advantage of layers is that it can be transferred easily.
+
+---
+
 ## Resources
 
 ## GitHub
