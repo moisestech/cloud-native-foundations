@@ -6,7 +6,7 @@
 
 ## Lessons
 
-<img src="https://github.com/moisestech/cloud-native-foundations/blob/master/assets/images/lesson_1_icon.jpeg?raw-true" style="width: 200px; border-radius: 30px;"/>
+<img src="../cloud-native-foundations/blob/master/assets/images/lesson_1_icon.jpeg?raw-true" style="width: 200px; border-radius: 30px;"/>
 
 ## Lesson 1
 
@@ -27,7 +27,7 @@
 
 ---
 
-<img src="https://github.com/moisestech/cloud-native-foundations/blob/master/assets/images/lesson_2_icon.jpeg?raw-true" style="width: 200px; border-radius: 30px;"/>
+<img src="../cloud-native-foundations/blob/master/assets/images/lesson_2_icon.jpeg?raw-true" style="width: 200px; border-radius: 30px;"/>
 
 ## Lesson 2
 
@@ -56,7 +56,7 @@
 
 ---
 
-<img src="https://github.com/moisestech/cloud-native-foundations/blob/master/assets/images/lesson_3_icon.jpeg?raw-true" style="width: 200px; border-radius: 30px;"/>
+<img src="../cloud-native-foundations/blob/master/assets/images/lesson_3_icon.jpeg?raw-true" style="width: 200px; border-radius: 30px;"/>
 
 ## Lesson 3
 
@@ -97,7 +97,7 @@
 
 ---
 
-<img src="https://github.com/moisestech/cloud-native-foundations/blob/master/assets/images/lesson_4_icon.jpeg?raw-true" style="width: 200px; border-radius: 30px;"/>
+<img src="../cloud-native-foundations/blob/master/assets/images/lesson_4_icon.jpeg?raw-true" style="width: 200px; border-radius: 30px;"/>
 
 ## Lesson 4
 
@@ -111,7 +111,7 @@
 
 ---
 
-<img src="https://github.com/moisestech/cloud-native-foundations/blob/master/assets/images/lesson_5_icon.jpeg?raw-true"style="width: 200px; border-radius: 30px;"/>
+<img src="../cloud-native-foundations/assets/images/lesson_5_icon.jpeg?raw-true" style="width: 200px; border-radius: 30px;"/>
 
 ### Lesson 5
 
