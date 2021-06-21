@@ -22,3 +22,12 @@
 - [Guide to CleanText: A Python Package to Clean Raw Text Data](https://analyticsindiamag.com/guide-to-cleantext-a-python-package-to-clean-raw-text-data/), _analyticsindiamag_
 - [How to generate a response in a python flask project](https://koenwoortman.com/python-flask-return-json-response/), _KoenWoortMan_, Website
 - [How to incorporate logging into a python app:](https://levelup.gitconnected.com/tutorial-on-python-logging-ac5f21e0a00), _KoenWoortMan_, Website
+
+---
+
+## Refactor Todos
+
+- [The Complete Machine Learning Course with Python](https://www.udemy.com/course/machine-learning-course-with-python/?ranMID=39197&ranEAID=At6Vw*QceKk&ranSiteID=At6Vw.QceKk-AthbjHIIzaWgJw4hwhKdbw&LSNPUBID=At6Vw*QceKk&utm_source=aff-campaign&utm_medium=udemyads)
+- [2021 Complete Python Bootcamp From Zero to Hero in Python](https://www.udemy.com/course/complete-python-bootcamp/?ranMID=39197&ranEAID=At6Vw*QceKk&ranSiteID=At6Vw.QceKk-2wz8mhH7LSiCgDXnO9oe.w&LSNPUBID=At6Vw*QceKk&utm_source=aff-campaign&utm_medium=udemyads)
+- [Data Science : Master Machine Learning Without Coding](https://www.udemy.com/course/hands-on-machine-learning-without-writing-code/?ranMID=39197&ranEAID=At6Vw*QceKk&ranSiteID=At6Vw.QceKk-q.mYx_zj2g3S3SQhm5zxyw&LSNPUBID=At6Vw*QceKk&utm_source=aff-campaign&utm_medium=udemyads)
+- [The Flask Mega Tutorial Part 1](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
