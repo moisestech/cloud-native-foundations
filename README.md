@@ -67,11 +67,11 @@
     <summary><a href="" style="font-size: 1.5em;">Container Orchestration with Kubernetes</a></summary>
     How to use Docker to create an image and how to deploy an application to Kubernetes
 
-### Notes in Repo
+### Lesson 3 Notes in Repo
 
-[Docker]()  
-[Docker Commands]()  
-[VM to Containers]()
+[Docker](./cloud-app/docker/_docker.md)  
+[Docker Commands](./cloud-app/docker/docker_commands.md)  
+[VM to Containers](./cloud-app/docker/vm-to-containers.md)
 
 [Kubernetes]()  
 [Deploy Kubernetes]()  
