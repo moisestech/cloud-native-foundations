@@ -35,22 +35,16 @@
     <summary><a href="" style="font-size: 1.5em;">Architecture Consideration for Cloud Native Applications</a></summary>
     Monoliths and Microservices, their differences, and their pros and cons
 
-[1. Introduction]()
-[2. Design Considerations for Cloud-Native Applications]()
-[3. Monoliths and Microservices]()
-[4. Quizzes: Monoliths and Microservices]()
-[5. Trade-offs for Monoliths and Microservices]()
-[6. Quizzes: Trade-offs for Monoliths and Microservices]()
-[7. Exercise: Trade-offs for Monoliths and Microservices]()
-[8. Solution: Monoliths and Microservices]()
-[9. Best Practices For Application Deployment]()
-[10. Quizzes: Best Practices For Application Deployment]()
-[11. Exercise: Endpoints for Application Status]()
-[12. Solution: Endpoints for Application Status]()
-[13. Exercise: Application Logging]()
-[14. Solution: Application Logging]()
-[15. Edge Case: Amorphous Applications]()
-[16. Lesson Conclusion]()
+| LESSONS                                                     |                                                            |
+| ----------------------------------------------------------- | ---------------------------------------------------------- |
+| [1. Introduction]()                                         | [8. Solution: Monoliths and Microservices]()               |
+| [2. Design Considerations for Cloud-Native Applications]()  | [10. Quizzes: Best Practices For Application Deployment]() |
+| [3.3 — Docker for Application Packaging]()                  | [11. Exercise: Endpoints for Application Status]()         |
+| [3. Monoliths and Microservices]()                          | [12. Solution: Endpoints for Application Status]()         |
+| [4. Quizzes: Monoliths and Microservices]()                 | [13. Exercise: Application Logging]()                      |
+| [5. Trade-offs for Monoliths and Microservices]()           | [14. Solution: Application Logging]()                      |
+| [6. Quizzes: Trade-offs for Monoliths and Microservices]()  | [15. Edge Case: Amorphous Applications]()                  |
+| [7. Exercise: Trade-offs for Monoliths and Microservices]() | [16. Lesson Conclusion]()                                  |
 
 </details>
 
