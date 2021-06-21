@@ -84,12 +84,12 @@
 | [3.6 — Quizzes: Docker for Application Packaging]()                   | [3.20 — Quizzes: Kubernetes Resources]()                   |
 | [3.7 — Exercise: Docker for Application Packaging]()                  | [3.21 — Exercise: Kubernetes Resources]()                  |
 | [3.8 — Solution: Docker for Application Packaging]()                  | [3.22 — Solution: Kubernetes Resources]()                  |
-| [3.9 — Kubernetes - The Container Orchestrator Framework]()           | [3.24 — Quizzes: Declarative Kubernetes Manifests]()       |
-| [3.10 — Quizzes: Kubernetes - The Container Orchestrator Framework]() | [3.25 — Exercise: Declarative Kubernetes Manifests]()      |
-| [3.11 — Deploy Your First Kubernetes Cluster]()                       | [3.26 — Solution: Declarative Kubernetes Manifests]()      |
-| [3.12 — Kubeconfig]()                                                 | [3.27 — Edge Case: Failing Control Plane for Kubernetes]() |
-| [3.13 — Quizzes: Deploy Your First Kubernetes Cluster]()              | [3.28 — Lesson Review]()                                   |
-| [3.14 — Exercise: Deploy Your First Kubernetes Cluster]()             |                                                            |
+| [3.9 — Kubernetes - The Container Orchestrator Framework]()           | [3.23 — Declarative Kubernetes Manifests]()                |
+| [3.10 — Quizzes: Kubernetes - The Container Orchestrator Framework]() | [3.24 — Quizzes: Declarative Kubernetes Manifests]()       |
+| [3.11 — Deploy Your First Kubernetes Cluster]()                       | [3.25 — Exercise: Declarative Kubernetes Manifests]()      |
+| [3.12 — Kubeconfig]()                                                 | [3.26 — Solution: Declarative Kubernetes Manifests]()      |
+| [3.13 — Quizzes: Deploy Your First Kubernetes Cluster]()              | [3.27 — Edge Case: Failing Control Plane for Kubernetes]() |
+| [3.14 — Exercise: Deploy Your First Kubernetes Cluster]()             | [3.28 — Lesson Review]()                                   |
 
 </details>
 
