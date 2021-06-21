@@ -178,11 +178,6 @@ so, this program will help me to digest the cloud concepts much better and how c
 
 ## Python
 
-- [The Complete Machine Learning Course with Python](https://www.udemy.com/course/machine-learning-course-with-python/?ranMID=39197&ranEAID=At6Vw*QceKk&ranSiteID=At6Vw.QceKk-AthbjHIIzaWgJw4hwhKdbw&LSNPUBID=At6Vw*QceKk&utm_source=aff-campaign&utm_medium=udemyads)
-- [2021 Complete Python Bootcamp From Zero to Hero in Python](https://www.udemy.com/course/complete-python-bootcamp/?ranMID=39197&ranEAID=At6Vw*QceKk&ranSiteID=At6Vw.QceKk-2wz8mhH7LSiCgDXnO9oe.w&LSNPUBID=At6Vw*QceKk&utm_source=aff-campaign&utm_medium=udemyads)
-- [Data Science : Master Machine Learning Without Coding](https://www.udemy.com/course/hands-on-machine-learning-without-writing-code/?ranMID=39197&ranEAID=At6Vw*QceKk&ranSiteID=At6Vw.QceKk-q.mYx_zj2g3S3SQhm5zxyw&LSNPUBID=At6Vw*QceKk&utm_source=aff-campaign&utm_medium=udemyads)
-- [The Flask Mega Tutorial Part 1](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
-
 ## Docker
 
 ## Microservices
