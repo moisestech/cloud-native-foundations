@@ -172,6 +172,32 @@ For example, to get the template for a Deployment resource, we need to use the c
 
 ## Declarative Kubernetes Manifests Walkthrough
 
+<div class="_main--content-container--ILkoI"><div><div class="index--container--2OwOl"><div class="index--atom--lmAIo layout--content--3Smmq"><div class="ltr"><div class="index-module--markdown--2MdcR ureact-markdown "><h1 id="solution-declarative-kubernetes-manifests">Solution: Declarative Kubernetes Manifests</h1>
+</div></div><span></span></div></div></div><div><div class="index--container--2OwOl"><div class="index--atom--lmAIo layout--content--3Smmq"><div class="ltr"><div class="index-module--markdown--2MdcR ureact-markdown "><h2 id="declarative-approach">Declarative Approach</h2>
+<p>The declarative approach consists of using a full YAML definition of resources. As well, with this approach, you can perform directory level operations.</p>
+<p>Examine the manifests for all of the resources in the <a target="_blank" href="https://github.com/udacity/nd064_course_1/tree/main/exercises/manifests">exercises/manifests</a>.</p>
+<p>To create the resources, use the following command:</p>
+<pre><code>kubectl apply <span class="hljs-operator">-f</span> exercises/manifests/
+</code></pre><p>To inspect all the resources within the namespace, use the following command:</p>
+<pre><code class="lang-bash">kubectl get all -n demo
+
+NAME READY STATUS RESTARTS AGE
+pod/nginx-alpine-798fb5b8bb-8rzq9 1/1 Running 0 12s
+pod/nginx-alpine-798fb5b8bb-ms28l 1/1 Running 0 12s
+pod/nginx-alpine-798fb5b8bb-qgqb2 1/1 Running 0 12s
+
+NAME TYPE CLUSTER-IP EXTERNAL-IP PORT(S) AGE
+service/nginx-alpine ClusterIP 10.109.197.180 &lt;none&gt; 8111/TCP 18s
+
+NAME READY UP-TO-DATE AVAILABLE AGE
+deployment.apps/nginx-alpine 3/3 3 3 12s
+
+NAME DESIRED CURRENT READY AGE
+replicaset.apps/nginx-alpine-798fb5b8bb 3 3 3 12s
+</code></pre>
+
+---
+
 ## Manifest Summary
 
 This demo showcases how a Namespace and Deployment resource can be deployed using YAML manifests.
