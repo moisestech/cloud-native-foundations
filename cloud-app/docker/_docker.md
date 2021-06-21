@@ -4,6 +4,8 @@
 - Instead of virtualizing the hardware, containers only virtualize the OS (Operating System)
 - All apps and containers are ran by a single kernel
 
+---
+
 ## [What is a Container?](https://www.docker.com/resources/what-container)
 
 - A container is a standard unit of software that packages up code and all its dependencies so the application runs quickly and reliably from one computing environment to another.
@@ -17,6 +19,8 @@
    - The image is immutable which can be used to spin up multiple containers which is the actual software running in the real world.
 3. **Container**
    - Actual Software running in the real world.
+
+---
 
 ## Docker for Application Packaging
 
@@ -42,17 +46,9 @@ By default, Docker will create OCI (Open Container Initiative) compliant images.
 
 ---
 
-## Transitions from VMs to Containers
-
----
-
 ## [Docker for Application Packaging Exercise](https://classroom.udacity.com/nanodegrees/nd064-1/parts/30cb07da-8fd4-4438-a209-b3457adb5d82/modules/7b21dfa4-aac8-4d24-82c5-65325e6dc691/lessons/d9fa86b3-301d-4966-86f8-a2f34a5a7ca3/concepts/78ec0fc2-99c0-4abf-9310-85a2bb5dd42d)
 
 - [Solution](https://classroom.udacity.com/nanodegrees/nd064-1/parts/30cb07da-8fd4-4438-a209-b3457adb5d82/modules/7b21dfa4-aac8-4d24-82c5-65325e6dc691/lessons/d9fa86b3-301d-4966-86f8-a2f34a5a7ca3/concepts/ff34636a-df61-4ad4-9aa7-f9c73a25d485)
-
----
-
-## Useful Docker Commands
 
 ---
 
@@ -76,7 +72,7 @@ By default, Docker will create OCI (Open Container Initiative) compliant images.
 
 ## Resources
 
-## GitHub
+### GitHub
 
 - [CompleteIntroToContainers](https://btholt.github.io/complete-intro-to-containers/), _Bholt_, GitHub
 
@@ -112,6 +108,15 @@ By default, Docker will create OCI (Open Container Initiative) compliant images.
 ### Tools
 
 - [Labs Play with Docker](https://labs.play-with-docker.com/)
+
+---
+
+## Refactor Todo
+
+- [Free Docker Tutorial - Docker Tutorial for Beginners practical hands on -Devops](https://www.udemy.com/course/docker-for-beginners-tutorial-with-practical-example/?LSNPUBID=6atJFJ4NNe4)
+- [Free Web Development Tutorial - Continuous integration with Jenkins](https://www.udemy.com/course/continuous-integration-with-jenkins/?LSNPUBID=6atJFJ4NNe4)
+- [Free Jenkins Tutorial - DevOps Crash Course: CI/CD with Jenkins Pipelines Groovy DSL](https://www.udemy.com/course/devops-crash-course-cicd-with-jenkins-pipelines-groovy-dsl/?LSNPUBID=6atJFJ4NNe4)
+- [SUSE & Rancher Community](https://community.suse.com/share/F1pMnGSvpP0S8gMl?utm_source=manual)
 
 ---
 
