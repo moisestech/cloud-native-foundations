@@ -2,11 +2,14 @@
 
 ## Hi my name is Moises Sanabria. I am a passionate Machine Learning Engineer building Cloud Native End-to-End solutions. This repo documents my SUSE Cloud Native Foundations Udacity Scholarship using the Foam Note-taking Graph Editor
 
+<img src="./assets/images/logos/udacity_logo.png" width="200px" />
+<img src="./assets/images/logos/suse_logo.jpeg" width="200px"/>
+
 ---
 
 ## Lessons
 
-<img src="./assets/images/lesson_1_icon.jpeg?raw-true" width="200px" style="max-width: 200px; border-radius: 30px;"/>
+<img src="./assets/images/lessons/lesson_1_icon.jpeg?raw-true" width="200px" style="max-width: 200px; border-radius: 30px;"/>
 
 ## Lesson 1
 
@@ -18,20 +21,27 @@
 | -------------------------------------- | ------------------------------------------- |
 | [1.1 — Meet Your Instructor]()         | [1.5 — CNCF and Cloud-Native Tooling]()     |
 | [1.2 — Prequisites]()                  | [1.6 — Stakeholders]()                      |
-| [1.3 — Course Outline]()               | [1.7 — Tools, Envrionment & Dependencies]() |
+| [1.3 — Course Outline]()               | [1.7 — Tools, Environment & Dependencies]() |
 | [1.4 — Introduction to Cloud-Native]() | [1.8 — Recap]()                             |
 
 </details>
 
 ---
 
-<img src="./assets/images/lesson_2_icon.jpeg?raw-true" width="200px" style="max-width: 200px; border-radius: 30px;"/>
+<img src="./assets/images/lessons/lesson_2_icon.jpeg?raw-true" width="200px" style="max-width: 200px; border-radius: 30px;"/>
 
 ## Lesson 2
 
 <details>
     <summary><a href="" style="font-size: 1.5em;">Architecture Consideration for Cloud Native Applications</a></summary>
     Monoliths and Microservices, their differences, and their pros and cons
+
+## Notes in Repo
+
+[Docker]()
+[Kubernetes]()
+
+## Lessons Links to Udacity Course
 
 | LESSONS                                                     |                                                            |
 | ----------------------------------------------------------- | ---------------------------------------------------------- |
@@ -48,7 +58,7 @@
 
 ---
 
-<img src="./assets/images/lesson_3_icon.jpeg?raw-true" width="200px" style="max-width: 200px; border-radius: 30px;"/>
+<img src="./assets/images/lessons/lesson_3_icon.jpeg?raw-true" width="200px" style="max-width: 200px; border-radius: 30px;"/>
 
 ## Lesson 3
 
@@ -77,7 +87,7 @@
 
 ---
 
-<img src="./assets/images/lesson_4_icon.jpeg?raw-true" width="200px" style="max-width: 200px; border-radius: 30px;"/>
+<img src="./assets/images/lessons/lesson_4_icon.jpeg?raw-true" width="200px" style="max-width: 200px; border-radius: 30px;"/>
 
 ## Lesson 4
 
@@ -91,7 +101,7 @@
 
 ---
 
-<img src="./assets/images/lesson_5_icon.jpeg?raw-true" width="200px" style="max-width: 200px; border-radius: 30px;"/>
+<img src="./assets/images/lessons/lesson_5_icon.jpeg?raw-true" width="200px" style="max-width: 200px; border-radius: 30px;"/>
 
 ### Lesson 5
 
