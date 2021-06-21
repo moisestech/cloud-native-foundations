@@ -6,7 +6,7 @@
 
 ## Lessons
 
-<img src="../cloud-native-foundations/blob/master/assets/images/lesson_1_icon.jpeg?raw-true" style="width: 200px; border-radius: 30px;"/>
+<img src="./assets/images/lesson_1_icon.jpeg?raw-true" style="width: 200px; border-radius: 30px;"/>
 
 ## Lesson 1
 
@@ -14,20 +14,20 @@
     <summary><a href="" style="font-size: 1.5em;">Introduction to Cloud Native</a></summary>
     History of Cloud Native Architecture and intro to Cloud Native tools.
 
-    Meet Your Instructor
-    Prequisites
-    Course Outline
-    Introduction to Cloud-Native
-    CNCF and Cloud-Native Tooling
-    Stakeholders
-    Tools, Envrionment & Dependencies
-    Recap
+[Meet Your Instructor]()
+[Prequisites]()
+[Course Outline]()
+[Introduction to Cloud-Native]()
+[CNCF and Cloud-Native Tooling]()
+[Stakeholders]()
+[Tools, Envrionment & Dependencies]()
+[Recap]()
 
 </details>
 
 ---
 
-<img src="../cloud-native-foundations/blob/master/assets/images/lesson_2_icon.jpeg?raw-true" style="width: 200px; border-radius: 30px;"/>
+<img src="./assets/images/lesson_2_icon.jpeg?raw-true" style="width: 200px; border-radius: 30px;"/>
 
 ## Lesson 2
 
@@ -56,7 +56,7 @@
 
 ---
 
-<img src="../cloud-native-foundations/blob/master/assets/images/lesson_3_icon.jpeg?raw-true" style="width: 200px; border-radius: 30px;"/>
+<img src="../assets/images/lesson_3_icon.jpeg?raw-true" style="width: 200px; border-radius: 30px;"/>
 
 ## Lesson 3
 
@@ -97,7 +97,7 @@
 
 ---
 
-<img src="../cloud-native-foundations/blob/master/assets/images/lesson_4_icon.jpeg?raw-true" style="width: 200px; border-radius: 30px;"/>
+<img src="../assets/images/lesson_4_icon.jpeg?raw-true" style="width: 200px; border-radius: 30px;"/>
 
 ## Lesson 4
 
@@ -111,7 +111,7 @@
 
 ---
 
-<img src="../cloud-native-foundations/assets/images/lesson_5_icon.jpeg?raw-true" style="width: 200px; border-radius: 30px;"/>
+<img src="../assets/images/lesson_5_icon.jpeg?raw-true" style="width: 200px; border-radius: 30px;"/>
 
 ### Lesson 5
 
@@ -182,7 +182,7 @@ so, this program will help me to digest the cloud concepts much better and how c
 - [Free Jenkins Tutorial - DevOps Crash Course: CI/CD with Jenkins Pipelines Groovy DSL](https://www.udemy.com/course/devops-crash-course-cicd-with-jenkins-pipelines-groovy-dsl/?LSNPUBID=6atJFJ4NNe4)
 - [SUSE & Rancher Community](https://community.suse.com/share/F1pMnGSvpP0S8gMl?utm_source=manual)
 
-## Microserv
+## Microservices
 
 ## Free Classes
 
