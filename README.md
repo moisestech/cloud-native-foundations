@@ -6,7 +6,7 @@
 
 ## Lessons
 
-<img src="./assets/images/lesson_1_icon.jpeg?raw-true" style="width: 200px; border-radius: 30px;"/>
+<img src="./assets/images/lesson_1_icon.jpeg?raw-true" style="max-width: 200px; border-radius: 30px;"/>
 
 ## Lesson 1
 
@@ -27,7 +27,7 @@
 
 ---
 
-<img src="./assets/images/lesson_2_icon.jpeg?raw-true" style="width: 200px; border-radius: 30px;"/>
+<img src="./assets/images/lesson_2_icon.jpeg?raw-true" style="max-width: 200px; border-radius: 30px;"/>
 
 ## Lesson 2
 
@@ -56,7 +56,7 @@
 
 ---
 
-<img src="./assets/images/lesson_3_icon.jpeg?raw-true" style="width: 200px; border-radius: 30px;"/>
+<img src="./assets/images/lesson_3_icon.jpeg?raw-true" style="max-width: 200px; border-radius: 30px;"/>
 
 ## Lesson 3
 
@@ -64,43 +64,28 @@
     <summary><a href="" style="font-size: 1.5em;">Container Orchestration with Kubernetes</a></summary>
     How to use Docker to create an image and how to deploy an application to Kubernetes
 
-| LESSONS                                      |                                              |
-| -------------------------------------------- | -------------------------------------------- |
-| [3.1 — Introduction]()                       | [3.1 — Introduction]()                       |
-| [3.2 — Transitions from VMs to Containers]() | [3.2 — Transitions from VMs to Containers]() |
-| [3.3 — Docker for Application Packaging]()   | [3.3 — Docker for Application Packaging]()   |
-| [3.4 — Docker Walkthrough]()                 | [3.4 — Docker Walkthrough]()                 |
-
-[3.5 — Useful Docker Commands]()
-[3.6 — Quizzes: Docker for Application Packaging]()
-[3.7 — Exercise: Docker for Application Packaging]()
-[3.8 — Solution: Docker for Application Packaging]()
-[3.9 — Kubernetes - The Container Orchestrator Framework]()
-[3.10 — Quizzes: Kubernetes - The Container Orchestrator Framework]()
-[3.11 — Deploy Your First Kubernetes Cluster]()
-[3.12 — Kubeconfig]()
-[3.13 — Quizzes: Deploy Your First Kubernetes Cluster]()
-[3.14 — Exercise: Deploy Your First Kubernetes Cluster]()
-[3.15. — Solution: Deploy Your First Kubernetes Cluster]()
-[3.16. — Kubernetes Resources Part 1]()
-[3.17. — Kubernetes Resources Part 2]()
-[3.18. — Kubernetes Resources Part 3]()
-[3.19. — Useful kubectl Commands]()
-[3.20. — Quizzes: Kubernetes Resources]()
-[3.21. — Exercise: Kubernetes Resources]()
-[3.22. — Solution: Kubernetes Resources]()
-[3.23. — Declarative Kubernetes Manifests]()
-[3.24. — Quizzes: Declarative Kubernetes Manifests]()
-[3.25. — Exercise: Declarative Kubernetes Manifests]()
-[3.26. — Solution: Declarative Kubernetes Manifests]()
-[3.27. — Edge Case: Failing Control Plane for Kubernetes]()
-[3.28. — Lesson Review]()
+| LESSONS                                                               |                                                             |
+| --------------------------------------------------------------------- | ----------------------------------------------------------- |
+| [3.1 — Introduction]()                                                | [3.15. — Solution: Deploy Your First Kubernetes Cluster]()  |
+| [3.2 — Transitions from VMs to Containers]()                          | [3.16. — Kubernetes Resources Part 1]()                     |
+| [3.3 — Docker for Application Packaging]()                            | [3.17. — Kubernetes Resources Part 2]()                     |
+| [3.4 — Docker Walkthrough]()                                          | [3.18. — Kubernetes Resources Part 3]()                     |
+| [3.5 — Useful Docker Commands]()                                      | [3.19. — Useful kubectl Commands]()                         |
+| [3.6 — Quizzes: Docker for Application Packaging]()                   | [3.20. — Quizzes: Kubernetes Resources]()                   |
+| [3.7 — Exercise: Docker for Application Packaging]()                  | [3.22. — Solution: Kubernetes Resources]()                  |
+| [3.8 — Solution: Docker for Application Packaging]()                  | [3.24. — Quizzes: Declarative Kubernetes Manifests]()       |
+| [3.9 — Kubernetes - The Container Orchestrator Framework]()           | [3.25. — Exercise: Declarative Kubernetes Manifests]()      |
+| [3.10 — Quizzes: Kubernetes - The Container Orchestrator Framework]() | [3.26. — Solution: Declarative Kubernetes Manifests]()      |
+| [3.11 — Deploy Your First Kubernetes Cluster]()                       | [3.27. — Edge Case: Failing Control Plane for Kubernetes]() |
+| [3.12 — Kubeconfig]()                                                 | [3.28. — Lesson Review]()                                   |
+| [3.13 — Quizzes: Deploy Your First Kubernetes Cluster]()              |                                                             |
+| [3.14 — Exercise: Deploy Your First Kubernetes Cluster]()             |                                                             |
 
 </details>
 
 ---
 
-<img src="./assets/images/lesson_4_icon.jpeg?raw-true" style="width: 200px; border-radius: 30px;"/>
+<img src="./assets/images/lesson_4_icon.jpeg?raw-true" style="max-width: 200px; border-radius: 30px;"/>
 
 ## Lesson 4
 
@@ -114,7 +99,7 @@
 
 ---
 
-<img src="./assets/images/lesson_5_icon.jpeg?raw-true" style="width: 200px; border-radius: 30px;"/>
+<img src="./assets/images/lesson_5_icon.jpeg?raw-true" style="max-width: 200px; border-radius: 30px;"/>
 
 ### Lesson 5
 
