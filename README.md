@@ -56,7 +56,7 @@
 
 ---
 
-<img src="../assets/images/lesson_3_icon.jpeg?raw-true" style="width: 200px; border-radius: 30px;"/>
+<img src="./assets/images/lesson_3_icon.jpeg?raw-true" style="width: 200px; border-radius: 30px;"/>
 
 ## Lesson 3
 
@@ -64,10 +64,13 @@
     <summary><a href="" style="font-size: 1.5em;">Container Orchestration with Kubernetes</a></summary>
     How to use Docker to create an image and how to deploy an application to Kubernetes
 
-[3.1 — Introduction]()
-[3.2 — Transitions from VMs to Containers]()
-[3.3 — Docker for Application Packaging]()
-[3.4 — Docker Walkthrough]()
+| LESSONS                                      |                                              |
+| -------------------------------------------- | -------------------------------------------- |
+| [3.1 — Introduction]()                       | [3.1 — Introduction]()                       |
+| [3.2 — Transitions from VMs to Containers]() | [3.2 — Transitions from VMs to Containers]() |
+| [3.3 — Docker for Application Packaging]()   | [3.3 — Docker for Application Packaging]()   |
+| [3.4 — Docker Walkthrough]()                 | [3.4 — Docker Walkthrough]()                 |
+
 [3.5 — Useful Docker Commands]()
 [3.6 — Quizzes: Docker for Application Packaging]()
 [3.7 — Exercise: Docker for Application Packaging]()
