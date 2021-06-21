@@ -14,14 +14,12 @@
     <summary><a href="" style="font-size: 1.5em;">Introduction to Cloud Native</a></summary>
     History of Cloud Native Architecture and intro to Cloud Native tools.
 
-[Meet Your Instructor]()
-[Prequisites]()
-[Course Outline]()
-[Introduction to Cloud-Native]()
-[CNCF and Cloud-Native Tooling]()
-[Stakeholders]()
-[Tools, Envrionment & Dependencies]()
-[Recap]()
+| LESSONS                                |                                             |
+| -------------------------------------- | ------------------------------------------- |
+| [1.1 — Meet Your Instructor]()         | [1.5 — CNCF and Cloud-Native Tooling]()     |
+| [1.2 — Prequisites]()                  | [1.6 — Stakeholders]()                      |
+| [1.3 — Course Outline]()               | [1.7 — Tools, Envrionment & Dependencies]() |
+| [1.4 — Introduction to Cloud-Native]() | [1.8 — Recap]()                             |
 
 </details>
 
