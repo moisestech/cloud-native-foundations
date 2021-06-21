@@ -1,9 +1,9 @@
 # Cloud Native Foundations
 
-## Hi my name is Moises Sanabria. I am a passionate Machine Learning Engineer building Cloud Native End-to-End solutions. This repo documents my SUSE Cloud Native Foundations Udacity Scholarship using the Foam Note-taking Graph Editor
-
 <img src="./assets/images/logos/udacity_logo.png" width="200px" />
 <img src="./assets/images/logos/suse_logo.jpeg" width="200px"/>
+
+## Hi my name is Moises Sanabria. I am a passionate Machine Learning Engineer building Cloud Native End-to-End solutions. This repo documents my SUSE Cloud Native Foundations Udacity Scholarship using the Foam Note-taking Graph Editor
 
 ---
 
@@ -36,12 +36,13 @@
     <summary><a href="" style="font-size: 1.5em;">Architecture Consideration for Cloud Native Applications</a></summary>
     Monoliths and Microservices, their differences, and their pros and cons
 
-## Notes in Repo
+### Notes in Repo
 
-[Docker]()
-[Kubernetes]()
+[Monoliths]()  
+[Microservices]()  
+[App Deployment]()
 
-## Lessons Links to Udacity Course
+### Lessons Links to Udacity Course
 
 | LESSONS                                                     |                                                            |
 | ----------------------------------------------------------- | ---------------------------------------------------------- |
@@ -66,6 +67,13 @@
     <summary><a href="" style="font-size: 1.5em;">Container Orchestration with Kubernetes</a></summary>
     How to use Docker to create an image and how to deploy an application to Kubernetes
 
+### Notes in Repo
+
+[Docker]()  
+[Kubernetes]()
+
+### Lessons Links to Udacity Course
+
 | LESSONS                                                               |                                                            |
 | --------------------------------------------------------------------- | ---------------------------------------------------------- |
 | [3.1 — Introduction]()                                                | [3.15 — Solution: Deploy Your First Kubernetes Cluster]()  |
@@ -74,13 +82,13 @@
 | [3.4 — Docker Walkthrough]()                                          | [3.18 — Kubernetes Resources Part 3]()                     |
 | [3.5 — Useful Docker Commands]()                                      | [3.19 — Useful kubectl Commands]()                         |
 | [3.6 — Quizzes: Docker for Application Packaging]()                   | [3.20 — Quizzes: Kubernetes Resources]()                   |
-| [3.7 — Exercise: Docker for Application Packaging]()                  | [3.22 — Solution: Kubernetes Resources]()                  |
-| [3.8 — Solution: Docker for Application Packaging]()                  | [3.24 — Quizzes: Declarative Kubernetes Manifests]()       |
-| [3.9 — Kubernetes - The Container Orchestrator Framework]()           | [3.25 — Exercise: Declarative Kubernetes Manifests]()      |
-| [3.10 — Quizzes: Kubernetes - The Container Orchestrator Framework]() | [3.26 — Solution: Declarative Kubernetes Manifests]()      |
-| [3.11 — Deploy Your First Kubernetes Cluster]()                       | [3.27 — Edge Case: Failing Control Plane for Kubernetes]() |
-| [3.12 — Kubeconfig]()                                                 | [3.28 — Lesson Review]()                                   |
-| [3.13 — Quizzes: Deploy Your First Kubernetes Cluster]()              |                                                            |
+| [3.7 — Exercise: Docker for Application Packaging]()                  | [3.21 — Exercise: Kubernetes Resources]()                  |
+| [3.8 — Solution: Docker for Application Packaging]()                  | [3.22 — Solution: Kubernetes Resources]()                  |
+| [3.9 — Kubernetes - The Container Orchestrator Framework]()           | [3.24 — Quizzes: Declarative Kubernetes Manifests]()       |
+| [3.10 — Quizzes: Kubernetes - The Container Orchestrator Framework]() | [3.25 — Exercise: Declarative Kubernetes Manifests]()      |
+| [3.11 — Deploy Your First Kubernetes Cluster]()                       | [3.26 — Solution: Declarative Kubernetes Manifests]()      |
+| [3.12 — Kubeconfig]()                                                 | [3.27 — Edge Case: Failing Control Plane for Kubernetes]() |
+| [3.13 — Quizzes: Deploy Your First Kubernetes Cluster]()              | [3.28 — Lesson Review]()                                   |
 | [3.14 — Exercise: Deploy Your First Kubernetes Cluster]()             |                                                            |
 
 </details>
