@@ -194,7 +194,14 @@ Explore Kubernetes features:
 
 ### Video
 
-- [MicroServices, RabbitMQ, CQRS and Event sourcing with Node](https://www.youtube.com/watch?v=XrkNwwVLyOY). YouTube
-- [Microservices + Events + Dockers = A Perfect Trio](https://www.youtube.com/watch?v=sSm2dRarhPo), YouTube
-- [Design Patterns: Why Event Sourcing?](https://www.youtube.com/watch?v=rUDN40rdly8), YouTube
-- [Just Me & OpenSource](https://www.youtube.com/c/wenkatn-justmeandopensource/playlists), _Just Me and Opensource_, YouTube
+- [MicroServices, RabbitMQ, CQRS and Event sourcing with Node](https://www.youtube.com/watch?v=XrkNwwVLyOY). **YouTube**
+- [Microservices + Events + Dockers = A Perfect Trio](https://www.youtube.com/watch?v=sSm2dRarhPo), **YouTube**
+- [Design Patterns: Why Event Sourcing?](https://www.youtube.com/watch?v=rUDN40rdly8), **YouTube**
+- [Just Me & OpenSource](https://www.youtube.com/c/wenkatn-justmeandopensource/playlists), **YouTube**, _Just Me and Opensource_
+
+### More Resources
+
+- [kubectl Cheat Sheet](https://kubernetes.io/docs/reference/kubectl/cheatsheet/), **Website**, _Kubernetes_
+- [Kubernetes 101: Pods, Nodes, Containers, and Clusters](https://medium.com/google-cloud/kubernetes-101-pods-nodes-containers-and-clusters-c1509e409e16)
+- [Build Kubernetes-read applications on your desktop](docker.com/products/kubernetes)
+- [Cloud OnBoard: Getting Started with Google Kubernetes Engine](https://cloudonair.withgoogle.com/events/cloud-onboard-gke?utm_source=google&utm_medium=blog&utm_campaign=FY21-Q2-northam-NA1132-onlineevent-er-CloudOnBoardGKE&utm_content=blog)
