@@ -196,7 +196,7 @@ Explore Kubernetes features:
 - [kubectl Cheat Sheet](https://kubernetes.io/docs/reference/kubectl/cheatsheet/), **Website**, _Kubernetes_
 - [Cloud OnBoard: Getting Started with Google Kubernetes Engine](https://cloudonair.withgoogle.com/events/cloud-onboard-gke?utm_source=google&utm_medium=blog), _website_, _CloudOnAir_
 
-### Video
+### 🎥 Video Blogs
 
 - [MicroServices, RabbitMQ, CQRS and Event sourcing with Node](https://www.youtube.com/watch?v=XrkNwwVLyOY). **YouTube**
 - [Microservices + Events + Dockers = A Perfect Trio](https://www.youtube.com/watch?v=sSm2dRarhPo), **YouTube**
