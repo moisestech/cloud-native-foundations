@@ -87,7 +87,7 @@ By default, Docker will create OCI (Open Container Initiative) compliant images.
 
 - [CompleteIntroToContainers](https://btholt.github.io/complete-intro-to-containers/), **GitHub**, _Bholt_
 
-### Courses
+### 🎓 Courses
 
 - [Docker For The Absolute Beginner](https://kodekloud.com/p/docker-for-the-absolute-beginner-hands-on), **Website**, _KodeKloud_
 - [Docker for Beginners: Full Free Course](https://www.youtube.com/watch?v=zJ6WbK9zFpI), **YouTube**, _FreeCodeCamp_
