@@ -19,7 +19,7 @@
 - [2021 Complete Python Bootcamp From Zero to Hero in Python](https://www.udemy.com/course/complete-python-bootcamp/?ranMID=39197&ranEAID=At6Vw*QceKk&ranSiteID=At6Vw.QceKk-2wz8mhH7LSiCgDXnO9oe.w&LSNPUBID=At6Vw*QceKk&utm_source=aff-campaign&utm_medium=udemyads), _Udemy_, Website
 - [Data Science : Master Machine Learning Without Coding](https://www.udemy.com/course/hands-on-machine-learning-without-writing-code/?ranMID=39197&ranEAID=At6Vw*QceKk&ranSiteID=At6Vw.QceKk-q.mYx_zj2g3S3SQhm5zxyw&LSNPUBID=At6Vw*QceKk&utm_source=aff-campaign&utm_medium=udemyads), _Udemy_, Website
 
-## Blogs
+## 📝 Blogs
 
 - [25 Git Repositories Every Python Developer Should Know](https://link.medium.com/jgt5M1xp8gb), Medium
 - [Guide to CleanText: A Python Package to Clean Raw Text Data](https://analyticsindiamag.com/guide-to-cleantext-a-python-package-to-clean-raw-text-data/), _analyticsindiamag_
