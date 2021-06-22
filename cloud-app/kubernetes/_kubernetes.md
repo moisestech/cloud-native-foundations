@@ -174,6 +174,11 @@ Explore Kubernetes features:
 - [Kubernetes and Docker: The Conatiner Masterclass](https://www.packtpub.com/product/kubernetes-and-docker-the-container-masterclass-video/9781801075084), _Pack_, Website
 - [Lightweight Kubernetes with K3s](https://www.oreilly.com/library/view/lightweight-kubernetes-with/9781838821173/), _O'Reilly Online Learning_, Website
 
+### Github
+
+- [Microservices Basics](https://github.com/Eifel42/microservices-basics), _GitHub_, Eifel42
+- [Kubernetes The Hard Way](), _GitHub_, KelseyHighTower
+
 ### Books
 
 - [Mastering Kubernetes](https://subscription.packtpub.com/book/application_development/9781788999786), _Pack_, Website
@@ -181,16 +186,13 @@ Explore Kubernetes features:
 
 ### Blog Post
 
+- - [Build Kubernetes-read applications on your desktop](docker.com/products/kubernetes), **Website**, _Kubernetes_
 - [Kubernetes 101: Pods, Nodes, Containers, and Clusters](https://medium.com/google-cloud/kubernetes-101-pods-nodes-containers-and-clusters-c1509e409e16), _Google Clouds_, Medium
 - [MiniKube, Kubeadm, Kind, how to start with Kubernetes?](https://www.padok.fr/en/blog/minikube-kubeadm-kind-k3s),_Padok_, Website
 - [Learn Kubernetes Basics](https://kubernetes.io/docs/tutorials/kubernetes-basics/), _Kubernetes_, Website
 - [Pod vs Node in Kubernetes](https://medium.com/developerworld/pod-vs-node-in-kubernetes-26c858988f94), _DevWorld_, Medium
 - [Kubernetes Tutorial: Your Complete Guide to Deploying an App on AWS with Postman](https://medium.com/better-practices/kubernetes-tutorial-b6f302a67426), _BetterPractices_, Medium
-
-### Github
-
-- [Microservices Basics](https://github.com/Eifel42/microservices-basics), _GitHub_, Eifel42
-- [Kubernetes The Hard Way](), _GitHub_, KelseyHighTower
+- [Kubernetes 101: Pods, Nodes, Containers, and Clusters](https://medium.com/google-cloud/kubernetes-101-pods-nodes-containers-and-clusters-c1509e409e16), **Medium**, _Google Cloud_
 
 ### Video
 
@@ -202,6 +204,5 @@ Explore Kubernetes features:
 ### More Resources
 
 - [kubectl Cheat Sheet](https://kubernetes.io/docs/reference/kubectl/cheatsheet/), **Website**, _Kubernetes_
-- [Kubernetes 101: Pods, Nodes, Containers, and Clusters](https://medium.com/google-cloud/kubernetes-101-pods-nodes-containers-and-clusters-c1509e409e16)
-- [Build Kubernetes-read applications on your desktop](docker.com/products/kubernetes)
-- [Cloud OnBoard: Getting Started with Google Kubernetes Engine](https://cloudonair.withgoogle.com/events/cloud-onboard-gke?utm_source=google&utm_medium=blog&utm_campaign=FY21-Q2-northam-NA1132-onlineevent-er-CloudOnBoardGKE&utm_content=blog)
+
+- [Cloud OnBoard: Getting Started with Google Kubernetes Engine](https://cloudonair.withgoogle.com/events/cloud-onboard-gke?utm_source=google&utm_medium=blog), _website_, _CloudOnAir_
