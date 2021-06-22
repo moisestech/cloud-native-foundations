@@ -164,15 +164,15 @@ Explore Kubernetes features:
 
 ## Courses
 
-- [SUSE & Rancher Community Dev Workflows, and k3s](https://community.suse.com/all-courses), _Rancher Community_, Website
-- [Getting Started with Google Kubernetes Engine](https://www.coursera.org/learn/google-kubernetes-engine), _Coursera_, Website
-- [Kubernetes for developers](https://www.udemy.com/share/101BQaAkYZc19WQ3w=/), _Udemy_, Website
-- [Kubernetes For Container Orchestration](https://www.youtube.com/watch?v=Iz6jwltiNyY), _Eudereka_, Website
-- [100 Days of Kubernetes](https://www.youtube.com/playlist?list=PLWnens-FYbIpUpmiiNYfkqTZQUYppGMFV), _Anais Urlichs_, YouTube
-- [Intro to Containers w/ Docker, Kubernetes & OpenShit](https://www.coursera.org/learn/ibm-containers-docker-kubernetes-openshift), _IBM_, Coursera
-- [SUSE Academy Class](https://community.suse.com/share/F1pMnGSvpP0S8gMl?utm_source=manual), _Academy Classes_, Website
-- [Kubernetes and Docker: The Conatiner Masterclass](https://www.packtpub.com/product/kubernetes-and-docker-the-container-masterclass-video/9781801075084), _Pack_, Website
-- [Lightweight Kubernetes with K3s](https://www.oreilly.com/library/view/lightweight-kubernetes-with/9781838821173/), _O'Reilly Online Learning_, Website
+- [SUSE & Rancher Community Dev Workflows, and k3s](https://community.suse.com/all-courses), **Website**, _Rancher Community_
+- [Getting Started with Google Kubernetes Engine](https://www.coursera.org/learn/google-kubernetes-engine), **Website**, _Coursera_
+- [Kubernetes for developers](https://www.udemy.com/share/101BQaAkYZc19WQ3w=/), **Website**, _Udemy_
+- [Kubernetes For Container Orchestration](https://www.youtube.com/watch?v=Iz6jwltiNyY), **Website**, _Eudereka_
+- [100 Days of Kubernetes](https://www.youtube.com/playlist?list=PLWnens-FYbIpUpmiiNYfkqTZQUYppGMFV), **YouTube**, _Anais Urlichs_
+- [Intro to Containers w/ Docker, Kubernetes & OpenShit](https://www.coursera.org/learn/ibm-containers-docker-kubernetes-openshift), **Coursera**, _IBM_
+- [SUSE Academy Class](https://community.suse.com/share/F1pMnGSvpP0S8gMl?utm_source=manual), **Website**, _Academy Classes_
+- [Kubernetes and Docker: The Conatiner Masterclass](https://www.packtpub.com/product/kubernetes-and-docker-the-container-masterclass-video/9781801075084), **Website**, _Pack_
+- [Lightweight Kubernetes with K3s](https://www.oreilly.com/library/view/lightweight-kubernetes-with/9781838821173/), **Website**, _O'Reilly Online Learning_
 
 ### Github
 
@@ -193,6 +193,8 @@ Explore Kubernetes features:
 - [Pod vs Node in Kubernetes](https://medium.com/developerworld/pod-vs-node-in-kubernetes-26c858988f94), **Medium**, _DevWorld_
 - [Kubernetes Tutorial: Your Complete Guide to Deploying an App on AWS with Postman](https://medium.com/better-practices/kubernetes-tutorial-b6f302a67426), **Medium**, _BetterPractices_
 - [Kubernetes 101: Pods, Nodes, Containers, and Clusters](https://medium.com/google-cloud/kubernetes-101-pods-nodes-containers-and-clusters-c1509e409e16), **Medium**, _Google Cloud_
+- [kubectl Cheat Sheet](https://kubernetes.io/docs/reference/kubectl/cheatsheet/), **Website**, _Kubernetes_
+- [Cloud OnBoard: Getting Started with Google Kubernetes Engine](https://cloudonair.withgoogle.com/events/cloud-onboard-gke?utm_source=google&utm_medium=blog), _website_, _CloudOnAir_
 
 ### Video
 
@@ -200,9 +202,3 @@ Explore Kubernetes features:
 - [Microservices + Events + Dockers = A Perfect Trio](https://www.youtube.com/watch?v=sSm2dRarhPo), **YouTube**
 - [Design Patterns: Why Event Sourcing?](https://www.youtube.com/watch?v=rUDN40rdly8), **YouTube**
 - [Just Me & OpenSource](https://www.youtube.com/c/wenkatn-justmeandopensource/playlists), **YouTube**, _Just Me and Opensource_
-
-### More Resources
-
-- [kubectl Cheat Sheet](https://kubernetes.io/docs/reference/kubectl/cheatsheet/), **Website**, _Kubernetes_
-
-- [Cloud OnBoard: Getting Started with Google Kubernetes Engine](https://cloudonair.withgoogle.com/events/cloud-onboard-gke?utm_source=google&utm_medium=blog), _website_, _CloudOnAir_
