@@ -108,7 +108,7 @@ By default, Docker will create OCI (Open Container Initiative) compliant images.
 - [Build your Python image](https://docs.docker.com/language/python/build-images/), **Website**, _Docker Docs_
 - [Dockerize You Data Science Project, A Quick Guide](https://pub.towardsai.net/how-to-dockerize-your-data-science-project-a-quick-guide-b6fa2d6a8ba1), **Medium**, _TowardsAI_
 
-### Video Blog
+### 🎥 Video Blogs
 
 - [Exercise 1: Docker for Application Packaging](https://www.youtube.com/watch?v=zcENH_nvPCU&index=3), **YouTube**, _MLOps Ninja_
 - [Docker in 100 Second](https://www.youtube.com/watch?v=Gjnup-PuquQ), _Fireship_, **YouTube**
