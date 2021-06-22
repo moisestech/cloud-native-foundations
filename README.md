@@ -167,8 +167,6 @@ so, this program will help me to digest the cloud concepts much better and how c
 
 ## DevOps
 
-- [DevOps Prerequisites Course - Getting started with DevOps](https://www.youtube.com/watch?v=Wvf0mBNGjXY)
-
 ## Kubernetes
 
 ## Python
