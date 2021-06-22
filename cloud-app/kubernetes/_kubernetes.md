@@ -176,22 +176,22 @@ Explore Kubernetes features:
 
 ### Github
 
-- [Microservices Basics](https://github.com/Eifel42/microservices-basics), _GitHub_, Eifel42
-- [Kubernetes The Hard Way](), _GitHub_, KelseyHighTower
+- [Microservices Basics](https://github.com/Eifel42/microservices-basics), **GitHub**, _Eifel42_
+- [Kubernetes The Hard Way](), **GitHub**, _KelseyHighTower_
 
 ### Books
 
-- [Mastering Kubernetes](https://subscription.packtpub.com/book/application_development/9781788999786), _Pack_, Website
-- [The Kubernetes Handbook](https://www.freecodecamp.org/news/the-kubernetes-handbook/), _freeCodeCamp_, Website
+- [Mastering Kubernetes](https://subscription.packtpub.com/book/application_development/9781788999786), **Website**, _Pack_
+- [The Kubernetes Handbook](https://www.freecodecamp.org/news/the-kubernetes-handbook/), **Website**, _freeCodeCamp_
 
 ### Blog Post
 
 - - [Build Kubernetes-read applications on your desktop](docker.com/products/kubernetes), **Website**, _Kubernetes_
-- [Kubernetes 101: Pods, Nodes, Containers, and Clusters](https://medium.com/google-cloud/kubernetes-101-pods-nodes-containers-and-clusters-c1509e409e16), _Google Clouds_, Medium
-- [MiniKube, Kubeadm, Kind, how to start with Kubernetes?](https://www.padok.fr/en/blog/minikube-kubeadm-kind-k3s),_Padok_, Website
-- [Learn Kubernetes Basics](https://kubernetes.io/docs/tutorials/kubernetes-basics/), _Kubernetes_, Website
-- [Pod vs Node in Kubernetes](https://medium.com/developerworld/pod-vs-node-in-kubernetes-26c858988f94), _DevWorld_, Medium
-- [Kubernetes Tutorial: Your Complete Guide to Deploying an App on AWS with Postman](https://medium.com/better-practices/kubernetes-tutorial-b6f302a67426), _BetterPractices_, Medium
+- [Kubernetes 101: Pods, Nodes, Containers, and Clusters](https://medium.com/google-cloud/kubernetes-101-pods-nodes-containers-and-clusters-c1509e409e16), **Medium**, _Google Clouds_
+- [MiniKube, Kubeadm, Kind, how to start with Kubernetes?](https://www.padok.fr/en/blog/minikube-kubeadm-kind-k3s), **Website**, _Padok_
+- [Learn Kubernetes Basics](https://kubernetes.io/docs/tutorials/kubernetes-basics/), **Website**, _Kubernetes_
+- [Pod vs Node in Kubernetes](https://medium.com/developerworld/pod-vs-node-in-kubernetes-26c858988f94), **Medium**, _DevWorld_
+- [Kubernetes Tutorial: Your Complete Guide to Deploying an App on AWS with Postman](https://medium.com/better-practices/kubernetes-tutorial-b6f302a67426), **Medium**, _BetterPractices_
 - [Kubernetes 101: Pods, Nodes, Containers, and Clusters](https://medium.com/google-cloud/kubernetes-101-pods-nodes-containers-and-clusters-c1509e409e16), **Medium**, _Google Cloud_
 
 ### Video
