@@ -162,7 +162,7 @@ Explore Kubernetes features:
 
 - [SUSE & Racher Community](https://community.suse.com/share/F1pMnGSvpP0S8gMl?utm_source=manual), _Community Suse_, Website
 
-## Courses
+## 🎓 Courses
 
 - [SUSE & Rancher Community Dev Workflows, and k3s](https://community.suse.com/all-courses), **Website**, _Rancher Community_
 - [Getting Started with Google Kubernetes Engine](https://www.coursera.org/learn/google-kubernetes-engine), **Website**, _Coursera_
@@ -186,7 +186,7 @@ Explore Kubernetes features:
 
 ### Blog Post
 
-- - [Build Kubernetes-read applications on your desktop](docker.com/products/kubernetes), **Website**, _Kubernetes_
+- [Build Kubernetes-read applications on your desktop](docker.com/products/kubernetes), **Website**, _Kubernetes_
 - [Kubernetes 101: Pods, Nodes, Containers, and Clusters](https://medium.com/google-cloud/kubernetes-101-pods-nodes-containers-and-clusters-c1509e409e16), **Medium**, _Google Clouds_
 - [MiniKube, Kubeadm, Kind, how to start with Kubernetes?](https://www.padok.fr/en/blog/minikube-kubeadm-kind-k3s), **Website**, _Padok_
 - [Learn Kubernetes Basics](https://kubernetes.io/docs/tutorials/kubernetes-basics/), **Website**, _Kubernetes_
