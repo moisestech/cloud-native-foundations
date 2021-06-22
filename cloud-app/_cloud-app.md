@@ -102,7 +102,8 @@ Using multiple containers and managing them can be quite hectic so you can use a
 ## Courses
 
 - [IBM CLoud Native](https://cloudnative101.dev/course-overview/)
-- [Cloud Marathon](https://cloudacademy.com/promos/marathon/), _CloudAcademy_
+- [Cloud Marathon](https://cloudacademy.com/promos/marathon/), **Website**, _CloudAcademy_
+- [DevOps Prerequisites Course - Getting started with DevOps](https://www.youtube.com/watch?v=Wvf0mBNGjXY), **YouTube**
 
 ### Blog Post
 
