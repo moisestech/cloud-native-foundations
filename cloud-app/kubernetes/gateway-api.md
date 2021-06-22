@@ -2,4 +2,6 @@
 
 ## Resources
 
-[The Kubernetes Gateway API: Introduciton](https://youtu.be/GiFQNevrxYA)
+### Video Blog
+
+- [The Kubernetes Gateway API: Introduction](https://youtu.be/GiFQNevrxYA), **YouTube**,
