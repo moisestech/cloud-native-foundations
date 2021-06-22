@@ -164,9 +164,10 @@ Explore Kubernetes features:
 
 ## Courses
 
-- [Getting Started with Google Kubernetes Engine](https://www.coursera.org/learn/google-kubernetes-engine), _Coursera_
-- [Kubernetes for developers](https://www.udemy.com/share/101BQaAkYZc19WQ3w=/), _Udamy_
-- [Kubernetes For Container Orchestration](https://www.youtube.com/watch?v=Iz6jwltiNyY), _Eudereka_
+- [SUSE & Rancher Community Dev Workflows, and k3s](https://community.suse.com/all-courses), _Rancher Community_, Website
+- [Getting Started with Google Kubernetes Engine](https://www.coursera.org/learn/google-kubernetes-engine), _Coursera_, Website
+- [Kubernetes for developers](https://www.udemy.com/share/101BQaAkYZc19WQ3w=/), _Udemy_, Website
+- [Kubernetes For Container Orchestration](https://www.youtube.com/watch?v=Iz6jwltiNyY), _Eudereka_, Website
 - [100 Days of Kubernetes](https://www.youtube.com/playlist?list=PLWnens-FYbIpUpmiiNYfkqTZQUYppGMFV), _Anais Urlichs_, YouTube
 - [Intro to Containers w/ Docker, Kubernetes & OpenShit](https://www.coursera.org/learn/ibm-containers-docker-kubernetes-openshift), _IBM_, Coursera
 - [SUSE Academy Class](https://community.suse.com/share/F1pMnGSvpP0S8gMl?utm_source=manual), _Academy Classes_, Website
@@ -183,6 +184,8 @@ Explore Kubernetes features:
 - [Kubernetes 101: Pods, Nodes, Containers, and Clusters](https://medium.com/google-cloud/kubernetes-101-pods-nodes-containers-and-clusters-c1509e409e16), _Google Clouds_, Medium
 - [MiniKube, Kubeadm, Kind, how to start with Kubernetes?](https://www.padok.fr/en/blog/minikube-kubeadm-kind-k3s),_Padok_, Website
 - [Learn Kubernetes Basics](https://kubernetes.io/docs/tutorials/kubernetes-basics/), _Kubernetes_, Website
+- [Pod vs Node in Kubernetes](https://medium.com/developerworld/pod-vs-node-in-kubernetes-26c858988f94), _DevWorld_, Medium
+- [Kubernetes Tutorial: Your Complete Guide to Deploying an App on AWS with Postman](https://medium.com/better-practices/kubernetes-tutorial-b6f302a67426), _BetterPractices_, Medium
 
 ### Github
 
