@@ -134,6 +134,7 @@ Using multiple containers and managing them can be quite hectic so you can use a
 - <DT><A HREF="https://github.com/alexellis/k3sup" ADD_DATE="1624502216" ICON="" >alexellis/k3sup: bootstrap Kubernetes with k3s over SSH < 1 min 🚀</A>
 - <DT><A HREF="https://github.com/rdotjain/cnf" ADD_DATE="1624502216" ICON="" >rdotjain/cnf</A>
 - <DT><A HREF="https://awsreskill.com/signup?source=cd5e5765&medium=direct" ADD_DATE="1624502216" ICON="" >Signup - re:Skill</A>
+- <DT><A HREF="https://dzone.com/articles/microservices-architecture-breaking-the-monolith?fromrel=true" ADD_DATE="1624502216" ICON="" >Microservices Architecture: Breaking the Monolith - DZone Microservices</A>
 
 ---
 
