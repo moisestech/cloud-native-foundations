@@ -133,6 +133,7 @@ Using multiple containers and managing them can be quite hectic so you can use a
 - <DT><A HREF="https://www.packtpub.com/free-learning?utm_source=all+updates&utm_campaign=7c705a199e-packt_crm_new_freelearner_email_2&utm_medium=email&utm_term=0_c970747b22-7c705a199e-176907650&mc_cid=7c705a199e&mc_eid=926ae7a542#fl-jump?utm_source=mailchimp&utm_medium=email&utm_campaign=free_learner_onboarding" ADD_DATE="1624502216" ICON="" >Free Learning | Daily Programming eBook from Packt</A>
 - <DT><A HREF="https://github.com/alexellis/k3sup" ADD_DATE="1624502216" ICON="" >alexellis/k3sup: bootstrap Kubernetes with k3s over SSH < 1 min 🚀</A>
 - <DT><A HREF="https://github.com/rdotjain/cnf" ADD_DATE="1624502216" ICON="" >rdotjain/cnf</A>
+- <DT><A HREF="https://awsreskill.com/signup?source=cd5e5765&medium=direct" ADD_DATE="1624502216" ICON="" >Signup - re:Skill</A>
 
 ---
 
