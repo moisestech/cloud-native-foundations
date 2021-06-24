@@ -147,6 +147,8 @@ Using multiple containers and managing them can be quite hectic so you can use a
 - <DT><A HREF="https://www.manning.com/books/cloud-native-applications" ADD_DATE="1624502216" ICON="" >Manning | Cloud Native Applications</A>
 - <DT><A HREF="https://airtable.com/shryLSJS4CQslJBO9/tbl6A99RXoOm7DYSJ" ADD_DATE="1624502216" ICON="" >Airtable - SUSE Scholarship - Resources</A>
 - <DT><A HREF="https://goalkicker.com/" ADD_DATE="1624502216" ICON="" >Free Programming Books – GoalKicker.com</A>
+- <DT><A HREF="https://rhtapps.redhat.com/promo/course/do092?segment=11" ADD_DATE="1624502216" ICON="" >Developing Cloud Native Applications with Microservices Architectures | redhat.com</A>
+- <DT><A HREF="https://get.acloudguru.com/acg-community-summit" ADD_DATE="1624502216" ICON="" >Join us for the first A Cloud Guru Community Summit | A Cloud Guru</A>
 
 ---
 
