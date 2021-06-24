@@ -126,6 +126,7 @@ Using multiple containers and managing them can be quite hectic so you can use a
 - [Cloud Native DevOps Explained](https://www.youtube.com/watch?v=FzERTm_j2wE), **YouTube**, _IBM Cloud_
 - <DT><A HREF="https://pages.awscloud.com/Globa_traincert_Get_AWS_Certified_Developer_Associate.html" ADD_DATE="1624502216" ICON="" >Comprehensive Cloud Skills Training Drives Digital Transformation Success</A>
 - <DT><A HREF="https://www.udacity.com/course/scalable-microservices-with-kubernetes--ud615" ADD_DATE="1624502216" ICON="" >Scalable Microservices with Kubernetes</A>
+- <DT><A HREF="https://github.com/josepraveen/Udacity_Cloud_Native_Fundamentals/tree/main/resources" ADD_DATE="1624502216" ICON="" >Udacity_Cloud_Native_Fundamentals/resources at main · josepraveen/Udacity_Cloud_Native_Fundamentals</A>
 
 ---
 
