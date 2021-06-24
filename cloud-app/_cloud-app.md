@@ -176,6 +176,7 @@ Using multiple containers and managing them can be quite hectic so you can use a
 - <DT><A HREF="https://www.notion.so/SUSE-Cloud-foundations-scholarship-1acf8437f5a441ca8abd1cc9cf4e3556" ADD_DATE="1624502216" ICON="" >SUSE Cloud foundations scholarship</A>
 - <DT><A HREF="https://www.udemy.com/course/devops-crash-course-cicd-with-jenkins-pipelines-groovy-dsl/?LSNPUBID=6atJFJ4NNe4" ADD_DATE="1624502216" ICON="" >Free Jenkins Tutorial - DevOps Crash Course: CI/CD with Jenkins Pipelines Groovy DSL | Udemy</A>
 - <DT><A HREF="https://www.udemy.com/course/git-and-github-for-devops-ci-cd/?LSNPUBID=6atJFJ4NNe4" ADD_DATE="1624502216" ICON="" >Free Git Tutorial - MASTER Git and Github for DevOps CI/CD | Udemy</A>
+- <DT><A HREF="https://www.freecodecamp.org/news/you-can-now-edit-anything-on-github-in-vs-code-without-cloning/" ADD_DATE="1624502216" ICON="" >How to Open Any Repo in VS Code Without Cloning It</A>
 
 ---
 
