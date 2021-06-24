@@ -152,6 +152,8 @@ Using multiple containers and managing them can be quite hectic so you can use a
 - [6 Essential Things You Need to Know About Cloud Native Applications](https://www.weave.works/technologies/going-cloud-native-6-essential-things-you-need-to-know/)
 - [Anyscale - Ray Summit 2021](https://www.anyscale.com/ray-summit-2021?utm_source=google&utm_medium=cpc&utm_campaign=search-nam-ray&gclid=CjwKCAjwn6GGBhADEiwAruUcKuXOdyrf4WlIAb01fGzXn50R05dBd6acZYh99RwyfOzDhMY0wdL9tRoCul0QAvD_BwE)
 - [Linux Foundation Launches GitOps Training - Linux Foundation - Training](https://training.linuxfoundation.org/announcements/linux-foundation-launches-gitops-training/?utm_campaign=gitops0621&utm_content=170305318&utm_medium=social&utm_source=linkedin&hss_channel=lcp-12893459)
+- <DT><A HREF="https://github.com/josepraveen/free_month_learning_resources/blob/main/resources/readme.md" ADD_DATE="1624502216" ICON="" >free_month_learning_resources/readme.md at main · josepraveen/free_month_learning_resources</A>
+- <DT><A HREF="https://www.webdesignerdepot.com/2018/05/monolith-vs-microservices-which-is-the-best-option-for-you/" ADD_DATE="1624502216" ICON="" >Monolith Vs Microservices: Which is the Best Option for You? | Webdesigner Depot Webdesigner Depot » Blog Archive</A>
 
 ---
 
