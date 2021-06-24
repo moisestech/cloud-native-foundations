@@ -141,6 +141,7 @@ Using multiple containers and managing them can be quite hectic so you can use a
 - <DT><A HREF="https://scrimba.com/learn/learnjavascript" ADD_DATE="1624502216" ICON="" >Learn JavaScript for free - 7-hour interactive tutorial</A>
 - <DT><A HREF="https://rohankalhans.medium.com/automating-terraform-with-github-actions-5b3aac5abea7" ADD_DATE="1624502216" ICON="" >Automating Terraform with GitHub Actions | by Rohan Singh | Jun, 2021 | Medium</A>
 - <DT><A HREF="https://searchapparchitecture.techtarget.com/tip/Pros-and-cons-of-monolithic-vs-microservices-architecture" ADD_DATE="1624502216" ICON="" >Pros and cons of monolithic vs. microservices architecture</A>
+- <DT><A HREF="https://www.hcs-company.com/blog/containers/a-short-comparison-of-openshift-and-cloud-foundry" ADD_DATE="1624502216" ICON="" >A short comparison of OpenShift and Cloud Foundry</A>
 
 ---
 
