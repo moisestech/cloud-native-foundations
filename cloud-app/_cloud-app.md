@@ -137,6 +137,7 @@ Using multiple containers and managing them can be quite hectic so you can use a
 - <DT><A HREF="https://dzone.com/articles/microservices-architecture-breaking-the-monolith?fromrel=true" ADD_DATE="1624502216" ICON="" >Microservices Architecture: Breaking the Monolith - DZone Microservices</A>
 - <DT><A HREF="https://www.acm.org/" ADD_DATE="1624502216" ICON="" >Association for Computing Machinery</A>
 - <DT><A HREF="https://community.suse.com/events/free-class-accelerate-dev-workflows-weeks-1-4?instance_index=20210622T160000Z" ADD_DATE="1624502216" ICON="" >Free Class: Accelerate Dev Workflows, Weeks 1-4 | Accelerate Dev Workflows - June 2021</A>
+- <DT><A HREF="https://www.javatpoint.com/virtualization-in-cloud-computing" ADD_DATE="1624502216" ICON="" >Virtualization in Cloud Computing - javatpoint</A>
 
 ---
 
