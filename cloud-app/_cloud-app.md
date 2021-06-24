@@ -125,6 +125,7 @@ Using multiple containers and managing them can be quite hectic so you can use a
 - [Cloud Native 101 Video](https://www.youtube.com/watch?v=9Ik96SBaIvs), **YouTube**, _VMware Cloud Native Apps_
 - [Cloud Native DevOps Explained](https://www.youtube.com/watch?v=FzERTm_j2wE), **YouTube**, _IBM Cloud_
 - <DT><A HREF="https://pages.awscloud.com/Globa_traincert_Get_AWS_Certified_Developer_Associate.html" ADD_DATE="1624502216" ICON="" >Comprehensive Cloud Skills Training Drives Digital Transformation Success</A>
+- <DT><A HREF="https://www.udacity.com/course/scalable-microservices-with-kubernetes--ud615" ADD_DATE="1624502216" ICON="" >Scalable Microservices with Kubernetes</A>
 
 ---
 
