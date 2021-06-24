@@ -160,6 +160,7 @@ Using multiple containers and managing them can be quite hectic so you can use a
 - <DT><A HREF="https://www.mulesoft.com/resources/api/microservices-vs-monolithic" ADD_DATE="1624502216" ICON="" >Microservices vs Monolithic architecture | MuleSoft</A>
 - <DT><A HREF="https://www.discudemy.com/category/javascript" ADD_DATE="1624502216" ICON="" >Free Udemy Javascript Courses - Discudemy</A>
 - <DT><A HREF="https://github.com/lasalazarr/guide-monolithic-to-microservices" ADD_DATE="1624502216" ICON="" >lasalazarr/guide-monolithic-to-microservices: Step by step examples of migration phases from a Monolithic Java EE Application to Microservices</A>
+- <DT><A HREF="https://www.youtube.com/watch?v=j5Zsa_eOXeY" ADD_DATE="1624502216" ICON="" >DevOps Engineering Course for Beginners - YouTube</A>
 
 ---
 
