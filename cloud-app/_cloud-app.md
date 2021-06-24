@@ -162,6 +162,7 @@ Using multiple containers and managing them can be quite hectic so you can use a
 - <DT><A HREF="https://github.com/lasalazarr/guide-monolithic-to-microservices" ADD_DATE="1624502216" ICON="" >lasalazarr/guide-monolithic-to-microservices: Step by step examples of migration phases from a Monolithic Java EE Application to Microservices</A>
 - <DT><A HREF="https://www.youtube.com/watch?v=j5Zsa_eOXeY" ADD_DATE="1624502216" ICON="" >DevOps Engineering Course for Beginners - YouTube</A>
 - <DT><A HREF="https://martinfowler.com/articles/break-monolith-into-microservices.html" ADD_DATE="1624502216" ICON="" >How to break a Monolith into Microservices</A>
+- <DT><A HREF="https://www.udemy.com/course/make-a-your-own-free-vpn-with-awscloud-computing/" ADD_DATE="1624502216" ICON="" >Make a Your Own Free VPN with AWS/Cloud Computing! | Udemy</A>
 
 ---
 
