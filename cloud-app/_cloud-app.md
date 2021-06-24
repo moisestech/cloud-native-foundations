@@ -135,6 +135,7 @@ Using multiple containers and managing them can be quite hectic so you can use a
 - <DT><A HREF="https://github.com/rdotjain/cnf" ADD_DATE="1624502216" ICON="" >rdotjain/cnf</A>
 - <DT><A HREF="https://awsreskill.com/signup?source=cd5e5765&medium=direct" ADD_DATE="1624502216" ICON="" >Signup - re:Skill</A>
 - <DT><A HREF="https://dzone.com/articles/microservices-architecture-breaking-the-monolith?fromrel=true" ADD_DATE="1624502216" ICON="" >Microservices Architecture: Breaking the Monolith - DZone Microservices</A>
+- <DT><A HREF="https://www.acm.org/" ADD_DATE="1624502216" ICON="" >Association for Computing Machinery</A>
 
 ---
 
