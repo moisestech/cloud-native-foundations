@@ -149,9 +149,9 @@ Using multiple containers and managing them can be quite hectic so you can use a
 - <DT><A HREF="https://goalkicker.com/" ADD_DATE="1624502216" ICON="" >Free Programming Books – GoalKicker.com</A>
 - <DT><A HREF="https://rhtapps.redhat.com/promo/course/do092?segment=11" ADD_DATE="1624502216" ICON="" >Developing Cloud Native Applications with Microservices Architectures | redhat.com</A>
 - <DT><A HREF="https://get.acloudguru.com/acg-community-summit" ADD_DATE="1624502216" ICON="" >Join us for the first A Cloud Guru Community Summit | A Cloud Guru</A>
-- <DT><A HREF="https://www.weave.works/technologies/going-cloud-native-6-essential-things-you-need-to-know/" ADD_DATE="1624502216" ICON="" >6 Essential Things You Need to Know About Cloud Native Applications</A>
-- <DT><A HREF="https://www.anyscale.com/ray-summit-2021?utm_source=google&utm_medium=cpc&utm_campaign=search-nam-ray&gclid=CjwKCAjwn6GGBhADEiwAruUcKuXOdyrf4WlIAb01fGzXn50R05dBd6acZYh99RwyfOzDhMY0wdL9tRoCul0QAvD_BwE" ADD_DATE="1624502216" ICON="" >Anyscale - Ray Summit 2021</A>
-- <DT><A HREF="https://training.linuxfoundation.org/announcements/linux-foundation-launches-gitops-training/?utm_campaign=gitops0621&utm_content=170305318&utm_medium=social&utm_source=linkedin&hss_channel=lcp-12893459" ADD_DATE="1624502216" ICON="" >Linux Foundation Launches GitOps Training - Linux Foundation - Training</A>
+- [6 Essential Things You Need to Know About Cloud Native Applications](https://www.weave.works/technologies/going-cloud-native-6-essential-things-you-need-to-know/)
+- [Anyscale - Ray Summit 2021](https://www.anyscale.com/ray-summit-2021?utm_source=google&utm_medium=cpc&utm_campaign=search-nam-ray&gclid=CjwKCAjwn6GGBhADEiwAruUcKuXOdyrf4WlIAb01fGzXn50R05dBd6acZYh99RwyfOzDhMY0wdL9tRoCul0QAvD_BwE)
+- [Linux Foundation Launches GitOps Training - Linux Foundation - Training](https://training.linuxfoundation.org/announcements/linux-foundation-launches-gitops-training/?utm_campaign=gitops0621&utm_content=170305318&utm_medium=social&utm_source=linkedin&hss_channel=lcp-12893459)
 
 ---
 
