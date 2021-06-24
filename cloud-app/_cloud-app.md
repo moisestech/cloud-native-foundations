@@ -179,6 +179,7 @@ Using multiple containers and managing them can be quite hectic so you can use a
 - <DT><A HREF="https://www.freecodecamp.org/news/you-can-now-edit-anything-on-github-in-vs-code-without-cloning/" ADD_DATE="1624502216" ICON="" >How to Open Any Repo in VS Code Without Cloning It</A>
 - <DT><A HREF="https://www.redhat.com/en/topics/cloud-native-apps" ADD_DATE="1624502216" ICON="" >Understanding cloud-native apps</A>
 - <DT><A HREF="https://www.udacity.com/course/linux-command-line-basics--ud595" ADD_DATE="1624502216" ICON="" >Linux Command Line Basics</A>
+- <DT><A HREF="https://www.udemy.com/course/ansible-gcp/?LSNPUBID=6atJFJ4NNe4" ADD_DATE="1624502216" ICON="" >Free Ansible Tutorial - Ansible + GCP | Udemy</A>
 
 ---
 
