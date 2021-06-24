@@ -170,6 +170,7 @@ Using multiple containers and managing them can be quite hectic so you can use a
 - <DT><A HREF="https://community.suse.com/feed?autojoin=1" ADD_DATE="1624502216" ICON="" >SUSE & Rancher Community</A>
 - <DT><A HREF="https://wiki.debian.org/systemd/CheatSheet" ADD_DATE="1624502216" ICON="" >systemd/CheatSheet - Debian Wiki</A>
 - <DT><A HREF="https://www.youtube.com/watch?v=bg96f0FIfT0" ADD_DATE="1624502216" ICON="" >Observability - 101 (Linux Foundation Courses/Certifications Giveaway 🔥) - YouTube</A>
+- <DT><A HREF="https://github.com/Shivansh2407/SUSE-Cloud-Native-Foundations-Scholarship/blob/main/Tools.md" ADD_DATE="1624502216" ICON="" >SUSE-Cloud-Native-Foundations-Scholarship/Tools.md at main · Shivansh2407/SUSE-Cloud-Native-Foundations-Scholarship</A>
 
 ---
 
