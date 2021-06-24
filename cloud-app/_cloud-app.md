@@ -150,6 +150,7 @@ Using multiple containers and managing them can be quite hectic so you can use a
 - <DT><A HREF="https://rhtapps.redhat.com/promo/course/do092?segment=11" ADD_DATE="1624502216" ICON="" >Developing Cloud Native Applications with Microservices Architectures | redhat.com</A>
 - <DT><A HREF="https://get.acloudguru.com/acg-community-summit" ADD_DATE="1624502216" ICON="" >Join us for the first A Cloud Guru Community Summit | A Cloud Guru</A>
 - <DT><A HREF="https://www.weave.works/technologies/going-cloud-native-6-essential-things-you-need-to-know/" ADD_DATE="1624502216" ICON="" >6 Essential Things You Need to Know About Cloud Native Applications</A>
+- <DT><A HREF="https://www.anyscale.com/ray-summit-2021?utm_source=google&utm_medium=cpc&utm_campaign=search-nam-ray&gclid=CjwKCAjwn6GGBhADEiwAruUcKuXOdyrf4WlIAb01fGzXn50R05dBd6acZYh99RwyfOzDhMY0wdL9tRoCul0QAvD_BwE" ADD_DATE="1624502216" ICON="" >Anyscale - Ray Summit 2021</A>
 
 ---
 
