@@ -129,6 +129,7 @@ Using multiple containers and managing them can be quite hectic so you can use a
 - <DT><A HREF="https://github.com/josepraveen/Udacity_Cloud_Native_Fundamentals/tree/main/resources" ADD_DATE="1624502216" ICON="" >Udacity_Cloud_Native_Fundamentals/resources at main · josepraveen/Udacity_Cloud_Native_Fundamentals</A>
 - <DT><A HREF="https://www.notion.so/Lesson-2-Architecture-Consideration-for-Cloud-Native-Applications-5d04e5120f8b4f90b09be446e694935d" ADD_DATE="1624502216" ICON="" >Lesson 2: Architecture Consideration for Cloud Native Applications</A>
 - <DT><A HREF="https://www.tutorialbar.com/" ADD_DATE="1624502216" ICON="" >Tutorial Bar</A>
+- <DT><A HREF="https://github.com/josepraveen/free_month_learning_resources/tree/main/resources" ADD_DATE="1624502216" ICON="" >free_month_learning_resources/resources at main · josepraveen/free_month_learning_resources</A>
 
 ---
 
