@@ -156,6 +156,7 @@ Using multiple containers and managing them can be quite hectic so you can use a
 - <DT><A HREF="https://www.webdesignerdepot.com/2018/05/monolith-vs-microservices-which-is-the-best-option-for-you/" ADD_DATE="1624502216" ICON="" >Monolith Vs Microservices: Which is the Best Option for You? | Webdesigner Depot Webdesigner Depot » Blog Archive</A>
 - <DT><A HREF="https://go.oracle.com/intro-cloud-native?src1=:ow:ms:pt" ADD_DATE="1624502216" ICON="" >Hands on Lab: Introduction to Cloud Native</A>
 - <DT><A HREF="https://www.udemy.com/course/the-complete-introduction-to-data-analytics-with-tableau/?ranMID=39197&ranEAID=nN98ER4vNAU&ranSiteID=nN98ER4vNAU-hvLt9X.IVxXr9kLq8BbnFw&utm_source=aff-campaign&LSNPUBID=nN98ER4vNAU&utm_medium=udemyads" ADD_DATE="1624502216" ICON="" >The Complete Introduction to Data Analytics with Tableau | Udemy</A>
+- <DT><A HREF="https://www.youtube.com/watch?v=WMy3OzvBWc0" ADD_DATE="1624502216" ICON="" >Linux Server Course - System Configuration and Operation - YouTube</A>
 
 ---
 
