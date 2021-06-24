@@ -154,6 +154,7 @@ Using multiple containers and managing them can be quite hectic so you can use a
 - [Linux Foundation Launches GitOps Training - Linux Foundation - Training](https://training.linuxfoundation.org/announcements/linux-foundation-launches-gitops-training/?utm_campaign=gitops0621&utm_content=170305318&utm_medium=social&utm_source=linkedin&hss_channel=lcp-12893459)
 - <DT><A HREF="https://github.com/josepraveen/free_month_learning_resources/blob/main/resources/readme.md" ADD_DATE="1624502216" ICON="" >free_month_learning_resources/readme.md at main · josepraveen/free_month_learning_resources</A>
 - <DT><A HREF="https://www.webdesignerdepot.com/2018/05/monolith-vs-microservices-which-is-the-best-option-for-you/" ADD_DATE="1624502216" ICON="" >Monolith Vs Microservices: Which is the Best Option for You? | Webdesigner Depot Webdesigner Depot » Blog Archive</A>
+- <DT><A HREF="https://go.oracle.com/intro-cloud-native?src1=:ow:ms:pt" ADD_DATE="1624502216" ICON="" >Hands on Lab: Introduction to Cloud Native</A>
 
 ---
 
