@@ -146,6 +146,7 @@ Using multiple containers and managing them can be quite hectic so you can use a
 - <DT><A HREF="https://www.udemy.com/course/vagrant-visualized-development-environments-and-oracle/?couponCode=C9B46FF62A6B35B36670" ADD_DATE="1624502216" ICON="" >Vagrant : Visualized Development Environments and Oracle | Udemy</A>
 - <DT><A HREF="https://www.manning.com/books/cloud-native-applications" ADD_DATE="1624502216" ICON="" >Manning | Cloud Native Applications</A>
 - <DT><A HREF="https://airtable.com/shryLSJS4CQslJBO9/tbl6A99RXoOm7DYSJ" ADD_DATE="1624502216" ICON="" >Airtable - SUSE Scholarship - Resources</A>
+- <DT><A HREF="https://goalkicker.com/" ADD_DATE="1624502216" ICON="" >Free Programming Books – GoalKicker.com</A>
 
 ---
 
