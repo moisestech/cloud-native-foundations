@@ -139,7 +139,7 @@ Using multiple containers and managing them can be quite hectic so you can use a
 - [Free Class: Accelerate Dev Workflows, Weeks 1-4 | Accelerate Dev Workflows - June 2021](https://community.suse.com/events/free-class-accelerate-dev-workflows-weeks-1-4?instance_index=20210622T160000Z)
 - [Virtualization in Cloud Computing - javatpoint](https://www.javatpoint.com/virtualization-in-cloud-computing)
 - [Learn JavaScript for free - 7-hour interactive tutorial](https://scrimba.com/learn/learnjavascript)
-- <DT><A HREF="https://rohankalhans.medium.com/automating-terraform-with-github-actions-5b3aac5abea7" ADD_DATE="1624502216" ICON="" >Automating Terraform with GitHub Actions | by Rohan Singh | Jun, 2021 | Medium</A>
+- [Automating Terraform with GitHub Actions | by Rohan Singh | Jun, 2021 | Medium](https://rohankalhans.medium.com/automating-terraform-with-github-actions-5b3aac5abea7)
 - <DT><A HREF="https://searchapparchitecture.techtarget.com/tip/Pros-and-cons-of-monolithic-vs-microservices-architecture" ADD_DATE="1624502216" ICON="" >Pros and cons of monolithic vs. microservices architecture</A>
 - <DT><A HREF="https://www.hcs-company.com/blog/containers/a-short-comparison-of-openshift-and-cloud-foundry" ADD_DATE="1624502216" ICON="" >A short comparison of OpenShift and Cloud Foundry</A>
 - <DT><A HREF="https://www.youtube.com/watch?app=desktop&v=G20ugJR4Tmc" ADD_DATE="1624502216" ICON="" >The Future of Vagrant - YouTube</A>
