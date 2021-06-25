@@ -146,7 +146,7 @@ Using multiple containers and managing them can be quite hectic so you can use a
 - [Vagrant : Visualized Development Environments and Oracle | Udemy](https://www.udemy.com/course/vagrant-visualized-development-environments-and-oracle/?couponCode=C9B46FF62A6B35B36670)
 - [Manning | Cloud Native Applications](https://www.manning.com/books/cloud-native-applications)
 - [Airtable - SUSE Scholarship - Resources](https://airtable.com/shryLSJS4CQslJBO9/tbl6A99RXoOm7DYSJ)
-- <DT><A HREF="https://goalkicker.com/" ADD_DATE="1624502216" ICON="" >Free Programming Books – GoalKicker.com</A>
+- [Free Programming Books – GoalKicker.com](https://goalkicker.com/)
 - <DT><A HREF="https://rhtapps.redhat.com/promo/course/do092?segment=11" ADD_DATE="1624502216" ICON="" >Developing Cloud Native Applications with Microservices Architectures | redhat.com</A>
 - <DT><A HREF="https://get.acloudguru.com/acg-community-summit" ADD_DATE="1624502216" ICON="" >Join us for the first A Cloud Guru Community Summit | A Cloud Guru</A>
 - [6 Essential Things You Need to Know About Cloud Native Applications](https://www.weave.works/technologies/going-cloud-native-6-essential-things-you-need-to-know/)
