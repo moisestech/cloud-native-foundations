@@ -181,6 +181,9 @@ Using multiple containers and managing them can be quite hectic so you can use a
 - <DT><A HREF="https://www.udacity.com/course/linux-command-line-basics--ud595" ADD_DATE="1624502216" ICON="" >Linux Command Line Basics</A>
 - <DT><A HREF="https://www.udemy.com/course/ansible-gcp/?LSNPUBID=6atJFJ4NNe4" ADD_DATE="1624502216" ICON="" >Free Ansible Tutorial - Ansible + GCP | Udemy</A>
 - <DT><A HREF="https://github.com/madebygps/self-taught-guide-to-cloud-computing" ADD_DATE="1624502216" ICON="" >madebygps/self-taught-guide-to-cloud-computing: My self taught guide to cloud computing.</A>
+- <DT><A HREF="https://www.youtube.com/watch?v=_fntjriRe48" ADD_DATE="1624502216" ICON="" >WSL 2: Getting started - YouTube</A>
+- <DT><A HREF="https://opensource.com/article/21/6/2021-opensourcecom-summer-reading-list" ADD_DATE="1624502216" ICON="" >8 books open source technologists should read this summer | Opensource.com</A>
+- <DT><A HREF="https://www.techrepublic.com/article/five-open-source-paas-options-you-should-know/" ADD_DATE="1624502216" ICON="" >Five open source PaaS options you should know - TechRepublic</A>
 
 ---
 
