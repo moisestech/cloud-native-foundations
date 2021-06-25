@@ -126,9 +126,9 @@ Using multiple containers and managing them can be quite hectic so you can use a
 - [Cloud Native DevOps Explained](https://www.youtube.com/watch?v=FzERTm_j2wE), **YouTube**, _IBM Cloud_
 - [Comprehensive Cloud Skills Training Drives Digital Transformation Success](https://pages.awscloud.com/Globa_traincert_Get_AWS_Certified_Developer_Associate.html)
 - [Scalable Microservices with Kubernetes](https://www.udacity.com/course/scalable-microservices-with-kubernetes--ud615)
-- [Udacity_Cloud_Native_Fundamentals/resources at main · josepraveen/Udacity_Cloud_Native_Fundamentals](https://github.com/josepraveen/Udacity_Cloud_Native_Fundamentals/tree/main/resources)
-- <DT><A HREF="https://www.notion.so/Lesson-2-Architecture-Consideration-for-Cloud-Native-Applications-5d04e5120f8b4f90b09be446e694935d" ADD_DATE="1624502216" ICON="" >Lesson 2: Architecture Consideration for Cloud Native Applications</A>
-- <DT><A HREF="https://www.tutorialbar.com/" ADD_DATE="1624502216" ICON="" >Tutorial Bar</A>
+- [Udacity_Cloud_Native_Fundamentals/resources at main · josepraveen /Udacity_Cloud_Native_Fundamentals](https://github.com/josepraveen/Udacity_Cloud_Native_Fundamentals)
+- [Lesson 2: Architecture Consideration for Cloud Native Applications](https://www.notion.so/Lesson-2-Architecture-Consideration-for-Cloud-Native-Applications-5d04e5120f8b4f90b09be446e694935d)
+- [Tutorial Bar](https://www.tutorialbar.com/)
 - <DT><A HREF="https://github.com/josepraveen/free_month_learning_resources/tree/main/resources" ADD_DATE="1624502216" ICON="" >free_month_learning_resources/resources at main · josepraveen/free_month_learning_resources</A>
 - <DT><A HREF="https://www.packtpub.com/free-learning?utm_source=all+updates&utm_campaign=7c705a199e-packt_crm_new_freelearner_email_2&utm_medium=email&utm_term=0_c970747b22-7c705a199e-176907650&mc_cid=7c705a199e&mc_eid=926ae7a542#fl-jump?utm_source=mailchimp&utm_medium=email&utm_campaign=free_learner_onboarding" ADD_DATE="1624502216" ICON="" >Free Learning | Daily Programming eBook from Packt</A>
 - <DT><A HREF="https://github.com/alexellis/k3sup" ADD_DATE="1624502216" ICON="" >alexellis/k3sup: bootstrap Kubernetes with k3s over SSH < 1 min 🚀</A>
