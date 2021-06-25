@@ -133,8 +133,8 @@ Using multiple containers and managing them can be quite hectic so you can use a
 - [Free Learning | Daily Programming eBook from Packt](https://www.packtpub.com/free-learning?utm_source=all+updates&utm_campaign=7c705a199e-packt_crm_new_freelearner_email_2&utm_medium=email&utm_term=0_c970747b22-7c705a199e-176907650&mc_cid=7c705a199e&mc_eid=926ae7a542#fl-jump?utm_source=mailchimp&utm_medium=email&utm_campaign=free_learner_onboarding)
 - [alexellis/k3sup: bootstrap Kubernetes with k3s over SSH < 1 min 🚀](https://github.com/alexellis/k3sup)
 - [rdotjain/cnf](https://github.com/rdotjain/cnf)
-- <DT><A HREF="https://awsreskill.com/signup?source=cd5e5765&medium=direct" ADD_DATE="1624502216" ICON="" >Signup - re:Skill</A>
-- <DT><A HREF="https://dzone.com/articles/microservices-architecture-breaking-the-monolith?fromrel=true" ADD_DATE="1624502216" ICON="" >Microservices Architecture: Breaking the Monolith - DZone Microservices</A>
+- [Signup - re:Skill](https://awsreskill.com/signup?source=cd5e5765&medium=direct)
+- [Microservices Architecture: Breaking the Monolith - DZone Microservices](https://dzone.com/articles/microservices-architecture-breaking-the-monolith?fromrel=true)
 - <DT><A HREF="https://www.acm.org/" ADD_DATE="1624502216" ICON="" >Association for Computing Machinery</A>
 - <DT><A HREF="https://community.suse.com/events/free-class-accelerate-dev-workflows-weeks-1-4?instance_index=20210622T160000Z" ADD_DATE="1624502216" ICON="" >Free Class: Accelerate Dev Workflows, Weeks 1-4 | Accelerate Dev Workflows - June 2021</A>
 - <DT><A HREF="https://www.javatpoint.com/virtualization-in-cloud-computing" ADD_DATE="1624502216" ICON="" >Virtualization in Cloud Computing - javatpoint</A>
