@@ -144,7 +144,7 @@ Using multiple containers and managing them can be quite hectic so you can use a
 - [A short comparison of OpenShift and Cloud Foundry](https://www.hcs-company.com/blog/containers/a-short-comparison-of-openshift-and-cloud-foundry)
 - [The Future of Vagrant - YouTube](https://www.youtube.com/watch?app=desktop&v=G20ugJR4Tmc)
 - [Vagrant : Visualized Development Environments and Oracle | Udemy](https://www.udemy.com/course/vagrant-visualized-development-environments-and-oracle/?couponCode=C9B46FF62A6B35B36670)
-- <DT><A HREF="https://www.manning.com/books/cloud-native-applications" ADD_DATE="1624502216" ICON="" >Manning | Cloud Native Applications</A>
+- [Manning | Cloud Native Applications](https://www.manning.com/books/cloud-native-applications)
 - <DT><A HREF="https://airtable.com/shryLSJS4CQslJBO9/tbl6A99RXoOm7DYSJ" ADD_DATE="1624502216" ICON="" >Airtable - SUSE Scholarship - Resources</A>
 - <DT><A HREF="https://goalkicker.com/" ADD_DATE="1624502216" ICON="" >Free Programming Books – GoalKicker.com</A>
 - <DT><A HREF="https://rhtapps.redhat.com/promo/course/do092?segment=11" ADD_DATE="1624502216" ICON="" >Developing Cloud Native Applications with Microservices Architectures | redhat.com</A>
