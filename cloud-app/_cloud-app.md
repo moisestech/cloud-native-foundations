@@ -155,7 +155,7 @@ Using multiple containers and managing them can be quite hectic so you can use a
 - [free_month_learning_resources/readme.md at main · josepraveen/free_month_learning_resources]
 - [Monolith Vs Microservices: Which is the Best Option for You? | Webdesigner Depot Webdesigner Depot » Blog Archive](https://www.webdesignerdepot.com/2018/05/monolith-vs-microservices-which-is-the-best-option-for-you/)
 - [Hands on Lab: Introduction to Cloud Native](https://go.oracle.com/intro-cloud-native?src1=:ow:ms:pt)
-- <DT><A HREF="https://www.udemy.com/course/the-complete-introduction-to-data-analytics-with-tableau/?ranMID=39197&ranEAID=nN98ER4vNAU&ranSiteID=nN98ER4vNAU-hvLt9X.IVxXr9kLq8BbnFw&utm_source=aff-campaign&LSNPUBID=nN98ER4vNAU&utm_medium=udemyads" ADD_DATE="1624502216" ICON="" >The Complete Introduction to Data Analytics with Tableau | Udemy</A>
+- [The Complete Introduction to Data Analytics with Tableau | Udemy](https://www.udemy.com/course/the-complete-introduction-to-data-analytics-with-tableau/?ranMID=39197&ranEAID=nN98ER4vNAU&ranSiteID=nN98ER4vNAU-hvLt9X.IVxXr9kLq8BbnFw&utm_source=aff-campaign&LSNPUBID=nN98ER4vNAU&utm_medium=udemyads)
 - <DT><A HREF="https://www.youtube.com/watch?v=WMy3OzvBWc0" ADD_DATE="1624502216" ICON="" >Linux Server Course - System Configuration and Operation - YouTube</A>
 - <DT><A HREF="https://www.mulesoft.com/resources/api/microservices-vs-monolithic" ADD_DATE="1624502216" ICON="" >Microservices vs Monolithic architecture | MuleSoft</A>
 - <DT><A HREF="https://www.discudemy.com/category/javascript" ADD_DATE="1624502216" ICON="" >Free Udemy Javascript Courses - Discudemy</A>
