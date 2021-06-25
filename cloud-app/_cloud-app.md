@@ -141,7 +141,7 @@ Using multiple containers and managing them can be quite hectic so you can use a
 - [Learn JavaScript for free - 7-hour interactive tutorial](https://scrimba.com/learn/learnjavascript)
 - [Automating Terraform with GitHub Actions | by Rohan Singh | Jun, 2021 | Medium](https://rohankalhans.medium.com/automating-terraform-with-github-actions-5b3aac5abea7)
 - [Pros and cons of monolithic vs. microservices architecture](https://searchapparchitecture.techtarget.com/tip/Pros-and-cons-of-monolithic-vs-microservices-architecture)
-- <DT><A HREF="https://www.hcs-company.com/blog/containers/a-short-comparison-of-openshift-and-cloud-foundry" ADD_DATE="1624502216" ICON="" >A short comparison of OpenShift and Cloud Foundry</A>
+- [A short comparison of OpenShift and Cloud Foundry](https://www.hcs-company.com/blog/containers/a-short-comparison-of-openshift-and-cloud-foundry)
 - <DT><A HREF="https://www.youtube.com/watch?app=desktop&v=G20ugJR4Tmc" ADD_DATE="1624502216" ICON="" >The Future of Vagrant - YouTube</A>
 - <DT><A HREF="https://www.udemy.com/course/vagrant-visualized-development-environments-and-oracle/?couponCode=C9B46FF62A6B35B36670" ADD_DATE="1624502216" ICON="" >Vagrant : Visualized Development Environments and Oracle | Udemy</A>
 - <DT><A HREF="https://www.manning.com/books/cloud-native-applications" ADD_DATE="1624502216" ICON="" >Manning | Cloud Native Applications</A>
