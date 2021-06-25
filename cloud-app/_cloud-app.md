@@ -124,7 +124,7 @@ Using multiple containers and managing them can be quite hectic so you can use a
 - [100 Seconds of ServerLess](https://youtu.be/W_VV2Fx32_Y), **YouTube**, _Fireship_
 - [Cloud Native 101 Video](https://www.youtube.com/watch?v=9Ik96SBaIvs), **YouTube**, _VMware Cloud Native Apps_
 - [Cloud Native DevOps Explained](https://www.youtube.com/watch?v=FzERTm_j2wE), **YouTube**, _IBM Cloud_
-- <DT><A HREF="https://pages.awscloud.com/Globa_traincert_Get_AWS_Certified_Developer_Associate.html" ADD_DATE="1624502216" ICON="" >Comprehensive Cloud Skills Training Drives Digital Transformation Success</A>
+- [Comprehensive Cloud Skills Training Drives Digital Transformation Success](https://pages.awscloud.com/Globa_traincert_Get_AWS_Certified_Developer_Associate.html)
 - <DT><A HREF="https://www.udacity.com/course/scalable-microservices-with-kubernetes--ud615" ADD_DATE="1624502216" ICON="" >Scalable Microservices with Kubernetes</A>
 - <DT><A HREF="https://github.com/josepraveen/Udacity_Cloud_Native_Fundamentals/tree/main/resources" ADD_DATE="1624502216" ICON="" >Udacity_Cloud_Native_Fundamentals/resources at main · josepraveen/Udacity_Cloud_Native_Fundamentals</A>
 - <DT><A HREF="https://www.notion.so/Lesson-2-Architecture-Consideration-for-Cloud-Native-Applications-5d04e5120f8b4f90b09be446e694935d" ADD_DATE="1624502216" ICON="" >Lesson 2: Architecture Consideration for Cloud Native Applications</A>
