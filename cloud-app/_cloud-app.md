@@ -142,8 +142,8 @@ Using multiple containers and managing them can be quite hectic so you can use a
 - [Automating Terraform with GitHub Actions | by Rohan Singh | Jun, 2021 | Medium](https://rohankalhans.medium.com/automating-terraform-with-github-actions-5b3aac5abea7)
 - [Pros and cons of monolithic vs. microservices architecture](https://searchapparchitecture.techtarget.com/tip/Pros-and-cons-of-monolithic-vs-microservices-architecture)
 - [A short comparison of OpenShift and Cloud Foundry](https://www.hcs-company.com/blog/containers/a-short-comparison-of-openshift-and-cloud-foundry)
-- <DT><A HREF="https://www.youtube.com/watch?app=desktop&v=G20ugJR4Tmc" ADD_DATE="1624502216" ICON="" >The Future of Vagrant - YouTube</A>
-- <DT><A HREF="https://www.udemy.com/course/vagrant-visualized-development-environments-and-oracle/?couponCode=C9B46FF62A6B35B36670" ADD_DATE="1624502216" ICON="" >Vagrant : Visualized Development Environments and Oracle | Udemy</A>
+- [The Future of Vagrant - YouTube](https://www.youtube.com/watch?app=desktop&v=G20ugJR4Tmc)
+- [Vagrant : Visualized Development Environments and Oracle | Udemy](https://www.udemy.com/course/vagrant-visualized-development-environments-and-oracle/?couponCode=C9B46FF62A6B35B36670)
 - <DT><A HREF="https://www.manning.com/books/cloud-native-applications" ADD_DATE="1624502216" ICON="" >Manning | Cloud Native Applications</A>
 - <DT><A HREF="https://airtable.com/shryLSJS4CQslJBO9/tbl6A99RXoOm7DYSJ" ADD_DATE="1624502216" ICON="" >Airtable - SUSE Scholarship - Resources</A>
 - <DT><A HREF="https://goalkicker.com/" ADD_DATE="1624502216" ICON="" >Free Programming Books – GoalKicker.com</A>
