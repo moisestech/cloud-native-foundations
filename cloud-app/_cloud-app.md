@@ -161,7 +161,7 @@ Using multiple containers and managing them can be quite hectic so you can use a
 - [Free Udemy Javascript Courses - Discudemy](https://www.discudemy.com/category/javascript)
 - [lasalazarr/guide-monolithic-to-microservices: Step by step examples of migration phases from a Monolithic Java EE Application to Microservices](https://github.com/lasalazarr/guide-monolithic-to-microservices)
 - [DevOps Engineering Course for Beginners - YouTube](https://www.youtube.com/watch?v=j5Zsa_eOXeY)
-- <DT><A HREF="https://martinfowler.com/articles/break-monolith-into-microservices.html" ADD_DATE="1624502216" ICON="" >How to break a Monolith into Microservices</A>
+- [How to break a Monolith into Microservices](https://martinfowler.com/articles/break-monolith-into-microservices.html)
 - <DT><A HREF="https://www.udemy.com/course/make-a-your-own-free-vpn-with-awscloud-computing/" ADD_DATE="1624502216" ICON="" >Make a Your Own Free VPN with AWS/Cloud Computing! | Udemy</A>
 - <DT><A HREF="https://pages.awscloud.com/awsmp-wsm-dev-workshop-series-module3-evolving-to-continuous-deployment.html" ADD_DATE="1624502216" ICON="" >AWS DevOps Workshop Series: Continuous Deployment</A>
 - <DT><A HREF="http://blog.weetech.ch/2021/06/continuous-integration-with-github.html" ADD_DATE="1624502216" ICON="" >Information Technology Blogs: Continuous Integration with GitHub Action</A>
