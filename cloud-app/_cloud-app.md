@@ -125,10 +125,11 @@ Using multiple containers and managing them can be quite hectic so you can use a
 - [Cloud Native 101 Video](https://www.youtube.com/watch?v=9Ik96SBaIvs), **YouTube**, _VMware Cloud Native Apps_
 - [Cloud Native DevOps Explained](https://www.youtube.com/watch?v=FzERTm_j2wE), **YouTube**, _IBM Cloud_
 
-| 📚 | AWS Cloud | [Comprehensive Cloud Skills Training Drives Digital Transformation Success](https://pages.awscloud.com/Globa_traincert_Get_AWS_Certified_Developer_Associate.html) |
-| 🎓 | Udacity | [Scalable Microservices with Kubernetes](https://www.udacity.com/course/scalable-microservices-with-kubernetes--ud615) |
-|---|---|---|
-| 💻 | Github | [Udacity_Cloud_Native_Fundamentals/resources at main · josepraveen /Udacity_Cloud_Native_Fundamentals](https://github.com/josepraveen/Udacity_Cloud_Native_Fundamentals) |
+| ICON | TYPE      | Link                                                                                                                                                                     |
+| ---- | --------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 💻   | Github    | [Udacity_Cloud_Native_Fundamentals/resources at main · josepraveen /Udacity_Cloud_Native_Fundamentals](https://github.com/josepraveen/Udacity_Cloud_Native_Fundamentals) |
+| 🎓   | Udacity   | [Scalable Microservices with Kubernetes](https://www.udacity.com/course/scalable-microservices-with-kubernetes--ud615)                                                   |
+| 📚   | AWS Cloud | [Comprehensive Cloud Skills Training Drives Digital Transformation Success](https://pages.awscloud.com/Globa_traincert_Get_AWS_Certified_Developer_Associate.html)       |
 
 - [Lesson 2: Architecture Consideration for Cloud Native Applications](https://www.notion.so/Lesson-2-Architecture-Consideration-for-Cloud-Native-Applications-5d04e5120f8b4f90b09be446e694935d)
 - [Tutorial Bar](https://www.tutorialbar.com/)
