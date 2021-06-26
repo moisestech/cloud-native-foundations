@@ -168,11 +168,11 @@ Using multiple containers and managing them can be quite hectic so you can use a
 - [Find the best online Programming courses and Tutorials - Hackr.io](https://hackr.io/)
 - [Microsoft Azure Tutorial - Tutorialspoint](https://www.tutorialspoint.com/microsoft_azure/index.htm)
 - [SUSE & Rancher Community](https://community.suse.com/feed?autojoin=1)
-- <DT><A HREF="https://wiki.debian.org/systemd/CheatSheet" ADD_DATE="1624502216" ICON="" >systemd/CheatSheet - Debian Wiki</A>
-- <DT><A HREF="https://www.youtube.com/watch?v=bg96f0FIfT0" ADD_DATE="1624502216" ICON="" >Observability - 101 (Linux Foundation Courses/Certifications Giveaway 🔥) - YouTube</A>
-- <DT><A HREF="https://github.com/Shivansh2407/SUSE-Cloud-Native-Foundations-Scholarship/blob/main/Tools.md" ADD_DATE="1624502216" ICON="" >SUSE-Cloud-Native-Foundations-Scholarship/Tools.md at main · Shivansh2407/SUSE-Cloud-Native-Foundations-Scholarship</A>
-- <DT><A HREF="https://en.opensuse.org/openSUSE:Cheat_sheet_13.1#Services" ADD_DATE="1624502216" ICON="" >openSUSE:Cheat sheet 13.1 - openSUSE Wiki</A>
-- <DT><A HREF="https://community.suse.com/feed" ADD_DATE="1624502216" ICON="" >SUSE & Rancher Community</A>
+- [systemd/CheatSheet - Debian Wiki](https://wiki.debian.org/systemd/CheatSheet)
+- [Observability - 101 (Linux Foundation Courses/Certifications Giveaway 🔥) - YouTube](https://www.youtube.com/watch?v=bg96f0FIfT0)
+- [SUSE-Cloud-Native-Foundations-Scholarship/Tools.md at main · Shivansh2407/SUSE-Cloud-Native-Foundations-Scholarship](https://github.com/Shivansh2407/SUSE-Cloud-Native-Foundations-Scholarship/blob/main/Tools.md)
+- [openSUSE:Cheat sheet 13.1 - openSUSE Wiki](https://en.opensuse.org/openSUSE:Cheat_sheet_13.1#Services)
+- [SUSE & Rancher Community](https://community.suse.com/feed)
 - <DT><A HREF="https://www.notion.so/SUSE-Cloud-foundations-scholarship-1acf8437f5a441ca8abd1cc9cf4e3556" ADD_DATE="1624502216" ICON="" >SUSE Cloud foundations scholarship</A>
 - <DT><A HREF="https://www.udemy.com/course/devops-crash-course-cicd-with-jenkins-pipelines-groovy-dsl/?LSNPUBID=6atJFJ4NNe4" ADD_DATE="1624502216" ICON="" >Free Jenkins Tutorial - DevOps Crash Course: CI/CD with Jenkins Pipelines Groovy DSL | Udemy</A>
 - <DT><A HREF="https://www.udemy.com/course/git-and-github-for-devops-ci-cd/?LSNPUBID=6atJFJ4NNe4" ADD_DATE="1624502216" ICON="" >Free Git Tutorial - MASTER Git and Github for DevOps CI/CD | Udemy</A>
