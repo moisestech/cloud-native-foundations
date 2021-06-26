@@ -183,7 +183,7 @@ Using multiple containers and managing them can be quite hectic so you can use a
 - [madebygps/self-taught-guide-to-cloud-computing: My self taught guide to cloud computing](https://github.com/madebygps/self-taught-guide-to-cloud-computing)
 - [WSL 2: Getting started - YouTube](https://www.youtube.com/watch?v=_fntjriRe48)
 - [8 books open source technologists should read this summer | Opensource.com](https://opensource.com/article/21/6/2021-opensourcecom-summer-reading-list)
-- <DT><A HREF="https://www.techrepublic.com/article/five-open-source-paas-options-you-should-know/" ADD_DATE="1624502216" ICON="" >Five open source PaaS options you should know - TechRepublic</A>
+- [Five open source PaaS options you should know - TechRepublic](https://www.techrepublic.com/article/five-open-source-paas-options-you-should-know/)
 
 ---
 
