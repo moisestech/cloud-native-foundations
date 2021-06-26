@@ -163,7 +163,7 @@ Using multiple containers and managing them can be quite hectic so you can use a
 - [DevOps Engineering Course for Beginners - YouTube](https://www.youtube.com/watch?v=j5Zsa_eOXeY)
 - [How to break a Monolith into Microservices](https://martinfowler.com/articles/break-monolith-into-microservices.html)
 - [Make a Your Own Free VPN with AWS/Cloud Computing! | Udemy](https://www.udemy.com/course/make-a-your-own-free-vpn-with-awscloud-computing/)
-- <DT><A HREF="https://pages.awscloud.com/awsmp-wsm-dev-workshop-series-module3-evolving-to-continuous-deployment.html" ADD_DATE="1624502216" ICON="" >AWS DevOps Workshop Series: Continuous Deployment</A>
+- [AWS DevOps Workshop Series: Continuous Deployment](https://pages.awscloud.com/awsmp-wsm-dev-workshop-series-module3-evolving-to-continuous-deployment.html)
 - <DT><A HREF="http://blog.weetech.ch/2021/06/continuous-integration-with-github.html" ADD_DATE="1624502216" ICON="" >Information Technology Blogs: Continuous Integration with GitHub Action</A>
 - <DT><A HREF="https://hackr.io/" ADD_DATE="1624502216" ICON="" >Find the best online Programming courses and Tutorials - Hackr.io</A>
 - <DT><A HREF="https://www.tutorialspoint.com/microsoft_azure/index.htm" ADD_DATE="1624502216" ICON="" >Microsoft Azure Tutorial - Tutorialspoint</A>
