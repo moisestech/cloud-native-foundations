@@ -128,11 +128,8 @@ Using multiple containers and managing them can be quite hectic so you can use a
 | 📚 | AWS Cloud | [Comprehensive Cloud Skills Training Drives Digital Transformation Success](https://pages.awscloud.com/Globa_traincert_Get_AWS_Certified_Developer_Associate.html) |
 | 🎓 | Udacity | [Scalable Microservices with Kubernetes](https://www.udacity.com/course/scalable-microservices-with-kubernetes--ud615) |
 |---|---|---|
-| :blush: `:blush:` | :smiley: `:smiley:` | :relaxed: `:relaxed:` |
+| 💻 | Github | [Udacity_Cloud_Native_Fundamentals/resources at main · josepraveen /Udacity_Cloud_Native_Fundamentals](https://github.com/josepraveen/Udacity_Cloud_Native_Fundamentals) |
 
--
--
-- [Udacity_Cloud_Native_Fundamentals/resources at main · josepraveen /Udacity_Cloud_Native_Fundamentals](https://github.com/josepraveen/Udacity_Cloud_Native_Fundamentals)
 - [Lesson 2: Architecture Consideration for Cloud Native Applications](https://www.notion.so/Lesson-2-Architecture-Consideration-for-Cloud-Native-Applications-5d04e5120f8b4f90b09be446e694935d)
 - [Tutorial Bar](https://www.tutorialbar.com/)
 - [free_month_learning_resources/resources at main · josepraveen/free_month_learning_resources](https://github.com/josepraveen/free_month_learning_resources/tree/main/resources)
