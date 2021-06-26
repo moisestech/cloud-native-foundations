@@ -131,9 +131,10 @@ Using multiple containers and managing them can be quite hectic so you can use a
 | 🎓 ☸️ | Udacity      | [Scalable Microservices with Kubernetes](https://www.udacity.com/course/scalable-microservices-with-kubernetes--ud615)                                                                         |
 | 🎓 📚 | AWS Cloud    | [Comprehensive Cloud Skills Training Drives Digital Transformation Success](https://pages.awscloud.com/Globa_traincert_Get_AWS_Certified_Developer_Associate.html)                             |
 | 🌐📝  | Notion       | [Lesson 2: Architecture Consideration for Cloud Native Applications](https://www.notion.so/Lesson-2-Architecture-Consideration-for-Cloud-Native-Applications-5d04e5120f8b4f90b09be446e694935d) |
-| 🎓    | Tutorial Bar | [Tutorial Bar](https://www.tutorialbar.com/)                                                                                                                                                   |
+| 🌐🎓  | Tutorial Bar | [Tutorial Bar](https://www.tutorialbar.com/)                                                                                                                                                   |
+| 💻🎓  | Github       | [free_month_learning_resources/resources at main · josepraveen/free_month_learning_resources](https://github.com/josepraveen/free_month_learning_resources/tree/main/resources))               |
 
-- [free_month_learning_resources/resources at main · josepraveen/free_month_learning_resources](https://github.com/josepraveen/free_month_learning_resources/tree/main/resources)
+-
 - [Free Learning | Daily Programming eBook from Packt](https://www.packtpub.com/free-learning?utm_source=all+updates&utm_campaign=7c705a199e-packt_crm_new_freelearner_email_2&utm_medium=email&utm_term=0_c970747b22-7c705a199e-176907650&mc_cid=7c705a199e&mc_eid=926ae7a542#fl-jump?utm_source=mailchimp&utm_medium=email&utm_campaign=free_learner_onboarding)
 - [alexellis/k3sup: bootstrap Kubernetes with k3s over SSH < 1 min 🚀](https://github.com/alexellis/k3sup)
 - [rdotjain/cnf](https://github.com/rdotjain/cnf)
