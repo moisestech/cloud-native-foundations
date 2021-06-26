@@ -174,7 +174,7 @@ Using multiple containers and managing them can be quite hectic so you can use a
 - [openSUSE:Cheat sheet 13.1 - openSUSE Wiki](https://en.opensuse.org/openSUSE:Cheat_sheet_13.1#Services)
 - [SUSE & Rancher Community](https://community.suse.com/feed)
 - [SUSE Cloud foundations scholarship](https://www.notion.so/SUSE-Cloud-foundations-scholarship-1acf8437f5a441ca8abd1cc9cf4e3556)
-- <DT><A HREF="https://www.udemy.com/course/devops-crash-course-cicd-with-jenkins-pipelines-groovy-dsl/?LSNPUBID=6atJFJ4NNe4" ADD_DATE="1624502216" ICON="" >Free Jenkins Tutorial - DevOps Crash Course: CI/CD with Jenkins Pipelines Groovy DSL | Udemy</A>
+- [Free Jenkins Tutorial - DevOps Crash Course: CI/CD with Jenkins Pipelines Groovy DSL | Udemy](https://www.udemy.com/course/devops-crash-course-cicd-with-jenkins-pipelines-groovy-dsl/?LSNPUBID=6atJFJ4NNe4)
 - <DT><A HREF="https://www.udemy.com/course/git-and-github-for-devops-ci-cd/?LSNPUBID=6atJFJ4NNe4" ADD_DATE="1624502216" ICON="" >Free Git Tutorial - MASTER Git and Github for DevOps CI/CD | Udemy</A>
 - <DT><A HREF="https://www.freecodecamp.org/news/you-can-now-edit-anything-on-github-in-vs-code-without-cloning/" ADD_DATE="1624502216" ICON="" >How to Open Any Repo in VS Code Without Cloning It</A>
 - <DT><A HREF="https://www.redhat.com/en/topics/cloud-native-apps" ADD_DATE="1624502216" ICON="" >Understanding cloud-native apps</A>
