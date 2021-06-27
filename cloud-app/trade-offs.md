@@ -80,6 +80,50 @@ In this case, the UI remains the website that the user interacts with. However, 
 
 - There is no perfect way to design and create an application you must first carefully analyze the trade-offs of both architectures and then decide which one is perfect for your needs.
 
+design considerations :
+requirements (who is user, what functionality is needed, how input and output will be processed)
+available resources (financial condition, time frame).
+If you have more resources and engineers microservice is easy to adopt
+else monolith will help develop the product faster.
+Monoliths
+
+- same language
+- single repository
+  Microservices
+- choice of programing language for each service
+- seprate repository
+- every service is packaged seprately
+- communication through api
+- seprate resources for each service
+  Trade offs
+- developmnt complexity
+  - Monolith
+    - one language
+    - one repository
+    - Sequential development
+    - Replicates whole stack under load
+    - over consumption under load
+    - one delivery pipeline
+    - Entire stack is deployed at once
+    - low flexibilty
+    - low initial cost
+    - high cost at scale
+    - whole stack needs to be recovered
+    - low visibilty
+  - Micro services
+    - one or more language
+    - more repository
+    - concurrent development
+    - Replicates service under load
+    - balenced consumption under load
+    - More delivery pipeline
+    - Every service is deployed seprately
+    - high flexiilty
+    - high initial cost
+    - low cost at scale
+    - if any error, the specific service is recovered
+    - high visibilty
+
 ---
 
 ## Resources
