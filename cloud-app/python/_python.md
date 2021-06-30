@@ -39,7 +39,7 @@
 - [jefo2k/python-daily-pills: Daily knowledge pills to get better in Python](https://github.com/jefo2k/python-daily-pills)
 - [Code | Summer of K8s | Ambassador Labs](https://www.getambassador.io/summer-of-k8s/code/#month1-challenges)
 - [Installing packages using pip and virtual environments — Python Packaging User Guide](https://packaging.python.org/guides/installing-using-pip-and-virtual-environments/)
-- []()
+- [Python Basics: Lists, Dictionaries, & Booleans | Python - Mode Analytics](https://mode.com/python-tutorial/python-basics/)
 - []()
 - []()
 - []()
