@@ -36,7 +36,7 @@
 - ![Fast API](https://analyticsindiamag.com/wp-content/uploads/2019/11/cropped-aim-new-logo-1-22-3-32x32.jpg) [FastAPI vs Flask: Comparison Guide for Data Science Enthusiasts](https://analyticsindiamag.com/fastapi-vs-flask-comparison-guide-for-data-science-enthusiasts/)
 - ![]() [FLASK Notes](https://www.notion.so/FLASK-Notes-550ca32db66d4f8999ac94ac1df78674)
 - [Learn Flask for Python - Full Tutorial - YouTube](https://www.youtube.com/watch?v=Z1RJmh_OqeA&t=883s)
-- []()
+- [jefo2k/python-daily-pills: Daily knowledge pills to get better in Python](https://github.com/jefo2k/python-daily-pills)
 - []()
 - []()
 - []()
