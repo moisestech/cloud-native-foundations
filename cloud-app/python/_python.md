@@ -42,7 +42,7 @@
 - [Python Basics: Lists, Dictionaries, & Booleans | Python - Mode Analytics](https://mode.com/python-tutorial/python-basics/)
 - [Python Flask Tutorial: Full-Featured Web App Part 1 - Getting Started - YouTube](https://www.youtube.com/watch?v=MwZwr5Tvyxo)
 - [Python Exercises, Practice, Challenges – PYnative](https://pynative.com/python-exercises-with-solutions/)
-- []()
+- [Bitcoin price prediction using LSTM (Long Short-Term Memory) | by Kingard Nwankwoh | Jun, 2021 | Medium](https://kingard-nwankwoh01.medium.com/bitcoin-price-prediction-using-lstm-long-short-term-memory-b6bfe1aa14ef)
 - []()
 - []()
 - []()
