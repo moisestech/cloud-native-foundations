@@ -25,4 +25,7 @@
 - [Guide to CleanText: A Python Package to Clean Raw Text Data](https://analyticsindiamag.com/guide-to-cleantext-a-python-package-to-clean-raw-text-data/), _analyticsindiamag_
 - [How to generate a response in a python flask project](https://koenwoortman.com/python-flask-return-json-response/), _KoenWoortMan_, Website
 - [How to incorporate logging into a python app:](https://levelup.gitconnected.com/tutorial-on-python-logging-ac5f21e0a00), _KoenWoortMan_, Website
-- 
+
+## More Links
+
+- ![Learn Python](https://d2aov160eccqlv.cloudfront.net/271739eb287c43adb004792095a0b2fc/images/7e26cb80ef4e68f870f1e40b5ef46584.ico) [Learn Python Programming - Second Edition Free eBook | Packt](https://www.packtpub.com/free-ebook/learn-python-programming-second-edition/9781788996662)
