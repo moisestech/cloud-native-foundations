@@ -47,7 +47,7 @@
 - [Google IT Automation with Python Professional Certificate | Coursera](https://www.coursera.org/professional-certificates/google-it-automation)
 - [Learn Python On AWS Workshop :: Learn Python on AWS](https://learn-to-code.workshop.aws/)
 - [Data Science Interview Questions & Answers Udemy](https://www.udemy.com/course/data-science-interview-questions-and-answers/?couponCode=DS_INTERVIEW_UPLATZ)
-- []()
+- [What is a callable? - Python Morsels](https://www.pythonmorsels.com/topics/callables/)
 - []()
 - []()
 - []()
