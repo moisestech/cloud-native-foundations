@@ -28,8 +28,11 @@
 
 ## More Links
 
-- ![Learn Python](https://d2aov160eccqlv.cloudfront.net/271739eb287c43adb004792095a0b2fc/images/7e26cb80ef4e68f870f1e40b5ef46584.ico) [Learn Python Programming - Second Edition Free eBook | Packt](https://www.packtpub.com/free-ebook/learn-python-programming-second-edition/9781788996662)
-- ![Cloudinary](https://res.cloudinary.com/practicaldev/image/fetch/s--E8ak4Hr1--/c_limit,f_auto,fl_progressive,q_auto,w_32/https://dev-to.s3.us-east-2.amazonaws.com/favicon.ico) [33 GitHub projects I have bookmarked and you should - DEV Community](https://dev.to/devdefinitive/33-github-projects-i-have-bookmarked-and-you-should-298o)
+| ICON | WEBSITE                                                                                                                                                                              | LINK                                                                                                                                                         | Who |
+| ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------ | --- |
+| 📚   | ![Learn Python](https://d2aov160eccqlv.cloudfront.net/271739eb287c43adb004792095a0b2fc/images/7e26cb80ef4e68f870f1e40b5ef46584.ico) Packtpub                                         | [Learn Python Programming - Second Edition Free eBook Packt](https://www.packtpub.com/free-ebook/learn-python-programming-second-edition/9781788996662)      |     |
+| 🌐   | ![Cloudinary](https://res.cloudinary.com/practicaldev/image/fetch/s--E8ak4Hr1--/c_limit,f_auto,fl_progressive,q_auto,w_32/https://dev-to.s3.us-east-2.amazonaws.com/favicon.ico) Dev | [33 GitHub projects I have bookmarked and you should - DEV Community](https://dev.to/devdefinitive/33-github-projects-i-have-bookmarked-and-you-should-298o) |     |
+
 - ![]() []()
 - ![]() []()
 - ![]() []()
