@@ -29,3 +29,4 @@
 ## More Links
 
 - ![Learn Python](https://d2aov160eccqlv.cloudfront.net/271739eb287c43adb004792095a0b2fc/images/7e26cb80ef4e68f870f1e40b5ef46584.ico) [Learn Python Programming - Second Edition Free eBook | Packt](https://www.packtpub.com/free-ebook/learn-python-programming-second-edition/9781788996662)
+- ![]() []()
