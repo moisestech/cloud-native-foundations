@@ -40,7 +40,7 @@
 - [Code | Summer of K8s | Ambassador Labs](https://www.getambassador.io/summer-of-k8s/code/#month1-challenges)
 - [Installing packages using pip and virtual environments — Python Packaging User Guide](https://packaging.python.org/guides/installing-using-pip-and-virtual-environments/)
 - [Python Basics: Lists, Dictionaries, & Booleans | Python - Mode Analytics](https://mode.com/python-tutorial/python-basics/)
-- []()
+- [Python Flask Tutorial: Full-Featured Web App Part 1 - Getting Started - YouTube](https://www.youtube.com/watch?v=MwZwr5Tvyxo)
 - []()
 - []()
 - []()
