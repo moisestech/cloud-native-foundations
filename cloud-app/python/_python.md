@@ -53,7 +53,7 @@
 - [curl: 25 years and 200 releases later · The ReadME Project](https://github.com/readme/podcast/curl-25-years)
 - [An introduction to HTTP: everything you need to know](https://www.freecodecamp.org/news/http-and-everything-you-need-to-know-about-it/)
 - [Flask 2.0 - Talk Python podcast live stream - YouTube](https://www.youtube.com/watch?v=G54QyX_lWo8)
-- []()
+- [15 Free Games to Level Up Your Coding Skills - Skillcrush](https://skillcrush.com/blog/free-coding-games/)
 - []()
 - []()
 - []()
