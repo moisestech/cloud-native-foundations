@@ -51,7 +51,7 @@
 - [Flask Course - Python Web Application Development - YouTube](https://www.youtube.com/watch?v=Qr4QMBUPxWo)
 - [Python Microservices Web App (with React, Django, Flask) - Full Course - YouTube](https://www.youtube.com/watch?v=0iB5IPoTDts)
 - [curl: 25 years and 200 releases later · The ReadME Project](https://github.com/readme/podcast/curl-25-years)
-- []()
+- [An introduction to HTTP: everything you need to know](https://www.freecodecamp.org/news/http-and-everything-you-need-to-know-about-it/)
 - []()
 - []()
 - []()
