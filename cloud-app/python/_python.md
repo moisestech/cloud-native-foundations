@@ -61,4 +61,4 @@
 - [Python Flask Tutorial: Full-Featured Web App Part 1 - Getting Started - YouTube](https://www.youtube.com/watch?v=MwZwr5Tvyxo)
 - [Python REST APIs With Flask, Connexion, and SQLAlchemy – Real Python](https://realpython.com/flask-connexion-rest-api/)
 - [Building Recommender Systems with Machine Learning and AI | Udemy](https://www.udemy.com/course/building-recommender-systems-with-machine-learning-and-ai/)
-- []()
+- [Applied NLP Thinking: How to Translate Problems into Solutions](https://explosion.ai/blog/applied-nlp-thinking), **Website**, _Explosion ai_
