@@ -50,7 +50,7 @@
 - [What is a callable? - Python Morsels](https://www.pythonmorsels.com/topics/callables/)
 - [Flask Course - Python Web Application Development - YouTube](https://www.youtube.com/watch?v=Qr4QMBUPxWo)
 - [Python Microservices Web App (with React, Django, Flask) - Full Course - YouTube](https://www.youtube.com/watch?v=0iB5IPoTDts)
-- [curl: 25 years and 200 releases later · The ReadME Project](https://github.com/readme/podcast/curl-25-years)
+- [curl: 25 years and 200 releases later · The ReadME Project](https://github.com/readme/podcast/curl-25-years), **Github**
 - [An introduction to HTTP: everything you need to know](https://www.freecodecamp.org/news/http-and-everything-you-need-to-know-about-it/), **FreeCodeCamp**
 - [Flask 2.0, Talk Python podcast live stream](https://www.youtube.com/watch?v=G54QyX_lWo8), **YouTube**
 - [15 Free Games to Level Up Your Coding Skills](https://skillcrush.com/blog/free-coding-games/), **Skillcrush**
