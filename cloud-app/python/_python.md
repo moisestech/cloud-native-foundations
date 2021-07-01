@@ -59,6 +59,6 @@
 - [Python Microservices Full Course - Event-Driven Architecture with RabbitMQ - YouTube](https://www.youtube.com/watch?v=ddrucr_aAzA)
 - [Sketch2Code - Transform sketches into HTML using AI](https://sketch2code.azurewebsites.net/)
 - [Python Flask Tutorial: Full-Featured Web App Part 1 - Getting Started - YouTube](https://www.youtube.com/watch?v=MwZwr5Tvyxo)
-- []()
+- [Python REST APIs With Flask, Connexion, and SQLAlchemy – Real Python](https://realpython.com/flask-connexion-rest-api/)
 - []()
 - []()
