@@ -46,7 +46,7 @@
 - [just another api made with flask. dumlong, is name of a mountain from… | by Adnan Ahmed Khan | Medium](https://medium.com/@khanadnanxyz/just-another-api-made-with-flask-e7fe57145b31)
 - [Google IT Automation with Python Professional Certificate | Coursera](https://www.coursera.org/professional-certificates/google-it-automation)
 - [Learn Python On AWS Workshop :: Learn Python on AWS](https://learn-to-code.workshop.aws/)
-- [Data Science Interview Questions & Answers Udemy](https://www.udemy.com/course/data-science-interview-questions-and-answers/?couponCode=DS_INTERVIEW_UPLATZ)
+- [Data Science Interview Questions & Answers Udemy](https://www.udemy.com/course/data-science-interview-questions-and-answers/?couponCode=DS_INTERVIEW_UPLATZ), **Udemy**
 - [What is a callable?](https://www.pythonmorsels.com/topics/callables/), **Python Morsels**
 - [Flask Course - Python Web Application Development](https://www.youtube.com/watch?v=Qr4QMBUPxWo), **YouTube**
 - [Python Microservices Web App (with React, Django, Flask) - Full Course](https://www.youtube.com/watch?v=0iB5IPoTDts), **YouTube**
