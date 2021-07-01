@@ -55,7 +55,7 @@
 - [Flask 2.0 - Talk Python podcast live stream - YouTube](https://www.youtube.com/watch?v=G54QyX_lWo8)
 - [15 Free Games to Level Up Your Coding Skills - Skillcrush](https://skillcrush.com/blog/free-coding-games/)
 - [The Future of FastAPI and Pydantic is Bright - DEV Community](https://dev.to/tiangolo/the-future-of-fastapi-and-pydantic-is-bright-3pbm)
-- [25 Github Repositories Every Python Developer Should Know | by Abhay Parashar | Jun, 2021 | Level Up Coding](https://levelup.gitconnected.com/25-github-repositories-every-python-developer-should-know-ac848f6aa1fe)
+- [25 Github Repositories Every Python Developer Should Know](https://levelup.gitconnected.com/25-github-repositories-every-python-developer-should-know-ac848f6aa1fe), **Level Up Coding**, _Abhay Parashar_
 - [Python Microservices Full Course - Event-Driven Architecture with RabbitMQ](https://www.youtube.com/watch?v=ddrucr_aAzA), **YouTube**
 - [Transform sketches into HTML using AI](https://sketch2code.azurewebsites.net/), **Sketch2Code**
 - [Python Flask Tutorial: Full-Featured Web App Part 1 Getting Started](https://www.youtube.com/watch?v=MwZwr5Tvyxo), **YouTube**
