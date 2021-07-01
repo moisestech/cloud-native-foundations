@@ -55,7 +55,7 @@
 - [Flask 2.0 - Talk Python podcast live stream - YouTube](https://www.youtube.com/watch?v=G54QyX_lWo8)
 - [15 Free Games to Level Up Your Coding Skills - Skillcrush](https://skillcrush.com/blog/free-coding-games/)
 - [The Future of FastAPI and Pydantic is Bright - DEV Community](https://dev.to/tiangolo/the-future-of-fastapi-and-pydantic-is-bright-3pbm)
-- []()
+- [25 Github Repositories Every Python Developer Should Know | by Abhay Parashar | Jun, 2021 | Level Up Coding](https://levelup.gitconnected.com/25-github-repositories-every-python-developer-should-know-ac848f6aa1fe)
 - []()
 - []()
 - []()
