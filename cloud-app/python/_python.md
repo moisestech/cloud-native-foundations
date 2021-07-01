@@ -54,7 +54,7 @@
 - [An introduction to HTTP: everything you need to know](https://www.freecodecamp.org/news/http-and-everything-you-need-to-know-about-it/)
 - [Flask 2.0 - Talk Python podcast live stream - YouTube](https://www.youtube.com/watch?v=G54QyX_lWo8)
 - [15 Free Games to Level Up Your Coding Skills - Skillcrush](https://skillcrush.com/blog/free-coding-games/)
-- []()
+- [The Future of FastAPI and Pydantic is Bright - DEV Community](https://dev.to/tiangolo/the-future-of-fastapi-and-pydantic-is-bright-3pbm)
 - []()
 - []()
 - []()
