@@ -57,7 +57,7 @@
 - [The Future of FastAPI and Pydantic is Bright - DEV Community](https://dev.to/tiangolo/the-future-of-fastapi-and-pydantic-is-bright-3pbm)
 - [25 Github Repositories Every Python Developer Should Know | by Abhay Parashar | Jun, 2021 | Level Up Coding](https://levelup.gitconnected.com/25-github-repositories-every-python-developer-should-know-ac848f6aa1fe)
 - [Python Microservices Full Course - Event-Driven Architecture with RabbitMQ - YouTube](https://www.youtube.com/watch?v=ddrucr_aAzA)
-- []()
+- [Sketch2Code - Transform sketches into HTML using AI](https://sketch2code.azurewebsites.net/)
 - []()
 - []()
 - []()
