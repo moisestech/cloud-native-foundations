@@ -37,7 +37,7 @@
 - ![]() [FLASK Notes](https://www.notion.so/FLASK-Notes-550ca32db66d4f8999ac94ac1df78674)
 - [Learn Flask for Python - Full Tutorial - YouTube](https://www.youtube.com/watch?v=Z1RJmh_OqeA&t=883s)
 - [jefo2k/python-daily-pills: Daily knowledge pills to get better in Python](https://github.com/jefo2k/python-daily-pills)
-- [Code | Summer of K8s | Ambassador Labs](https://www.getambassador.io/summer-of-k8s/code/#month1-challenges)
+- [Code | Summer of K8s | Ambassador Labs](https://www.getambassador.io/summer-of-k8s/code/#month1-challenges), **Get Ambassador**
 - [Installing packages using pip and virtual environments — Python Packaging User Guide](https://packaging.python.org/guides/installing-using-pip-and-virtual-environments/), **Packaging Python**
 - [Python Basics: Lists, Dictionaries, & Booleans](https://mode.com/python-tutorial/python-basics/), **Mode Analytics**
 - [Python Flask Tutorial: Full-Featured Web App Part 1 - Getting Started - YouTube](https://www.youtube.com/watch?v=MwZwr5Tvyxo), **YouTube**
