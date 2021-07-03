@@ -44,7 +44,7 @@
 - [Python Exercises, Practice, Challenges – PYnative](https://pynative.com/python-exercises-with-solutions/)
 - [Bitcoin price prediction using LSTM (Long Short-Term Memory) | by Kingard Nwankwoh | Jun, 2021 | Medium](https://kingard-nwankwoh01.medium.com/bitcoin-price-prediction-using-lstm-long-short-term-memory-b6bfe1aa14ef)
 - [just another api made with flask. dumlong, is name of a mountain from… | by Adnan Ahmed Khan | Medium](https://medium.com/@khanadnanxyz/just-another-api-made-with-flask-e7fe57145b31)
-- [Google IT Automation with Python Professional Certificate | Coursera](https://www.coursera.org/professional-certificates/google-it-automation)
+- [Google IT Automation with Python Professional Certificate](https://www.coursera.org/professional-certificates/google-it-automation), **Coursera**
 - [Learn Python On AWS Workshop](https://learn-to-code.workshop.aws/), **Learn To Code**
 - [Data Science Interview Questions & Answers Udemy](https://www.udemy.com/course/data-science-interview-questions-and-answers/?couponCode=DS_INTERVIEW_UPLATZ), **Udemy**
 - [What is a callable?](https://www.pythonmorsels.com/topics/callables/), **Python Morsels**
