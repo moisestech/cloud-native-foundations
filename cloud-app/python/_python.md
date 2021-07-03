@@ -38,8 +38,8 @@
 - [Learn Flask for Python - Full Tutorial - YouTube](https://www.youtube.com/watch?v=Z1RJmh_OqeA&t=883s)
 - [jefo2k/python-daily-pills: Daily knowledge pills to get better in Python](https://github.com/jefo2k/python-daily-pills)
 - [Code | Summer of K8s | Ambassador Labs](https://www.getambassador.io/summer-of-k8s/code/#month1-challenges)
-- [Installing packages using pip and virtual environments — Python Packaging User Guide](https://packaging.python.org/guides/installing-using-pip-and-virtual-environments/)
-- [Python Basics: Lists, Dictionaries, & Booleans | Python - Mode Analytics](https://mode.com/python-tutorial/python-basics/)
+- [Installing packages using pip and virtual environments — Python Packaging User Guide](https://packaging.python.org/guides/installing-using-pip-and-virtual-environments/), **Packaging Python**
+- [Python Basics: Lists, Dictionaries, & Booleans](https://mode.com/python-tutorial/python-basics/), **Mode Analytics**
 - [Python Flask Tutorial: Full-Featured Web App Part 1 - Getting Started - YouTube](https://www.youtube.com/watch?v=MwZwr5Tvyxo), **YouTube**
 - [Python Exercises, Practice, Challenges – PYnative](https://pynative.com/python-exercises-with-solutions/), **PyNative**
 - [Bitcoin price prediction using LSTM (Long Short-Term Memory](https://kingard-nwankwoh01.medium.com/bitcoin-price-prediction-using-lstm-long-short-term-memory-b6bfe1aa14ef), **Medium**, _Kingard Nwankwoh_
