@@ -40,7 +40,7 @@
 - [Code | Summer of K8s | Ambassador Labs](https://www.getambassador.io/summer-of-k8s/code/#month1-challenges)
 - [Installing packages using pip and virtual environments — Python Packaging User Guide](https://packaging.python.org/guides/installing-using-pip-and-virtual-environments/)
 - [Python Basics: Lists, Dictionaries, & Booleans | Python - Mode Analytics](https://mode.com/python-tutorial/python-basics/)
-- [Python Flask Tutorial: Full-Featured Web App Part 1 - Getting Started - YouTube](https://www.youtube.com/watch?v=MwZwr5Tvyxo)
+- [Python Flask Tutorial: Full-Featured Web App Part 1 - Getting Started - YouTube](https://www.youtube.com/watch?v=MwZwr5Tvyxo), **YouTube**
 - [Python Exercises, Practice, Challenges – PYnative](https://pynative.com/python-exercises-with-solutions/), **PyNative**
 - [Bitcoin price prediction using LSTM (Long Short-Term Memory](https://kingard-nwankwoh01.medium.com/bitcoin-price-prediction-using-lstm-long-short-term-memory-b6bfe1aa14ef), **Medium**, _Kingard Nwankwoh_
 - [just another api made with flask. dumlong, is name of a mountain from](https://medium.com/@khanadnanxyz/just-another-api-made-with-flask-e7fe57145b31), **Medium**, _Adman Khan_
