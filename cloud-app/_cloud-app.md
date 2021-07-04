@@ -39,7 +39,7 @@ Using multiple containers and managing them can be quite hectic so you can use a
 
 ## [Cloud-Native Tooling](https://classroom.udacity.com/nanodegrees/nd064-1/parts/30cb07da-8fd4-4438-a209-b3457adb5d82/modules/7b21dfa4-aac8-4d24-82c5-65325e6dc691/lessons/092ac437-081d-4946-b54d-a2f537931c13/concepts/79ae4fb8-2601-43f5-a879-8470d4a6c21c)
 
-🎥 [Video Link](https://www.youtube.com/watch?v=OiwYjArTmGI)
+🎥 [Udacity, Video Link](https://www.youtube.com/watch?v=OiwYjArTmGI)
 
 - Overall, **Kubernetes** is a container orchestrator that is capable to problem-solve the integration of the following functionalities:
 
@@ -54,7 +54,7 @@ Using multiple containers and managing them can be quite hectic so you can use a
 
 ## [Stakeholders](https://classroom.udacity.com/nanodegrees/nd064-1/parts/30cb07da-8fd4-4438-a209-b3457adb5d82/modules/7b21dfa4-aac8-4d24-82c5-65325e6dc691/lessons/092ac437-081d-4946-b54d-a2f537931c13/concepts/a4eb94d3-e658-475d-bffe-04adf05e2776)
 
-🎥 [Video Link](https://www.youtube.com/watch?v=7ZYzviRREcI)
+🎥 [Udacity, Video Link](https://www.youtube.com/watch?v=7ZYzviRREcI)
 
 - An engineering team can use cloud-native tooling to enable quick delivery of **value to customers** and **easily extend** to new features and technologies. These are the main reasons why an organization needs to adopt cloud-native technologies. However, when trialing cloud-native tooling, there are two main perspectives to address: business and technical stakeholders.
 
@@ -83,7 +83,7 @@ Using multiple containers and managing them can be quite hectic so you can use a
 
 ---
 
-## [Recap]
+## Recap
 
 🎥 [Video Link](https://www.youtube.com/watch?v=1vpaXWBs6HU)
 
@@ -125,10 +125,10 @@ Using multiple containers and managing them can be quite hectic so you can use a
 - [Cloud Native 101 Video](https://www.youtube.com/watch?v=9Ik96SBaIvs), **YouTube**, _VMware Cloud Native Apps_
 - [Cloud Native DevOps Explained](https://www.youtube.com/watch?v=FzERTm_j2wE), **YouTube**, _IBM Cloud_
 
-| ICON  | WEBSITE           | LINK                                                                                                                                                                                                                                                                                                                                                           | Who          |
-| ----- | ----------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ |
-| 💻 ☁️ | Github            | [Udacity_Cloud_Native_Fundamentals](https://github.com/josepraveen/Udacity_Cloud_Native_Fundamentals)                                                                                                                                                                                                                                                          | Jose Praveen |
-| 🎓 ☸️ | Udacity           | [Scalable Microservices with Kubernetes](https://www.udacity.com/course/scalable-microservices-with-kubernetes--ud615)                                                                                                                                                                                                                                         |
+| ICON  | WEBSITE           | LINK                                                                                                                                                                                                                                                                                                                                                           |             | Who          |
+| ----- | ----------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- | ------------ |
+| 💻 ☁️ |                   | [Udacity_Cloud_Native_Fundamentals](https://github.com/josepraveen/Udacity_Cloud_Native_Fundamentals)                                                                                                                                                                                                                                                          | Github      | Jose Praveen |
+| 🎓 ☸️ |                   | [Scalable Microservices with Kubernetes](https://www.udacity.com/course/scalable-microservices-with-kubernetes--ud615)                                                                                                                                                                                                                                         | Udacity     |
 | 🎓 ☁️ | AWS Cloud         | [Comprehensive Cloud Skills Training Drives Digital Transformation Success](https://pages.awscloud.com/Globa_traincert_Get_AWS_Certified_Developer_Associate.html)                                                                                                                                                                                             |
 | 🌐📝  | Notion            | [Lesson 2: Architecture Consideration for Cloud Native Applications](https://www.notion.so/Lesson-2-Architecture-Consideration-for-Cloud-Native-Applications-5d04e5120f8b4f90b09be446e694935d)                                                                                                                                                                 |
 | 🌐🎓  | Tutorial Bar      | [Tutorial Bar](https://www.tutorialbar.com/)                                                                                                                                                                                                                                                                                                                   |
@@ -141,7 +141,7 @@ Using multiple containers and managing them can be quite hectic so you can use a
 | 🌐🏛️  | ACM               | [Association for Computing Machinery](https://www.acm.org/)                                                                                                                                                                                                                                                                                                    |
 | 🌐    | Javatpoint        | [Virtualization in Cloud Computing - javatpoint](https://www.javatpoint.com/virtualization-in-cloud-computing)                                                                                                                                                                                                                                                 |
 | 🌐    | Scrimba           | [Learn JavaScript for free - 7-hour interactive tutorial](https://scrimba.com/learn/learnjavascript)                                                                                                                                                                                                                                                           |
-| 🌐    | Medium            | [Automating Terraform with GitHub Actions](https://rohankalhans.medium.com/automating-terraform-with-github-actions-5b3aac5abea7)                                                                                                                                                                                                                              | Rohan Singh  |
+| 🌐    | Medium            | [Automating Terraform with GitHub Actions](https://rohankalhans.medium.com/automating-terraform-with-github-actions-5b3aac5abea7)                                                                                                                                                                                                                              | Rohan Singh |
 | 🌐    | TechTarget        | [Pros and cons of monolithic vs. microservices architecture](https://searchapparchitecture.techtarget.com/tip/Pros-and-cons-of-monolithic-vs-microservices-architecture)                                                                                                                                                                                       |
 | 🌐    | HCS Company       | [A short comparison of OpenShift and Cloud Foundry](https://www.hcs-company.com/blog/containers/a-short-comparison-of-openshift-and-cloud-foundry)                                                                                                                                                                                                             |
 | 🌐    |                   | [The Future of Vagrant - YouTube](https://www.youtube.com/watch?app=desktop&v=G20ugJR4Tmc)                                                                                                                                                                                                                                                                     |
