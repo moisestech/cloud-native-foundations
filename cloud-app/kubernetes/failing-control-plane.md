@@ -18,3 +18,7 @@ Failure is expected in any technology stack. However, it is more important to ha
 </ul>
 <p>These services, prompt the automatic recovery of an application if an error is encountered. However, failure can happen at the cluster-level, for example, a control plane failure. In this case, a subset or all control plane components are compromised. While the situation is disastrous, the applications are still running and handling traffic.  The downside of the control plane failure is that no new workloads can be deployed and no changes can be applied to the existing workloads.</p>
 <p>The engineering team needs to recover the control plane components as a critical priority. However, they should not worry about recovering applications, as these will be intact and still handling requests. </p>
+
+---
+
+- [[_kubernetes]]
