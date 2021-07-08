@@ -77,3 +77,9 @@ In a application that uses microservices you can use more than one programming l
 - **A stale operation** - is performed for services that are no longer providing any business value, and should be archived or deprecated. For example, services that were used to perform a one-off migration process.
 
 - [Modern Banking in 1500 Micro-services](https://www.youtube.com/watch?v=t7iVCIYQbgk), watch how Monzo is managing thousands of micro-services and evolves their ecosystem.
+
+---
+
+## Related
+
+- [[_cloud-app]]
