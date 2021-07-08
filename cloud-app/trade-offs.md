@@ -134,3 +134,7 @@ Monoliths
 - [Containers vs VMs What's the difference](https://www.youtube.com/watch?v=cjXI-yxqGTI)
 - [Cloud Native Architecture: Monoliths or Microservices?](https://youtu.be/BmPnNmN9jtc), **YouTube**, _Goutham Veeramachaneni_
 - [Microservices vs Monolithic Architecture](https://www.mulesoft.com/resources/api/microservices-vs-monolithic)
+
+---
+
+[[microservices]]
