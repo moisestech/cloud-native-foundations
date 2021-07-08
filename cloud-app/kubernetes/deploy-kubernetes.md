@@ -118,3 +118,9 @@ localhost   Ready    master   74m   v1.18.9+k3s1   10.0.2.15     &lt;none&gt;   
 PodCIDR:                      10.42.0.0/24
 PodCIDRs:                     10.42.0.0/24
 </code></pre>
+
+---
+
+## Related
+
+- [[_kubernetes]]
