@@ -9,3 +9,7 @@
 
 - [Introduction to Vagrant DevOps Training](https://www.youtube.com/watch?v=Bv6-ClIitYs), _Visual Path_
 - [Kube 2, Setup Kubernetes Cluster with Vagrant](https://m.youtube.com/watch?v=wPdIBeWJJsg), _OpenSource_
+
+---
+
+- [[_vagrant]]
