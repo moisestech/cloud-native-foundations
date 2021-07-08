@@ -215,3 +215,9 @@ Explore more details about different management techniques and advanced configur
 - [Declarative Management of Kubernetes Objects Using Configuration Files](https://kubernetes.io/docs/tasks/manage-kubernetes-objects/declarative-config/), _Kubernetes_, Website
 - [Configure Liveness, Readiness Probes for a Deployment](https://kubernetes.io/docs/tasks/configure-pod-container/configure-liveness-readiness-startup-probes/), _Kubernetes_, Website
 - [Managing Resources for Containers](https://kubernetes.io/docs/tasks/configure-pod-container/configure-liveness-readiness-startup-probes/), _Kubernetes_, Website
+
+---
+
+## Related
+
+- [[_kubernetes]]
