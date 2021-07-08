@@ -5,3 +5,9 @@
 ---
 
 ## Course Videos
+
+---
+
+## Related
+
+- [[_kubernetes]]
