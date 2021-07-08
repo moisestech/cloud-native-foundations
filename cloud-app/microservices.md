@@ -1,4 +1,4 @@
-# Micro-services
+# Microservices
 
 ---
 
@@ -21,3 +21,10 @@
 - [Microservice Application Design](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/multi-container-microservice-net-applications/microservice-application-design)
 - [Microservices Guide](https://martinfowler.com/microservices/), _MartinFowler_
 - [What are microservices?](https://microservices.io/), _Microservices IO_
+
+---
+
+## Related
+
+- [[_kubernetes]]
+- [[_cloud-app]]
