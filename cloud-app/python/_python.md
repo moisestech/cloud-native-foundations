@@ -66,3 +66,9 @@
 | 🌐  | **Real Python**                                                                                                                                                            | [Python REST APIs With Flask, Connexion, and SQLAlchemy](https://realpython.com/flask-connexion-rest-api/)                                                                   |                    |
 | 🌐  | **Udemy**                                                                                                                                                                  | [Building Recommender Systems with Machine Learning and AI](https://www.udemy.com/course/building-recommender-systems-with-machine-learning-and-ai/)                         |                    |
 | 🌐  | **Website**                                                                                                                                                                | [Applied NLP Thinking: How to Translate Problems into Solutions](https://explosion.ai/blog/applied-nlp-thinking)                                                             | _Explosion ai_     |
+
+---
+
+## Related
+
+- [[_cloud-app]]
