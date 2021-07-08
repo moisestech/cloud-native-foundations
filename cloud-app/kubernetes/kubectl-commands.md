@@ -1,4 +1,4 @@
-# Kubectl Commands
+# Kubectl Cmnds
 
 Kubectl provides a rich set of actions that can be used to interact, manage, and configure Kubernetes resources. Below is a list of handy kubectl commands used in practice.
 
@@ -51,3 +51,7 @@ Create Resources
 ### Blog Post
 
 - [3 Basic Kubernetes Shortcurs for Gaster Command Line Kung Fu](https://medium.com/james-reads-public-cloud-technology-blog/3-basic-kubernetes-shortcuts-for-faster-command-line-kung-fu-5c041295ea78), **Medium**, _James Read Public Cloud Tech_
+
+---
+
+[[_kubernetes]]
