@@ -4,7 +4,4 @@
 
 ### Related
 
-[[_cd]]  
-[[argocd]]  
-[[config-mgmt]]  
-[[helm]]
+- [[_cd]]
