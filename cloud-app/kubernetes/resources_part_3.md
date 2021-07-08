@@ -81,3 +81,9 @@ kubectl describe secret team-token
 ```." role="button" draggable="true" class="drag-item--drag-item--3sB2T" tabindex="0"><div class="_15vzQlp3FJ8f94suLiPCPf ureact-markdown "><pre><code class="lang-bash">kubectl describe secret team-token
 </code></pre>
 </div></div></div></div></div></div></div>
+
+---
+
+## Related
+
+- [[_kubernetes]]
