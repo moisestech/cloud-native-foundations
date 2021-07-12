@@ -1,0 +1,5 @@
+## Kubeconfig
+
+---
+
+[[_kubernetes]]
