@@ -164,7 +164,10 @@ Explore Kubernetes features:
 
 ## 🎓 Courses
 
-- [SUSE & Rancher Community Dev Workflows, and k3s](https://community.suse.com/all-courses), **Website**, _Rancher Community_
+|     |     |                                                                                           |             |                     |
+| --- | --- | ----------------------------------------------------------------------------------------- | ----------- | ------------------- |
+| 🌐  |     | [SUSE & Rancher Community Dev Workflows, and k3s](https://community.suse.com/all-courses) | **Website** | _Rancher Community_ |
+
 - [Getting Started with Google Kubernetes Engine](https://www.coursera.org/learn/google-kubernetes-engine), **Website**, _Coursera_
 - [Kubernetes for developers](https://www.udemy.com/share/101BQaAkYZc19WQ3w=/), **Website**, _Udemy_
 - [Kubernetes For Container Orchestration](https://www.youtube.com/watch?v=Iz6jwltiNyY), **Website**, _Eudereka_
