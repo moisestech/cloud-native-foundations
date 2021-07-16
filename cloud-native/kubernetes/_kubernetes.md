@@ -168,17 +168,15 @@ Explore Kubernetes features:
 | --- | --- | -------------------------------------------------------------------------------------------------------- | ----------- | ------------------- |
 | 🌐  |     | [SUSE & Rancher Community Dev Workflows, and k3s](https://community.suse.com/all-courses)                | **Website** | _Rancher Community_ |
 | 🌐  |     | [Getting Started with Google Kubernetes Engine](https://www.coursera.org/learn/google-kubernetes-engine) | **Website** | _Coursera_          |
-| 🌐  |     | [SUSE & Rancher Community Dev Workflows, and k3s](https://community.suse.com/all-courses)                | **Website** | _Rancher Community_ |
-| 🌐  |     | [SUSE & Rancher Community Dev Workflows, and k3s](https://community.suse.com/all-courses)                | **Website** | _Rancher Community_ |
-| 🌐  |     | [SUSE & Rancher Community Dev Workflows, and k3s](https://community.suse.com/all-courses)                | **Website** | _Rancher Community_ |
-| 🌐  |     | [SUSE & Rancher Community Dev Workflows, and k3s](https://community.suse.com/all-courses)                | **Website** | _Rancher Community_ |
-| 🌐  |     | [SUSE & Rancher Community Dev Workflows, and k3s](https://community.suse.com/all-courses)                | **Website** | _Rancher Community_ |
-| 🌐  |     | [SUSE & Rancher Community Dev Workflows, and k3s](https://community.suse.com/all-courses)                | **Website** | _Rancher Community_ |
-| 🌐  |     | [SUSE & Rancher Community Dev Workflows, and k3s](https://community.suse.com/all-courses)                | **Website** | _Rancher Community_ |
+| 🌐  |     | [Kubernetes for developers](https://www.udemy.com/share/101BQaAkYZc19WQ3w=/)                             | **Website** | _Udemy_             |
+| 🌐  |     | [Kubernetes For Container Orchestration](https://www.youtube.com/watch?v=Iz6jwltiNyY)                    | **YouTube** | _Eudereka_          |
+| 🌐  |     | [100 Days of Kubernetes](https://www.youtube.com/playlist?list=PLWnens-FYbIpUpmiiNYfkqTZQUYppGMFV)       | **Website** |                     |
+| 🌐  |     | [SUSE & Rancher Community Dev Workflows, and k3s](https://community.suse.com/all-courses)                | **Website** |                     |
+| 🌐  |     | [SUSE & Rancher Community Dev Workflows, and k3s](https://community.suse.com/all-courses)                | **Website** |                     |
+| 🌐  |     | [SUSE & Rancher Community Dev Workflows, and k3s](https://community.suse.com/all-courses)                | **Website** |                     |
+| 🌐  |     | [SUSE & Rancher Community Dev Workflows, and k3s](https://community.suse.com/all-courses)                | **Website** |                     |
 
-- [Kubernetes for developers](https://www.udemy.com/share/101BQaAkYZc19WQ3w=/), **Website**, _Udemy_
-- [Kubernetes For Container Orchestration](https://www.youtube.com/watch?v=Iz6jwltiNyY), **Website**, _Eudereka_
-- [100 Days of Kubernetes](https://www.youtube.com/playlist?list=PLWnens-FYbIpUpmiiNYfkqTZQUYppGMFV), **YouTube**, _Anais Urlichs_
+- , **YouTube**, _Anais Urlichs_
 - [Intro to Containers w/ Docker, Kubernetes & OpenShit](https://www.coursera.org/learn/ibm-containers-docker-kubernetes-openshift), **Coursera**, _IBM_
 - [SUSE Academy Class](https://community.suse.com/share/F1pMnGSvpP0S8gMl?utm_source=manual), **Website**, _Academy Classes_
 - [Kubernetes and Docker: The Conatiner Masterclass](https://www.packtpub.com/product/kubernetes-and-docker-the-container-masterclass-video/9781801075084), **Website**, _Pack_
