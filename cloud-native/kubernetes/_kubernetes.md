@@ -178,6 +178,10 @@ Explore Kubernetes features:
 
 ### Github
 
+|     |     |                                                                                           |             |                     |
+| --- | --- | ----------------------------------------------------------------------------------------- | ----------- | ------------------- |
+| 🌐  |     | [SUSE & Rancher Community Dev Workflows, and k3s](https://community.suse.com/all-courses) | **Website** | _Rancher Community_ |
+
 - [Microservices Basics](https://github.com/Eifel42/microservices-basics), **GitHub**, _Eifel42_
 - [Kubernetes The Hard Way](), **GitHub**, _KelseyHighTower_
 
