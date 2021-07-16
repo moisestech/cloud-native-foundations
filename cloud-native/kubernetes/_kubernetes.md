@@ -178,17 +178,17 @@ Explore Kubernetes features:
 
 ### Github
 
-|     |     |                                                                                           |             |                     |
-| --- | --- | ----------------------------------------------------------------------------------------- | ----------- | ------------------- |
-| 🌐  |     | [SUSE & Rancher Community Dev Workflows, and k3s](https://community.suse.com/all-courses) | **Website** | _Rancher Community_ |
-
-- [Microservices Basics](https://github.com/Eifel42/microservices-basics), **GitHub**, _Eifel42_
-- [Kubernetes The Hard Way](), **GitHub**, _KelseyHighTower_
+|     |     |                                                                         |            |                   |
+| --- | --- | ----------------------------------------------------------------------- | ---------- | ----------------- |
+| 🌐  |     | [Microservices Basics](https://github.com/Eifel42/microservices-basics) | **GitHub** | _Eifel42_         |
+| 🌐  |     | [Kubernetes The Hard Way]()                                             | **GitHub** | _KelseyHighTower_ |
 
 ### Books
 
-- [Mastering Kubernetes](https://subscription.packtpub.com/book/application_development/9781788999786), **Website**, _Pack_
-- [The Kubernetes Handbook](https://www.freecodecamp.org/news/the-kubernetes-handbook/), **Website**, _freeCodeCamp_
+|     |     |                                                                                                      |             |                |
+| --- | --- | ---------------------------------------------------------------------------------------------------- | ----------- | -------------- |
+| 🌐  |     | [Mastering Kubernetes](https://subscription.packtpub.com/book/application_development/9781788999786) | **Website** | _Pack_         |
+| 🌐  |     | [The Kubernetes Handbook](https://www.freecodecamp.org/news/the-kubernetes-handbook/)                | **GitHub**  | _freeCodeCamp_ |
 
 ### 📝 Blog Post
 
