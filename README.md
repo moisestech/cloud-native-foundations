@@ -3,9 +3,11 @@
 <img src="./assets/images/logos/udacity_logo.png" width="200px" />
 <img src="./assets/images/logos/suse_logo.jpeg" width="200px"/>
 
-## Hi my name is Moises Sanabria. I am a passionate Machine Learning Engineer building Cloud Native End-to-End solutions. This repo documents my SUSE Cloud Native Foundations Udacity Scholarship using the Foam Note-taking Graph Editor
+## Hi my name is **Moises Sanabria**. I am a passionate Machine Learning Engineer building Cloud Native End-to-End solutions. This repo documents my SUSE Cloud Native Foundations Udacity Scholarship using the Foam Note-taking Graph Editor
 
 ---
+
+<img src="./assets/images/udacity_cnf_course_outline.png?raw-true"/>
 
 ## Lessons
 
