@@ -116,7 +116,7 @@ By default, Docker will create OCI (Open Container Initiative) compliant images.
 - [Containerization Explained](https://www.youtube.com/watch?v=0qotVMX-J5s), **YouTube**, _IBM Cloud_
 - [Introduction to Kubernetes and Docker](https://www.youtube.com/watch?v=PfRWP60qxPM), **YouTube**, _Caleb Curry_
 - [Kubernetes vs Docker](https://www.youtube.com/watch?v=2vMEQ5zs1ko&t=389s), **YouTube**, _IBM Cloud_
-- [Intro to Microservices, Dockerm and Kubernetes](https://www.youtube.com/watch?v=1xo-0gCVhTU), _James Quigley_, **YouTube**
+- [Intro to Microservices, Dockerm and Kubernetes](https://www.youtube.com/watch?v=1xo-0gCVhTU), **YouTube**, _James Quigley_
 
 ### 🛠️ Tools
 
