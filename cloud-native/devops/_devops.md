@@ -1,6 +1,6 @@
 # Dev Ops
 
-DT><A HREF="https://www.freecodecamp.org/news/devops-engineering-course-for-beginners/" ADD_DATE="1626489459" ICON="" >DevOps Engineering Course for Beginners</A>
+- [DevOps Engineering Course for Beginners](https://www.freecodecamp.org/news/devops-engineering-course-for-beginners/")
 
 <DT><A HREF="https://www.youtube.com/watch?v=FzERTm_j2wE" ADD_DATE="1626489459" ICON="" >Cloud Native DevOps Explained - YouTube</A>
 <DT><A HREF="https://www.youtube.com/watch?v=20QUNgFIrK0" ADD_DATE="1626489459" ICON="" >(3618) Software as a Service (SaaS) Explained in 5 mins - YouTube</A>
