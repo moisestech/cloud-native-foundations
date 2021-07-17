@@ -6,5 +6,6 @@
 - [PaaS Explained - YouTube](https://www.youtube.com/watch?v=QAbqJzd0PEE")
 - [Understanding your GKE costs - YouTube](https://www.youtube.com/watch?v=agFHx1cTwWw")
 - [DevOps In 10 Minutes | What Is DevOps For Beginners | DevOps Tutorial For Beginners | Simplilearn - YouTube](https://www.youtube.com/watch?v=wUz5iuKz1OU)
-<DT><A HREF="https://medium.com/hackernoon/the-2018-devops-roadmap-31588d8670cb" ADD_DATE="1626489459" ICON="" >The 2021 DevOps RoadMap [UPDATED] | by javinpaul | HackerNoon.com | Medium</A>
+- [The 2021 DevOps RoadMap [UPDATED] | by javinpaul | HackerNoon.com | Medium](https://medium.com/hackernoon/the-2018-devops-roadmap-31588d8670cb)
+
 <DT><A HREF="https://digital.ai/sites/default/files/pictures/2020-06/Digital.ai_Periodic-Table-of-DevOps.pdf" ADD_DATE="1626489459" ICON="" >Digital.ai-Periodic-Table-of-DevOps-Tools-4.2</A>
