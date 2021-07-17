@@ -126,8 +126,8 @@ By default, Docker will create OCI (Open Container Initiative) compliant images.
 
 ## Refactor Todo
 
-- [Free Docker Tutorial - Docker Tutorial for Beginners practical hands on -Devops](https://www.udemy.com/course/docker-for-beginners-tutorial-with-practical-example/?LSNPUBID=6atJFJ4NNe4), **Udemy**
-- [Free Web Development Tutorial - Continuous integration with Jenkins](https://www.udemy.com/course/continuous-integration-with-jenkins/?LSNPUBID=6atJFJ4NNe4)
+- [Practical Docker for DevOp Beginners](https://www.udemy.com/course/docker-for-beginners-tutorial-with-practical-example/?LSNPUBID=6atJFJ4NNe4), **Udemy**
+- [Web Dev Continuous integration w/ Jenkins](https://www.udemy.com/course/continuous-integration-with-jenkins/?LSNPUBID=6atJFJ4NNe4)
 - [Free Jenkins Tutorial - DevOps Crash Course: CI/CD with Jenkins Pipelines Groovy DSL](https://www.udemy.com/course/devops-crash-course-cicd-with-jenkins-pipelines-groovy-dsl/?LSNPUBID=6atJFJ4NNe4)
 - [SUSE & Rancher Community](https://community.suse.com/share/F1pMnGSvpP0S8gMl?utm_source=manual)
 
