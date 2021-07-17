@@ -7,7 +7,7 @@
 
 ---
 
-<img src="./assets/images/udacity_cnf_course_outline.png?raw-true"/>
+<img src="./assets/images/lessons/udacity_cnf_course_outline.png?raw-true"/>
 
 ## Lessons
 
