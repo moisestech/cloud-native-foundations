@@ -7,4 +7,4 @@
 - [Understanding your GKE costs - YouTube](https://www.youtube.com/watch?v=agFHx1cTwWw"), **YouTube**
 - [DevOps In 10 Minutes | What Is DevOps For Beginners | DevOps Tutorial For Beginners | Simplilearn - YouTube](https://www.youtube.com/watch?v=wUz5iuKz1OU), **YouTube**, _SimpliLearn_
 - [The 2021 DevOps RoadMap](https://medium.com/hackernoon/the-2018-devops-roadmap-31588d8670cb), **Medium**, _HackerNoon_, _JavinPaul_
-- [Digital.ai-Periodic-Table-of-DevOps-Tools-4.2](https://digital.ai/sites/default/files/pictures/2020-06/Digital.ai_Periodic-Table-of-DevOps.pdf)"
+- [Periodic Table of DevOps Tools](https://digital.ai/sites/default/files/pictures/2020-06/Digital.ai_Periodic-Table-of-DevOps.pdf)", **Digital AI**
