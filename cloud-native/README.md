@@ -1,6 +1,6 @@
 # Cloud Native
 
-<img src="https://raw.githubusercontent.com/moisestech/cloud-native-foundations/master/assets/images/diagrams/cloud-native-diagram_1.png" width="200px" style="max-width: 200px; border-radius: 30px;"/>
+<img src="https://raw.githubusercontent.com/moisestech/cloud-native-foundations/master/assets/images/diagrams/cloud-native-diagram_1.png" width="500px" style="max-width: 500px; border-radius: 30px;"/>
 
 ## 🏛 [Architecture](https://github.com/moisestech/cloud-native-foundations/blob/master/cloud-native/architecture/_arch.md)
 
