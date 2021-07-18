@@ -1,6 +1,6 @@
 # Cloud Native
 
-<img src=""/>
+<img src="https://raw.githubusercontent.com/moisestech/cloud-native-foundations/master/assets/images/diagrams/cloud-native-diagram_1.png" width="200px" style="max-width: 200px; border-radius: 30px;"/>
 
 ## 🏛 [Architecture](https://github.com/moisestech/cloud-native-foundations/blob/master/cloud-native/architecture/_arch.md)
 
@@ -12,7 +12,7 @@
 
 ## 🟣[Vagrant](https://github.com/moisestech/cloud-native-foundations/blob/master/cloud-native/vagrant/_vagrant.md)
 
-## 🚢[Kubernetes](https://github.com/moisestech/cloud-native-foundations/blob/master/cloud-native/kubernetes/_kubernetes.md)
+## 🐙[Kubernetes](https://github.com/moisestech/cloud-native-foundations/blob/master/cloud-native/kubernetes/_kubernetes.md)
 
 ## 🗺️[Dev Ops](https://github.com/moisestech/cloud-native-foundations/blob/master/cloud-native/devops/_devops.md)
 
