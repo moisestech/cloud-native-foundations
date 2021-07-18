@@ -1,5 +1,0 @@
-# Monoliths
-
----
-
-[[_kubernetes]]
