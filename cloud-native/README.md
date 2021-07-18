@@ -4,10 +4,10 @@
 
 ## 🏛 [Architecture](https://github.com/moisestech/cloud-native-foundations/blob/master/cloud-native/architecture/_arch.md)
 
-- [Considerations]
-- [Microservice]
-- [Monolith]
-- [Hybrid]
+- [Considerations]()
+- [Microservice]()
+- [Monolith]()
+- [Hybrid]()
 
 ## 🐍 [Python](https://github.com/moisestech/cloud-native-foundations/blob/master/cloud-native/python/_python.md)
 
