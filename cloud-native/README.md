@@ -4,15 +4,27 @@
 
 ## 🏛 [Architecture](https://github.com/moisestech/cloud-native-foundations/blob/master/cloud-native/architecture/_arch.md)
 
+- [Considerations]
+- [Microservice]
+- [Monolith]
+- [Hybrid]
+
 ## 🐍 [Python](https://github.com/moisestech/cloud-native-foundations/blob/master/cloud-native/python/_python.md)
+
+- [Flask]()
+- [Numpy]()
 
 ## 🏗️[Microservices](https://github.com/moisestech/cloud-native-foundations/blob/master/cloud-native/microservices/_microservices.md)
 
 ## 🐳[Docker](https://github.com/moisestech/cloud-native-foundations/blob/master/cloud-native/docker/_docker.md)
 
+- [Docker Commands]()
+
 ## 🟣[Vagrant](https://github.com/moisestech/cloud-native-foundations/blob/master/cloud-native/vagrant/_vagrant.md)
 
 ## 🐙[Kubernetes](https://github.com/moisestech/cloud-native-foundations/blob/master/cloud-native/kubernetes/_kubernetes.md)
+
+- [Resources]
 
 ## 🗺️[Dev Ops](https://github.com/moisestech/cloud-native-foundations/blob/master/cloud-native/devops/_devops.md)
 
