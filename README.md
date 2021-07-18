@@ -6,8 +6,6 @@
 
 ---
 
----
-
 <img src="./assets/images/lessons/udacity_cnf_course_outline.png?raw-true"/>
 
 ## Lessons
