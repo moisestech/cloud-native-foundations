@@ -1,9 +1,10 @@
 # Cloud Native Foundations
 
-<img src="./assets/images/logos/udacity_logo.png" width="200px" />
-<img src="./assets/images/logos/suse_logo.jpeg" width="200px"/>
+<img src="./assets/images/logos/udacity_cnf_tools_preview.png" />
 
-## Hi my name is **Moises Sanabria**. I am a passionate Machine Learning Engineer building Cloud Native End-to-End solutions. This repo documents my SUSE Cloud Native Foundations Udacity Scholarship using the Foam Note-taking Graph Editor
+## Hi my name is 👨🏽‍💻 **Moises Sanabria**. I am a passionate 🧠 Machine Learning Engineer ☁️ Cloud Native End-to-End solutions. This repo documents my SUSE Cloud Native Foundations Udacity Scholarship using the [Foam Note-taking Graph Editor](https://foambubble.github.io/foam/#how-do-i-use-foam).
+
+---
 
 ---
 
@@ -35,7 +36,7 @@
 ## Lesson 2
 
 <details>
-    <summary><a href="" style="font-size: 1.5em;">Architecture Consideration for Cloud Native Applications</a></summary>
+    <summary><a href="https://github.com/moisestech/cloud-native-foundations/blob/master/cloud-native/microservices/arch-consider.md" style="font-size: 1.5em;">Architecture Consideration for Cloud Native Applications</a></summary>
     Monoliths and Microservices, their differences, and their pros and cons
 
 ### Notes in Repo
