@@ -82,4 +82,4 @@ In a application that uses microservices you can use more than one programming l
 
 ## Related
 
-- [[_cloud-app]]
+- [[_arch]]
