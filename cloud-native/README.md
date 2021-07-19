@@ -5,8 +5,6 @@
 ## 🏛 [Architecture](https://github.com/moisestech/cloud-native-foundations/blob/master/cloud-native/architecture/_arch.md)
 
 - [Considerations]()
-- [Microservice]()
-- [Monolith]()
 - [Hybrid]()
 
 ## 🐍 [Python](https://github.com/moisestech/cloud-native-foundations/blob/master/cloud-native/python/_python.md)
@@ -35,3 +33,19 @@
 ## 🛣️[CI](https://github.com/moisestech/cloud-native-foundations/blob/master/cloud-native/ci/_ci.md)
 
 ## 🚀[CD](https://github.com/moisestech/cloud-native-foundations/blob/master/cloud-native/cd/_cd.md)
+
+---
+
+## Related Foam links
+
+- [[_arch]]
+- [[_python]]
+- [[microservices]]
+- [[_docker]]
+- [[_vagrant]]
+- [[_kubernetes]]
+- [[_devops]]
+- [[_paas]]
+- [[_faas]]
+- [[_ci]]
+- [[_cd]]
