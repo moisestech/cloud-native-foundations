@@ -4,6 +4,8 @@
 
 ## Hi my name is 👨🏽‍💻 **Moises Sanabria**. I am a passionate 🧠 Machine Learning Engineer ☁️ Cloud Native End-to-End solutions. This repo documents my SUSE Cloud Native Foundations Udacity Scholarship using the [Foam Note-taking Graph Editor](https://foambubble.github.io/foam/#how-do-i-use-foam).
 
+<img src="./assets/images/lessons/cloud_foundations_foam_node_graph.gif?raw-true"/>
+
 ---
 
 <img src="./assets/images/lessons/udacity_cnf_course_outline.png?raw-true"/>
@@ -131,18 +133,6 @@
     Coming Soon!
 
 </details>
-
----
-
-## Projects
-
-### [Argocd]()
-
-### [Helm]()
-
-### [Kubernetes]()
-
-### [Techtrends]()
 
 ---
 
