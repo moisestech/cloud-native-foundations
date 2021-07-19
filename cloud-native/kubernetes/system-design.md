@@ -1,7 +1,8 @@
+# System Design
+
 Glossary
 
-System Design
-Monolith:
+Monolith
 application design where all application tiers are managed as a single unit
 
 Microservice:
@@ -102,3 +103,9 @@ package manager tool used to template a suite of Kubernetes manifests.
 
 Helm chart:
 a collection of configuration, input, and templated YAML files used to deploy Kubernetes resources.
+
+---
+
+## Related Foam Links
+
+- [[_arch]]
