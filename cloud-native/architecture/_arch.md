@@ -6,4 +6,4 @@
 
 ## Related
 
-- [[arch-consider]]
+- [[README]]
