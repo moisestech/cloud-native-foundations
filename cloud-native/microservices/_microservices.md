@@ -27,4 +27,3 @@
 ## Related
 
 - [[_kubernetes]]
-- [[_cloud-app]]
