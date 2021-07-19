@@ -26,3 +26,9 @@
 ### Blog Post
 
 - [The Flask Mega Tutorial Part 1](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world), _MiguelGrinberg_, Website
+
+---
+
+## Foam Related
+
+- [[_python]]
