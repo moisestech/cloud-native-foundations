@@ -44,4 +44,8 @@
 - [CI/CD: Continuous Integration & Delivery Explained](https://semaphoreci.com/cicd)
 - [What’s the Difference Between Continuous Integration, Continuous Deployment and Continuous Delivery?](https://semaphoreci.com/blog/2017/07/27/what-is-the-difference-between-continuous-integration-continuous-deployment-and-continuous-delivery.html)
 
---
+---
+
+## Related
+
+- [[README]]
