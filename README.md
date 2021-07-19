@@ -144,8 +144,7 @@
 
 ## My commitment to the Program
 
-My commitment to the program is due to my use to AWS, as I use its SageMaker to train some machine learning models that will either consume too much time over my local setup or even are too big for a local setup
-so, this program will help me to digest the cloud concepts much better and how can I build a docker container regardless the purpose of my application, and so if you are looking forward to building applications.
+I am committed to the Udacity Scholarship to advance my experience AWS Infrastructure as a Service. I hope that my understanding of Cloud Native solutions support my AWS SageMaker Knowledge to train machine learning models through enterprise solutions. I believe this program will help me digest the cloud native concepts much better through a community led environment and support, alongside self paced hands-on projects.
 
 ---
 
