@@ -70,11 +70,11 @@
 
 ### Lesson 3 Notes in Repo
 
-[Docker](./cloud-app/docker/_docker.md)  
-[Docker Commands](./cloud-app/docker/docker_commands.md)  
-[VM to Containers](./cloud-app/docker/vm-to-containers.md)
+[Docker]()  
+[Docker Commands]()  
+[VM to Containers]()
 
-[Kubernetes]()  
+[Kubernetes]()
 [Deploy Kubernetes]()  
 [Gateway API]()  
 [Kubeconfig]()  
@@ -146,14 +146,9 @@
 
 ---
 
-## Related
+## Related links to Foam
 
-[[_cloud-app]]  
-[[monoliths]]  
-[[microservices]]  
-[[_flask]]  
-[[_docker]]  
-[[_kubernetes]]
+- [[README]]
 
 ---
 
