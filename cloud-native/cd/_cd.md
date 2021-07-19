@@ -1,6 +1,6 @@
 # CD
 
-[](../assets/images/lessons/udacity_cnf_course_outline.png)
+![](../assets/images/lessons/udacity_cnf_course_outline.png)
 
 ## Continuous Deployment
 
