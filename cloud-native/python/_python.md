@@ -71,4 +71,4 @@
 
 ## Related
 
-- [[_cloud-app]]
+- [[_cloud-native]]
