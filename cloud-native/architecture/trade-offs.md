@@ -136,5 +136,3 @@ Monoliths
 - [Microservices vs Monolithic Architecture](https://www.mulesoft.com/resources/api/microservices-vs-monolithic)
 
 ---
-
-[[microservices]]
