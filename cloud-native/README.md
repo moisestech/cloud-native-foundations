@@ -14,6 +14,8 @@
 - [Flask]()
 - [Numpy]()
 
+---
+
 ## 🏗️[Microservices](https://github.com/moisestech/cloud-native-foundations/blob/master/cloud-native/microservices/_microservices.md)
 
 ---
@@ -30,7 +32,7 @@
 
 ## 🐙[Kubernetes](https://github.com/moisestech/cloud-native-foundations/blob/master/cloud-native/kubernetes/_kubernetes.md)
 
-- [Resources]
+- [Resources]()
 
 ---
 
