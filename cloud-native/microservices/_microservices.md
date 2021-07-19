@@ -26,4 +26,4 @@
 
 ## Related
 
-- [[_kubernetes]]
+- [[README]]
