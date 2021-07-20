@@ -67,7 +67,7 @@
 ## Lesson 3
 
 <details>
-    <summary><a href="" style="font-size: 1.5em;">Container Orchestration with Kubernetes</a></summary>
+    <summary><a href="https://github.com/moisestech/cloud-native-foundations/blob/master/cloud-native/kubernetes/_kubernetes.md" style="font-size: 1.5em;">Container Orchestration with Kubernetes</a></summary>
     How to use Docker to create an image and how to deploy an application to Kubernetes
 
 ### Lesson 3 Notes in Repo
