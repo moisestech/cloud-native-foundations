@@ -200,6 +200,10 @@ Explore Kubernetes features:
 
 ### 🎥 Video Blogs
 
+|     |     |                                                                                                  |            |              |
+| --- | --- | ------------------------------------------------------------------------------------------------ | ---------- | ------------ |
+| 🌐  |     | [Build Kubernetes-read applications on your desktop](https://www.docker.com/products/kubernetes) | **GitHub** | _Kubernetes_ |
+
 - [MicroServices, RabbitMQ, CQRS and Event sourcing with Node](https://www.youtube.com/watch?v=XrkNwwVLyOY). **YouTube**
 - [Microservices + Events + Dockers = A Perfect Trio](https://www.youtube.com/watch?v=sSm2dRarhPo), **YouTube**
 - [Design Patterns: Why Event Sourcing?](https://www.youtube.com/watch?v=rUDN40rdly8), **YouTube**
