@@ -32,12 +32,12 @@
 
 ## More Links
 
-|     |                                                                                                                                                         |                |     |
-| --- | ------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------- | --- |
-| 🌐  | [Google's Python Class](https://developers.google.com/edu/python/?hl=en)                                                                                | **Dev Google** |     |
-| 📚  | [Learn Python Programming - Second Edition Free eBook Packt](https://www.packtpub.com/free-ebook/learn-python-programming-second-edition/9781788996662) | Packtpub       |
+|     |                                                                                                                                                              |                |     |
+| --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------- | --- |
+| 🌐  | [Google's Python Class](https://developers.google.com/edu/python/?hl=en)                                                                                     | **Dev Google** |     |
+| 📚  | [Learn Python Programming - Second Edition Free eBook Packt](https://www.packtpub.com/free-ebook/learn-python-programming-second-edition/9781788996662)      | **Packtpub**   |
+| 🌐  | [33 GitHub projects I have bookmarked and you should - DEV Community](https://dev.to/devdefinitive/33-github-projects-i-have-bookmarked-and-you-should-298o) | Dev            |
 
-| 🌐 | ![](https://res.cloudinary.com/practicaldev/image/fetch/s--E8ak4Hr1--/c_limit,f_auto,fl_progressive,q_auto,w_32/https://dev-to.s3.us-east-2.amazonaws.com/favicon.ico) Dev | [33 GitHub projects I have bookmarked and you should - DEV Community](https://dev.to/devdefinitive/33-github-projects-i-have-bookmarked-and-you-should-298o) | |
 | 📚 | ![Fast API](https://analyticsindiamag.com/wp-content/uploads/2019/11/cropped-aim-new-logo-1-22-3-32x32.jpg) | [FastAPI vs Flask: Comparison Guide for Data Science Enthusiasts](https://analyticsindiamag.com/fastapi-vs-flask-comparison-guide-for-data-science-enthusiasts/) | |
 | 🌐 | | [FLASK Notes](https://www.notion.so/FLASK-Notes-550ca32db66d4f8999ac94ac1df78674) **Notion** |
 | 🌐 | | [Learn Flask for Python - Full Tutorial](https://www.youtube.com/watch?v=Z1RJmh_OqeA&t=883s) | **YouTube** |
