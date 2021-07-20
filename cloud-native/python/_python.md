@@ -23,12 +23,12 @@
 
 ## 📝 Blogs
 
-|     |                                                                                                                          |                                                                                                                                                          |                |
-| --- | ------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------- |
-| 🌐  | [25 Git Repositories Every Python Developer Should Know](https://link.medium.com/jgt5M1xp8gb)                            | **Medium**                                                                                                                                               |
-| 🌐  | [How to incorporate logging into a python app:](https://levelup.gitconnected.com/tutorial-on-python-logging-ac5f21e0a00) | **Level Up**                                                                                                                                             | _KoenWoortMan_ |
-| 🌐  | **analyticsindiamag**                                                                                                    | [Guide to CleanText: A Python Package to Clean Raw Text Data](https://analyticsindiamag.com/guide-to-cleantext-a-python-package-to-clean-raw-text-data/) |                |
-| 🌐  | **analyticsindiamag**                                                                                                    | [How to generate a response in a python flask project](https://koenwoortman.com/python-flask-return-json-response/)                                      | _KoenWoortMan_ |
+|     |                                                                                                                                                          |                                                                                                                     |                |
+| --- | -------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- | -------------- |
+| 🌐  | [25 Git Repositories Every Python Developer Should Know](https://link.medium.com/jgt5M1xp8gb)                                                            | **Medium**                                                                                                          |
+| 🌐  | [How to incorporate logging into a python app:](https://levelup.gitconnected.com/tutorial-on-python-logging-ac5f21e0a00)                                 | **Level Up**                                                                                                        | _KoenWoortMan_ |
+| 🌐  | [Guide to CleanText: A Python Package to Clean Raw Text Data](https://analyticsindiamag.com/guide-to-cleantext-a-python-package-to-clean-raw-text-data/) | **analyticsindiamag**                                                                                               |
+| 🌐  | **analyticsindiamag**                                                                                                                                    | [How to generate a response in a python flask project](https://koenwoortman.com/python-flask-return-json-response/) | _KoenWoortMan_ |
 
 ## More Links
 
