@@ -185,7 +185,11 @@ Explore Kubernetes features:
 
 ### Books
 
-- 🌐 [Mastering Kubernetes](https://subscription.packtpub.com/book/application_development/9781788999786), **Website**, _Pack_
+|     |     |                                                                                                      |             |                   |
+| --- | --- | ---------------------------------------------------------------------------------------------------- | ----------- | ----------------- |
+| 🌐  |     | [Mastering Kubernetes](https://subscription.packtpub.com/book/application_development/9781788999786) | **Website** | _Pack_            |
+| 🌐  |     | [Kubernetes The Hard Way]()                                                                          | **GitHub**  | _KelseyHighTower_ |
+
 - 🌐 [The Kubernetes Handbook](https://www.freecodecamp.org/news/the-kubernetes-handbook/), **GitHub**, _freeCodeCamp_
 
 ### 📝 Blog Post
