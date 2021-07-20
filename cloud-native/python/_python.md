@@ -4,7 +4,10 @@
 
 ## Github
 
-- [Coding Interview University](https://github.com/jwasham/coding-interview-university?fbclid=IwAR031SuIcbhYI3lsJIsay6u_sDPaeCaaB8bGaiznN5RxcqJI7WCEDwkvwDg), _Jwasham_, Github
+|     |                                                                                                                                                            |            |           |     |
+| --- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | --------- | --- |
+| 🌐  | [Coding Interview University](https://github.com/jwasham/coding-interview-university?fbclid=IwAR031SuIcbhYI3lsJIsay6u_sDPaeCaaB8bGaiznN5RxcqJI7WCEDwkvwDg) | **Github** | _Jwasham_ |
+| 🌐  | [Daily knowledge pills to get better in Python](https://github.com/jefo2k/python-daily-pills)                                                              | **Github** | _jefo2k_  |
 
 ## Courses
 
@@ -40,7 +43,6 @@
 | 📚  | [FastAPI vs Flask: Comparison Guide for Data Science Enthusiasts](https://analyticsindiamag.com/fastapi-vs-flask-comparison-guide-for-data-science-enthusiasts/)             | **AnalyticsIndiaMag**   |                    |
 | 🌐  | [FLASK Notes](https://www.notion.so/FLASK-Notes-550ca32db66d4f8999ac94ac1df78674)                                                                                            | **Notion**              |
 | 🌐  | [Learn Flask for Python - Full Tutorial](https://www.youtube.com/watch?v=Z1RJmh_OqeA&t=883s)                                                                                 | **YouTube**             |                    |
-| 🌐  | [Daily knowledge pills to get better in Python](https://github.com/jefo2k/python-daily-pills)                                                                                | **Github**              | _jefo2k_           |
 | 🌐  | [Code Summer of K8s](https://www.getambassador.io/summer-of-k8s/code/#month1-challenges)                                                                                     | **Get Ambassador Labs** |                    |
 | 🌐  | [Installing packages using pip and virtual environments — Python Packaging User Guide](https://packaging.python.org/guides/installing-using-pip-and-virtual-environments/)   | **Packaging Python**    |
 | 🌐  | [Python Basics: Lists, Dictionaries, & Booleans](https://mode.com/python-tutorial/python-basics/)                                                                            | **Mode Analytics**      |
