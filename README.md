@@ -17,7 +17,7 @@
 ## Lesson 1
 
 <details>
-    <summary><a href="" style="font-size: 1.5em;">Introduction to Cloud Native</a></summary>
+    <summary><a href="https://github.com/moisestech/cloud-native-foundations/blob/master/cloud-native/_cloud-native.md" style="font-size: 1.5em;">Introduction to Cloud Native</a></summary>
     History of Cloud Native Architecture and intro to Cloud Native tools.
 
 | LESSONS                                |                                             |
