@@ -156,13 +156,13 @@ Explore Kubernetes features:
 
 ---
 
-## Resources
+## **Resources**
 
-## Community
+### **Community**
 
 - [SUSE & Racher Community](https://community.suse.com/share/F1pMnGSvpP0S8gMl?utm_source=manual), _Community Suse_, Website
 
-## 🎓 Courses
+### 🎓 **Courses**
 
 |     |     |                                                                                                                                                          |              |                            |
 | --- | --- | -------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | -------------------------- |
@@ -176,23 +176,21 @@ Explore Kubernetes features:
 | 🌐  |     | [Kubernetes and Docker: The Container Masterclass](https://www.packtpub.com/product/kubernetes-and-docker-the-container-masterclass-video/9781801075084) | **Website**  | _Pack_                     |
 | 🌐  |     | [Lightweight Kubernetes with K3s](https://www.oreilly.com/library/view/lightweight-kubernetes-with/9781838821173/)                                       | **Website**  | _O'Reilly Online Learning_ |
 
-### Github
+### **Github**
 
 |     |     |                                                                         |            |                   |
 | --- | --- | ----------------------------------------------------------------------- | ---------- | ----------------- |
 | 🌐  |     | [Microservices Basics](https://github.com/Eifel42/microservices-basics) | **GitHub** | _Eifel42_         |
 | 🌐  |     | [Kubernetes The Hard Way]()                                             | **GitHub** | _KelseyHighTower_ |
 
-### Books
+### **Books**
 
-|     |     |                                                                                                      |             |                   |
-| --- | --- | ---------------------------------------------------------------------------------------------------- | ----------- | ----------------- |
-| 🌐  |     | [Mastering Kubernetes](https://subscription.packtpub.com/book/application_development/9781788999786) | **Website** | _Pack_            |
-| 🌐  |     | [Kubernetes The Hard Way]()                                                                          | **GitHub**  | _KelseyHighTower_ |
+|     |     |                                                                                                      |             |                |
+| --- | --- | ---------------------------------------------------------------------------------------------------- | ----------- | -------------- |
+| 🌐  |     | [Mastering Kubernetes](https://subscription.packtpub.com/book/application_development/9781788999786) | **Website** | _Pack_         |
+| 🌐  |     | [The Kubernetes Handbook](https://www.freecodecamp.org/news/the-kubernetes-handbook/)                | **GitHub**  | _freeCodeCamp_ |
 
-- 🌐 [The Kubernetes Handbook](https://www.freecodecamp.org/news/the-kubernetes-handbook/), **GitHub**, _freeCodeCamp_
-
-### 📝 Blog Post
+### 📝 **Blog Post**
 
 |     |     |                                                                                                                                                         |            |                 |
 | --- | --- | ------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | --------------- |
