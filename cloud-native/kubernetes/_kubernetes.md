@@ -150,12 +150,6 @@ Explore Kubernetes features:
 
 ---
 
-## Github Repos
-
-[Kubernetes The Hard Way](https://github.com/kelseyhightower/kubernetes-the-hard-way), _@kelseyhightower_
-
----
-
 ## **Resources**
 
 ### **Community**
