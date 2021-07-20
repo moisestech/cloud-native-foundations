@@ -113,10 +113,10 @@ The data plane consists of the compute used to host workloads. The components in
 
 ### New terms
 
-**CRD** - Custom Resource Definition provides the ability to extend Kubernetes API and create new resources
-**Node** - a physical or virtual server
-**Cluster** - a collection of distributed nodes that are used to manage and host workloads
-**Master node** - a node from the Kubernetes control plane, that has installed components to make global, cluster-level decisions
+**CRD** - Custom Resource Definition provides the ability to extend Kubernetes API and create new resources  
+**Node** - a physical or virtual server  
+**Cluster** - a collection of distributed nodes that are used to manage and host workloads  
+**Master node** - a node from the Kubernetes control plane, that has installed components to make global, cluster-level decisions  
 **Worker node** - a node from the Kubernetes data plane, that has installed components to host workloads
 
 ---
