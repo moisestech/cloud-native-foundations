@@ -32,16 +32,17 @@
 
 ## More Links
 
-|     |                                                                                                                                                              |                |     |
-| --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------- | --- |
-| 🌐  | [Google's Python Class](https://developers.google.com/edu/python/?hl=en)                                                                                     | **Dev Google** |     |
-| 📚  | [Learn Python Programming - Second Edition Free eBook Packt](https://www.packtpub.com/free-ebook/learn-python-programming-second-edition/9781788996662)      | **Packtpub**   |
-| 🌐  | [33 GitHub projects I have bookmarked and you should - DEV Community](https://dev.to/devdefinitive/33-github-projects-i-have-bookmarked-and-you-should-298o) | Dev            |
+|     |                                                                                                                                                                  |                       |     |
+| --- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------- | --- |
+| 🌐  | [Google's Python Class](https://developers.google.com/edu/python/?hl=en)                                                                                         | **Dev Google**        |     |
+| 📚  | [Learn Python Programming - Second Edition Free eBook Packt](https://www.packtpub.com/free-ebook/learn-python-programming-second-edition/9781788996662)          | **Packtpub**          |     |
+| 🌐  | [33 GitHub projects I have bookmarked and you should - DEV Community](https://dev.to/devdefinitive/33-github-projects-i-have-bookmarked-and-you-should-298o)     | **DevTo**             |     |
+| 📚  | [FastAPI vs Flask: Comparison Guide for Data Science Enthusiasts](https://analyticsindiamag.com/fastapi-vs-flask-comparison-guide-for-data-science-enthusiasts/) | **AnalyticsIndiaMag** |     |
+| 🌐  | [FLASK Notes](https://www.notion.so/FLASK-Notes-550ca32db66d4f8999ac94ac1df78674)                                                                                | **Notion**            |
 
-| 📚 | ![Fast API](https://analyticsindiamag.com/wp-content/uploads/2019/11/cropped-aim-new-logo-1-22-3-32x32.jpg) | [FastAPI vs Flask: Comparison Guide for Data Science Enthusiasts](https://analyticsindiamag.com/fastapi-vs-flask-comparison-guide-for-data-science-enthusiasts/) | |
-| 🌐 | | [FLASK Notes](https://www.notion.so/FLASK-Notes-550ca32db66d4f8999ac94ac1df78674) **Notion** |
-| 🌐 | | [Learn Flask for Python - Full Tutorial](https://www.youtube.com/watch?v=Z1RJmh_OqeA&t=883s) | **YouTube** |
-| 🌐 | | [jefo2k/python-daily-pills: Daily knowledge pills to get better in Python](https://github.com/jefo2k/python-daily-pills) | **Github** |
+| 🌐 | [Learn Flask for Python - Full Tutorial](https://www.youtube.com/watch?v=Z1RJmh_OqeA&t=883s) | **YouTube** |
+| |
+| 🌐 | [jefo2k/python-daily-pills: Daily knowledge pills to get better in Python](https://github.com/jefo2k/python-daily-pills) | **Github** |
 | 🌐 | | [Code Summer of K8s](https://www.getambassador.io/summer-of-k8s/code/#month1-challenges) | | **Get Ambassador Labs** |
 | 🌐 | | [Installing packages using pip and virtual environments — Python Packaging User Guide](https://packaging.python.org/guides/installing-using-pip-and-virtual-environments/) | **Packaging Python** |
 | 🌐 | | [Python Basics: Lists, Dictionaries, & Booleans](https://mode.com/python-tutorial/python-basics/) | **Mode Analytics** |
