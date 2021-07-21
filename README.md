@@ -113,7 +113,7 @@
 ## Lesson 4
 
 <details>
-    <summary><a href="" style="font-size: 1.5em;">Open Source PaaS</a></summary>
+    <summary><a href="https://github.com/moisestech/cloud-native-foundations/tree/master/cloud-native/paas" style="font-size: 1.5em;">Open Source PaaS</a></summary>
     Platform as a Service.
 
     Coming Soon!
