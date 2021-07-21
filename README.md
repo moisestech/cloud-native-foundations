@@ -124,7 +124,7 @@
 
 <img src="./assets/images/lessons/lesson_5_icon.jpeg?raw-true" width="200px" style="max-width: 200px; border-radius: 30px;"/>
 
-### Lesson 5
+## Lesson 5
 
 <details>
     <summary><a href="https://github.com/moisestech/cloud-native-foundations/blob/master/cloud-native/ci/_ci.md" style="font-size: 1.5em;">CI/CD with Cloud Native Tooling</a></summary>
@@ -136,32 +136,44 @@
 
 ---
 
-## Related links to Foam
-
-- [[README]]
-
----
-
 ## My commitment to the Program
 
-I am committed to the Udacity Scholarship to advance my experience AWS Infrastructure as a Service. I hope that my understanding of Cloud Native solutions support my AWS SageMaker Knowledge to train machine learning models through enterprise solutions. I believe this program will help me digest the cloud native concepts much better through a community led environment and support, alongside self paced hands-on projects.
+I am committed to the SUSE Cloud Native Udacity Scholarship to advance my understanding of AWS Infrastructure as a Service. I hope that my comprehension of Cloud Native solutions support my AWS SageMaker Knowledge to train machine learning models through enterprise solutions. I believe this program will help me digest the cloud native concepts much better through a community led environment and support, alongside self paced hands-on projects.
 
 ---
 
-## Resources
+## Repo Index
 
-## DevOps
+### 🏛 [Architecture](https://github.com/moisestech/cloud-native-foundations/blob/master/cloud-native/architecture/_arch.md)
 
-## Kubernetes
+### 🐍 [Python](https://github.com/moisestech/cloud-native-foundations/blob/master/cloud-native/python/_python.md)
 
-## Python
+### 🏗️[Microservices](https://github.com/moisestech/cloud-native-foundations/blob/master/cloud-native/microservices/_microservices.md)
 
-## Docker
+### 🐳[Docker](https://github.com/moisestech/cloud-native-foundations/blob/master/cloud-native/docker/_docker.md)
 
-## Microservices
+### 🟣[Vagrant](https://github.com/moisestech/cloud-native-foundations/blob/master/cloud-native/vagrant/_vagrant.md)
+
+### 🔧[DevOps](https://github.com/moisestech/cloud-native-foundations/blob/master/cloud-native/devops/_devops.md)
+
+### 🐙[Kubernetes](https://github.com/moisestech/cloud-native-foundations/blob/master/cloud-native/kubernetes/_kubernetes.md)
+
+---
+
+## Scholarship Student Resources
+
+---
 
 ## Free Classes
 
 - [Comidoc](https://comidoc.net/)
 - [DesiDime](https://www.desidime.com/deals/45-paid-udemy-courses-for-free)
 - [DesiDime 2](https://www.desidime.com/selective_search?utf8=%E2%9C%93&keyword=udemy&search_list=searches&button=)
+
+---
+
+## Related links to Foam
+
+- [[README]]
+
+---
