@@ -127,7 +127,7 @@
 ### Lesson 5
 
 <details>
-    <summary><a href="" style="font-size: 1.5em;">CI/CD with Cloud Native Tooling</a></summary>
+    <summary><a href="https://github.com/moisestech/cloud-native-foundations/blob/master/cloud-native/ci/_ci.md" style="font-size: 1.5em;">CI/CD with Cloud Native Tooling</a></summary>
     CI/CD tools and how to use and deploy an application
 
     Coming Soon!
