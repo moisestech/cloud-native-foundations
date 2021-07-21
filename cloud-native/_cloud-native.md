@@ -93,7 +93,7 @@ Using multiple containers and managing them can be quite hectic so you can use a
 
 ## Recap
 
-🎥 [Video Link](https://www.youtube.com/watch?v=1vpaXWBs6HU)
+🎥 [Udacity, Video Link](https://www.youtube.com/watch?v=1vpaXWBs6HU)
 
 ---
 
