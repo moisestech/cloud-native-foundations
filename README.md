@@ -156,6 +156,38 @@ I am committed to the SUSE Cloud Native Udacity Scholarship to advance my unders
 
 ## Scholarship Student Resources
 
+- [3. Monoliths and Microservices](https://www.notion.so/3-Monoliths-and-Microservices-a5d3280d4d964492a4c7874004b24fc2)
+- [Student Story Challenge](https://sites.google.com/udacity.com/pytorch-scholarship-facebook/phase-1-archived/community-archived/top-5-student-stories/student-story-challenge)
+
+<DT><A HREF="https://docs.google.com/spreadsheets/d/1SsExRpi_DKscD7n0WtnP3a3qkL_twOq5G9q3sp0M2ek/edit?ts=60dc1600#gid=0" ADD_DATE="1626863774" ICON="" >SUSE Scholarship st_coders Progress - Google Sheets</A>
+<DT><A HREF="https://docs.google.com/spreadsheets/d/1f3FCmPJX5uRwPlVg3n4mZLuy-29G_8lv0xf9KKCrS3U/edit#gid=334325040" ADD_DATE="1626863774" ICON="" >Quizizz Solutions Sheet - Udacity SUSE Scholarship for Cloud Native - Google Sheets</A>
+<DT><A HREF="https://courses.wesbos.com/account/access/5f692332ebaa134ef228e483/view/455597472" ADD_DATE="1626863774" ICON="" >Courses Dashboard | Wes Bos</A>
+<DT><A HREF="https://docs.google.com/spreadsheets/d/1REpmEI5AFxAlclnatHyygawTVv2UKIoT5PH6dk72xII/edit#gid=0" ADD_DATE="1626863774" ICON="" >Udacity Scholarship Checklist - Google Sheets</A>
+<DT><A HREF="https://sites.google.com/udacity.com/suse-cloud-native-foundations/resources/how-to-use-slack" ADD_DATE="1626863774" ICON="" >SUSE Cloud Native Foundations Scholarship - How to use Slack?</A>
+<DT><A HREF="https://sites.google.com/udacity.com/suse-cloud-native-foundations/resources/milestones-course-timelines" ADD_DATE="1626863774" ICON="" >SUSE Cloud Native Foundations Scholarship - Milestones & Course Timelines</A>
+<DT><A HREF="https://sites.google.com/udacity.com/suse-cloud-native-foundations/community/study-teams" ADD_DATE="1626863774" ICON="" >SUSE Cloud Native Foundations Scholarship - Study Teams</A>
+<DT><A HREF="https://www.notion.so/Lesson-1-Introduction-to-Micro-services-59febe7e1f5d43c4a52062b4674f93b5" ADD_DATE="1626863774" ICON="" >Lesson-1: Introduction to Micro-services</A>
+<DT><A HREF="https://softwareengineeringdaily.com/" ADD_DATE="1626863774" ICON="" >Software Engineering Daily</A>
+<DT><A HREF="https://github.com/ishashankkawle/Udacity-SUSE-Learnings/blob/main/Lesson%203%20:%20Docker%20and%20Kubernetes/Docker.md" ADD_DATE="1626863774" ICON="" >Udacity-SUSE-Learnings/Docker.md at main · ishashankkawle/Udacity-SUSE-Learnings</A>
+<DT><A HREF="https://github.com/josepraveen/Udacity_Cloud_Native_Fundamentals/tree/main/resources" ADD_DATE="1626863774" ICON="" >Udacity_Cloud_Native_Fundamentals/resources at main · josepraveen/Udacity_Cloud_Native_Fundamentals</A>
+<DT><A HREF="https://docs.google.com/forms/d/e/1FAIpQLSc2bbVUNbD74HB0Of9tnya_0maMHGBGqlHUeX9dTLmZATnw7A/viewform" ADD_DATE="1626863774" ICON="" >Project Ideas</A>
+<DT><A HREF="https://www.notion.so/Lesson-2-Architecture-Consideration-for-Cloud-Native-Applications-5d04e5120f8b4f90b09be446e694935d" ADD_DATE="1626863774" ICON="" >Lesson 2: Architecture Consideration for Cloud Native Applications</A>
+<DT><A HREF="https://github.com/josepraveen/free_month_learning_resources/tree/main/resources" ADD_DATE="1626863774" ICON="" >free_month_learning_resources/resources at main · josepraveen/free_month_learning_resources</A>
+<DT><A HREF="http://nevalyashka.andreiliphd.com/" ADD_DATE="1626863774" ICON="" >Nevalyashka Cloud</A>
+<DT><A HREF="https://github.com/Shivansh2407/SUSE-Cloud-Native-Foundations-Scholarship/blob/main/Tools.md" ADD_DATE="1626863774" ICON="" >SUSE-Cloud-Native-Foundations-Scholarship/Tools.md at main · Shivansh2407/SUSE-Cloud-Native-Foundations-Scholarship</A>
+<DT><A HREF="https://airtable.com/shryLSJS4CQslJBO9/tbl6A99RXoOm7DYSJ" ADD_DATE="1626863774" ICON="" >Airtable - SUSE Scholarship - Resources</A>
+<DT><A HREF="https://docs.google.com/document/d/128i2HD32vcnYjdaQJSokKoU83DW5gK_zjYKpsDoePGM/edit#heading=h.4vswagjnz90h" ADD_DATE="1626863774" ICON="" >CNCF Notes Udacity - Google Docs</A>
+<DT><A HREF="https://github.com/sg7801/SUSE-Cloud-Native-Foundations-Scholarship" ADD_DATE="1626863774" ICON="" >sg7801/SUSE-Cloud-Native-Foundations-Scholarship: This repository contains the detailed notes and summaries for the SUSE Cloud Native Foundations course</A>
+<DT><A HREF="https://www.youtube.com/watch?v=cL0aj3drVjY" ADD_DATE="1626863774" ICON="" >Microsoft Azure Machine Learning Nanodegree Scholarship by Udacity - YouTube</A>
+<DT><A HREF="https://gitlab.com/andreiliphd/nevalyashka-cloud/-/tree/master/src/main/java/com/andreiliphd/nevalyashka" ADD_DATE="1626863774" ICON="" >src/main/java/com/andreiliphd/nevalyashka · master · Andrei Li / nevalyashka-cloud · GitLab</A>
+<DT><A HREF="https://www.notion.so/Lesson-5-CI-CD-with-Cloud-Native-Tooling-17a50539b4e945cdaa0bec63fb8279df" ADD_DATE="1626863774" ICON="" >Lesson-5 CI/CD with Cloud-Native Tooling</A>
+<DT><A HREF="https://github.com/nomadme/csse_glossary/blob/main/system-design.md" ADD_DATE="1626863774" ICON="" >csse_glossary/system-design.md at main · nomadme/csse_glossary</A>
+<DT><A HREF="https://www.notion.so/SUSE-Cloud-Native-Foundation-course-97216e94d7df4347bd99188f3fc09777" ADD_DATE="1626863774" ICON="" >SUSE Cloud Native Foundation course</A>
+<DT><A HREF="https://www.notion.so/Cloud-Native-Fundamentals-Scholarship-Program-Study-Resources-8b814534d63c49a6bcfb760558a8bcba" ADD_DATE="1626863774" ICON="" >Cloud Native Fundamentals Scholarship Program Study Resources</A>
+<DT><A HREF="https://puzzel.org/crossword/play?p=-MeVzVi7T86-RfRkEB0q" ADD_DATE="1626863774" ICON="" >Play Crossword - Puzzel.org</A>
+<DT><A HREF="https://docs.google.com/forms/d/e/1FAIpQLSfIBaBYgLOIz7ACdNYETJCxbNcR0Q5WT1iJ1Sql2oFDr8F65A/closedform" ADD_DATE="1626863774" ICON="" >Helm and ArgoCD Quiz</A>
+</DL><p>
+
 ---
 
 ## Free Classes
