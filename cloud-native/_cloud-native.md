@@ -56,7 +56,9 @@ Using multiple containers and managing them can be quite hectic so you can use a
 
 ---
 
-## [Stakeholders](https://classroom.udacity.com/nanodegrees/nd064-1/parts/30cb07da-8fd4-4438-a209-b3457adb5d82/modules/7b21dfa4-aac8-4d24-82c5-65325e6dc691/lessons/092ac437-081d-4946-b54d-a2f537931c13/concepts/a4eb94d3-e658-475d-bffe-04adf05e2776)
+## Stakeholders
+
+🎓 [Udacity, Lesson Link][https://classroom.udacity.com/nanodegrees/nd064-1/parts/30cb07da-8fd4-4438-a209-b3457adb5d82/modules/7b21dfa4-aac8-4d24-82c5-65325e6dc691/lessons/092ac437-081d-4946-b54d-a2f537931c13/concepts/79ae4fb8-2601-43f5-a879-8470d4a6c21c]
 
 🎥 [Udacity, Video Link](https://www.youtube.com/watch?v=7ZYzviRREcI)
 
@@ -76,7 +78,9 @@ Using multiple containers and managing them can be quite hectic so you can use a
 
 ---
 
-## [Tools, Environment & dependencies](https://classroom.udacity.com/nanodegrees/nd064-1/parts/30cb07da-8fd4-4438-a209-b3457adb5d82/modules/7b21dfa4-aac8-4d24-82c5-65325e6dc691/lessons/092ac437-081d-4946-b54d-a2f537931c13/concepts/41d3074d-ccc2-4fc0-a153-ba7a4ba77b3b)
+## Tools, Environment & dependencies
+
+🎓 [Udacity, Lesson Link][https://classroom.udacity.com/nanodegrees/nd064-1/parts/30cb07da-8fd4-4438-a209-b3457adb5d82/modules/7b21dfa4-aac8-4d24-82c5-65325e6dc691/lessons/092ac437-081d-4946-b54d-a2f537931c13/concepts/41d3074d-ccc2-4fc0-a153-ba7a4ba77b3b]
 
 - [ ] [Python](https://www.python.org/downloads/)
 - [ ] [Flask](https://flask.palletsprojects.com/en/2.0.x)
