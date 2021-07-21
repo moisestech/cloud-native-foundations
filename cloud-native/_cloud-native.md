@@ -129,9 +129,14 @@ Using multiple containers and managing them can be quite hectic so you can use a
 
 ### 🎥 Video Blogs
 
+|     |     |             |     |     |
+| --- | --- | ----------- | --- | --- |
+| 🌐  |     | **Website** |     |     |
+| 🌐  |     | **Website** |     |     |
+| 🌐  |     | **Website** |     |     |
+| 🌐  |     | **Website** |     |     |
+
 - [What is Cloud Native?](https://www.youtube.com/watch?v=fp9_ubiKqFU&list=PLOspHqNVtKACSagAEeIY20NMVLNeQ1ZJx), **YouTube**, _IBM_
-- [100 seconds of CI/CD DevOp Explained](https://www.youtube.com/watch?v=scEDHsr3APg), **YouTube**, _Fireship_
-- [100 Seconds of ServerLess](https://youtu.be/W_VV2Fx32_Y), **YouTube**, _Fireship_
 - [Cloud Native 101 Video](https://www.youtube.com/watch?v=9Ik96SBaIvs), **YouTube**, _VMware Cloud Native Apps_
 - [Cloud Native DevOps Explained](https://www.youtube.com/watch?v=FzERTm_j2wE), **YouTube**, _IBM Cloud_
 
