@@ -125,12 +125,7 @@ Using multiple containers and managing them can be quite hectic so you can use a
 | 🌐  | [What is Cloud-Native Architecture?](https://www.sdxcentral.com/cloud/cloud-native/definitions/what-is-cloud-native-architecture/)                                                                                                              | **Website** | _SdxCentral_       |
 | 🌐  | [Thinking Cloud Native](https://sjoukjezaal.com/thinking-cloud-native/?utm_source=linkedin&utm_medium=social&utm_campaign=ReviveOldPost)                                                                                                        | **Website** | _Sjoukje Zaal_     |
 | 🌐  | [What is the Difference Between Hyper-V and VirtualBox](https://www.diskinternals.com/vmfs-recovery/hyper-v-vs-virtualbox/)                                                                                                                     | **Website** | _Diskinternals_    |
-| 🌐  |                                                                                                                                                                                                                                                 | **Website** |                    |
-| 🌐  |                                                                                                                                                                                                                                                 | **Website** |                    |
-| 🌐  |                                                                                                                                                                                                                                                 | **Website** |                    |
-
-- , **Website**,
-- [Top 10 Open Source Dev Tools](https://dev.to/budibase/top-10-open-source-development-tools-tried-and-tested-2774),**Dev.To**, _Budibase_
+| 🌐  | [Top 10 Open Source Dev Tools](https://dev.to/budibase/top-10-open-source-development-tools-tried-and-tested-2774)                                                                                                                              | **Dev.To**  | _Budibase_         |
 
 ### 🎥 Video Blogs
 
