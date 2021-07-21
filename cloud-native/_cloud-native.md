@@ -115,11 +115,12 @@ Using multiple containers and managing them can be quite hectic so you can use a
 
 ### 📝 Blog Post
 
-|     |                                                                                                                    |             |                   |     |
-| --- | ------------------------------------------------------------------------------------------------------------------ | ----------- | ----------------- | --- |
-| 🌐  | [What is Cloud Computing? A Beginner's Guide](https://azure.microsoft.com/en-us/overview/what-is-cloud-computing/) | **Website** | _Microsoft Azure_ |
+|     |                                                                                                                                                            |             |                   |     |
+| --- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- | ----------------- | --- |
+| 🌐  | [What is Cloud Computing? A Beginner's Guide](https://azure.microsoft.com/en-us/overview/what-is-cloud-computing/)                                         | **Website** | _Microsoft Azure_ |
+| 🌐  | [What is cloud computing? Everything you need to know](https://www.zdnet.com/article/what-is-cloud-computing-everything-you-need-to-know-about-the-cloud/) | **Website** | _ZDNet_           |
+| 🌐  |                                                                                                                                                            | **Website** |                   |
 
-- [What is cloud computing? Everything you need to know](https://www.zdnet.com/article/what-is-cloud-computing-everything-you-need-to-know-about-the-cloud/), **Website**, _ZDNet_
 - [2021 Upskilling Enterprise DevOps Skills Report Download](https://info.devopsinstitute.com/2021-upskilling-report-download?utm_campaign=Upskilling%202021&utm_content=167900943&utm_medium=social&utm_source=linkedin&hss_channel=lcp-6402730), **Website**, _DevOps Institute_
 - [Linux Filesystem Hierarchy Explained](https://raghavaggarwal.hashnode.dev/linux-filesystem-hierarchy-explained), **Website**, _Raghav Aggarwal_
 - [Everything You Need To Know About The Green Linux Lizard](https://linuxiac.com/opensuse/), **Website**, _Linuxiac_
