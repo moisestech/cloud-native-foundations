@@ -6,7 +6,7 @@
 
 ## Courses
 
-[Python Microservices Full Course, Event Drive Architecture with RabbitMQ](https://www.youtube.com/watch?v=ddrucr_aAzA)
+- [Python Microservices Full Course, Event Drive Architecture with RabbitMQ](https://www.youtube.com/watch?v=ddrucr_aAzA)
 
 ## Books
 
