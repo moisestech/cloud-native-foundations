@@ -25,12 +25,11 @@
 | 🌐  | [Django 4 hour course](https://youtu.be/F5mRW0jo-U4) | **YouTube** | _FreeCodeCamp_ |
 | 🌐  | [Flask 6 hour course](https://youtu.be/Qr4QMBUPxWo)  | **YouTube** | _FreeCodeCamp_ |
 
-- ,
-- , _FreeCodeCamp_
-
 ### Blog Post
 
-- [The Flask Mega Tutorial Part 1](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world), _MiguelGrinberg_, Website
+|     |                                                                                                                   |             |                  |
+| --- | ----------------------------------------------------------------------------------------------------------------- | ----------- | ---------------- |
+| 🌐  | [The Flask Mega Tutorial Part 1](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world) | **Website** | _MiguelGrinberg_ |
 
 ---
 
