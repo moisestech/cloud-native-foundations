@@ -4,11 +4,11 @@
 
 ## Resources
 
-## Courses
+### Courses
 
 - [Python Microservices Full Course, Event Drive Architecture with RabbitMQ](https://www.youtube.com/watch?v=ddrucr_aAzA)
 
-## Books
+### Books
 
 - [Hands-On Microservices with Kubernetes](https://www.packtpub.com/product/hands-on-microservices-with-kubernetes/9781789805468), _Packt_
 
