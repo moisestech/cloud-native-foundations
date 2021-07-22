@@ -6,6 +6,10 @@
 
 ### Courses
 
+|     |                                                                                                                   |             |                  |
+| --- | ----------------------------------------------------------------------------------------------------------------- | ----------- | ---------------- |
+| 🌐  | [The Flask Mega Tutorial Part 1](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world) | **Website** | _MiguelGrinberg_ |
+
 - [Python Microservices Full Course, Event Drive Architecture with RabbitMQ](https://www.youtube.com/watch?v=ddrucr_aAzA)
 
 ### Books
