@@ -20,17 +20,15 @@
 
 ### Blog Post
 
-|     |                                                                                                                                                                                     |             |              |
-| --- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- | ------------ |
-| 🌐  | [Containers: Step-0 Intro The Microservices world](https://mamonrasoolabdali.medium.com/containers-step-0-into-the-microservices-world-dd0fff41bdef)                                | **Medium**  |              |
-| 🌐  | [What is a Micro-service Architecture](https://www.docker.com/resources/what-container)                                                                                             | **Website** | _Docker_     |
-| 🌐  | [What is Micro Frontends](https://www.gsavitha.in/posts/micro-frontends/)                                                                                                           | **Website** | _GSavitha_   |
-| 🌐  | [The What, Why, and How of a Microservices Architecture](https://medium.com/hashmapinc/the-what-why-and-how-of-a-microservices-architecture-4179579423a9)                           | **Medium**  | _Hashmapinc_ |
-| 🌐  | [Microservice Application Design](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/multi-container-microservice-net-applications/microservice-application-design) | **Website** | _Microsoft_  |
-
--
-- [Microservices Guide](https://martinfowler.com/microservices/), _MartinFowler_
-- [What are microservices?](https://microservices.io/), _Microservices IO_
+|     |                                                                                                                                                                                     |             |                    |
+| --- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- | ------------------ |
+| 🌐  | [Containers: Step-0 Intro The Microservices world](https://mamonrasoolabdali.medium.com/containers-step-0-into-the-microservices-world-dd0fff41bdef)                                | **Medium**  |                    |
+| 🌐  | [What is a Micro-service Architecture](https://www.docker.com/resources/what-container)                                                                                             | **Website** | _Docker_           |
+| 🌐  | [What is Micro Frontends](https://www.gsavitha.in/posts/micro-frontends/)                                                                                                           | **Website** | _GSavitha_         |
+| 🌐  | [The What, Why, and How of a Microservices Architecture](https://medium.com/hashmapinc/the-what-why-and-how-of-a-microservices-architecture-4179579423a9)                           | **Medium**  | _Hashmapinc_       |
+| 🌐  | [Microservice Application Design](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/multi-container-microservice-net-applications/microservice-application-design) | **Website** | _Microsoft_        |
+| 🌐  | [Microservices Guide](https://martinfowler.com/microservices/)                                                                                                                      | **Website** | _MartinFowler_     |
+| 🌐  | [What are microservices?](https://microservices.io/)                                                                                                                                | **Website** | _Microservices IO_ |
 
 ---
 
