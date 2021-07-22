@@ -20,11 +20,11 @@
 
 ### Blog Post
 
-|     |                                                                                                                                 |             |         |
-| --- | ------------------------------------------------------------------------------------------------------------------------------- | ----------- | ------- |
-| 🌐  | [Hands-On Microservices with Kubernetes](https://www.packtpub.com/product/hands-on-microservices-with-kubernetes/9781789805468) | **Website** | _Packt_ |
+|     |                                                                                                                                                      |            |     |
+| --- | ---------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | --- |
+| 🌐  | [Containers: Step-0 Intro The Microservices world](https://mamonrasoolabdali.medium.com/containers-step-0-into-the-microservices-world-dd0fff41bdef) | **Medium** |     |
 
-- [Containers: Step-0 Intro The Microservices world](https://mamonrasoolabdali.medium.com/containers-step-0-into-the-microservices-world-dd0fff41bdef)
+-
 - [What is a Micro-service Architecture](https://www.docker.com/resources/what-container)
 - [What is Micro Frontends](https://www.gsavitha.in/posts/micro-frontends/)
 - [The What, Why, and How of a Microservices Architecture](https://medium.com/hashmapinc/the-what-why-and-how-of-a-microservices-architecture-4179579423a9)
