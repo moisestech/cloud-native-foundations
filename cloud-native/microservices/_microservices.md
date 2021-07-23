@@ -10,8 +10,6 @@
 | --- | ----------------------------------------------------------------------------------------------------------------------- | ----------- | --- |
 | 🌐  | [Python Microservices Full Course, Event Drive Architecture with RabbitMQ](https://www.youtube.com/watch?v=ddrucr_aAzA) | **YouTube** |     |
 
--
-
 ### Books
 
 |     |                                                                                                                                 |             |         |
