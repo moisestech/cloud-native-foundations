@@ -171,8 +171,8 @@ I am committed to the SUSE Cloud Native Udacity Scholarship to advance my unders
 - [Project Ideas](https://docs.google.com/forms/d/e/1FAIpQLSc2bbVUNbD74HB0Of9tnya_0maMHGBGqlHUeX9dTLmZATnw7A/viewform)
 - [Lesson 2: Architecture Consideration for Cloud Native Applications](https://www.notion.so/Lesson-2-Architecture-Consideration-for-Cloud-Native-Applications-5d04e5120f8b4f90b09be446e694935d)
 - [free_month_learning_resources/resources at main · josepraveen/free_month_learning_resources](https://github.com/josepraveen/free_month_learning_resources/tree/main/resources)
+- [Nevalyashka Cloud](http://nevalyashka.andreiliphd.com/)
 
-<DT><A HREF="http://nevalyashka.andreiliphd.com/" ADD_DATE="1626863774" ICON="" >Nevalyashka Cloud</A>
 <DT><A HREF="https://github.com/Shivansh2407/SUSE-Cloud-Native-Foundations-Scholarship/blob/main/Tools.md" ADD_DATE="1626863774" ICON="" >SUSE-Cloud-Native-Foundations-Scholarship/Tools.md at main · Shivansh2407/SUSE-Cloud-Native-Foundations-Scholarship</A>
 <DT><A HREF="https://airtable.com/shryLSJS4CQslJBO9/tbl6A99RXoOm7DYSJ" ADD_DATE="1626863774" ICON="" >Airtable - SUSE Scholarship - Resources</A>
 <DT><A HREF="https://docs.google.com/document/d/128i2HD32vcnYjdaQJSokKoU83DW5gK_zjYKpsDoePGM/edit#heading=h.4vswagjnz90h" ADD_DATE="1626863774" ICON="" >CNCF Notes Udacity - Google Docs</A>
