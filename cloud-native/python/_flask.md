@@ -16,7 +16,7 @@
 
 ---
 
-## Resources
+## **Resources**
 
 ### Video Tutorials
 
