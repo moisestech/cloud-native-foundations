@@ -177,8 +177,8 @@ I am committed to the SUSE Cloud Native Udacity Scholarship to advance my unders
 - [CNCF Notes Udacity - Google Docs](https://docs.google.com/document/d/128i2HD32vcnYjdaQJSokKoU83DW5gK_zjYKpsDoePGM/edit#heading=h.4vswagjnz90h)
 - [sg7801/SUSE-Cloud-Native-Foundations-Scholarship: This repository contains the detailed notes and summaries for the SUSE Cloud Native Foundations course](https://github.com/sg7801/SUSE-Cloud-Native-Foundations-Scholarship)
 - [Microsoft Azure Machine Learning Nanodegree Scholarship by Udacity - YouTube](https://www.youtube.com/watch?v=cL0aj3drVjY)
+- [src/main/java/com/andreiliphd/nevalyashka · master · Andrei Li / nevalyashka-cloud · GitLab](https://gitlab.com/andreiliphd/nevalyashka-cloud/-/tree/master/src/main/java/com/andreiliphd/nevalyashka)
 
-<DT><A HREF="https://gitlab.com/andreiliphd/nevalyashka-cloud/-/tree/master/src/main/java/com/andreiliphd/nevalyashka" ADD_DATE="1626863774" ICON="" >src/main/java/com/andreiliphd/nevalyashka · master · Andrei Li / nevalyashka-cloud · GitLab</A>
 <DT><A HREF="https://www.notion.so/Lesson-5-CI-CD-with-Cloud-Native-Tooling-17a50539b4e945cdaa0bec63fb8279df" ADD_DATE="1626863774" ICON="" >Lesson-5 CI/CD with Cloud-Native Tooling</A>
 <DT><A HREF="https://github.com/nomadme/csse_glossary/blob/main/system-design.md" ADD_DATE="1626863774" ICON="" >csse_glossary/system-design.md at main · nomadme/csse_glossary</A>
 <DT><A HREF="https://www.notion.so/SUSE-Cloud-Native-Foundation-course-97216e94d7df4347bd99188f3fc09777" ADD_DATE="1626863774" ICON="" >SUSE Cloud Native Foundation course</A>
