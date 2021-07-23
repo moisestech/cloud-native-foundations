@@ -168,8 +168,8 @@ I am committed to the SUSE Cloud Native Udacity Scholarship to advance my unders
 - [Software Engineering](https://softwareengineeringdaily.com/)
 - [Udacity-SUSE-Learnings/Docker.md at main · ishashankkawle/Udacity-SUSE-Learnings](https://github.com/ishashankkawle/Udacity-SUSE-Learnings/blob/main/Lesson%203%20:%20Docker%20and%20Kubernetes/Docker.md)"
 - [Udacity_Cloud_Native_Fundamentals/resources at main · josepraveen/Udacity_Cloud_Native_Fundamentals](https://github.com/josepraveen/Udacity_Cloud_Native_Fundamentals/tree/main/resources)
+- [Project Ideas](https://docs.google.com/forms/d/e/1FAIpQLSc2bbVUNbD74HB0Of9tnya_0maMHGBGqlHUeX9dTLmZATnw7A/viewform)
 
-<DT><A HREF="https://docs.google.com/forms/d/e/1FAIpQLSc2bbVUNbD74HB0Of9tnya_0maMHGBGqlHUeX9dTLmZATnw7A/viewform" ADD_DATE="1626863774" ICON="" >Project Ideas</A>
 <DT><A HREF="https://www.notion.so/Lesson-2-Architecture-Consideration-for-Cloud-Native-Applications-5d04e5120f8b4f90b09be446e694935d" ADD_DATE="1626863774" ICON="" >Lesson 2: Architecture Consideration for Cloud Native Applications</A>
 <DT><A HREF="https://github.com/josepraveen/free_month_learning_resources/tree/main/resources" ADD_DATE="1626863774" ICON="" >free_month_learning_resources/resources at main · josepraveen/free_month_learning_resources</A>
 <DT><A HREF="http://nevalyashka.andreiliphd.com/" ADD_DATE="1626863774" ICON="" >Nevalyashka Cloud</A>
