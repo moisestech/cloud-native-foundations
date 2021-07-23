@@ -163,8 +163,8 @@ I am committed to the SUSE Cloud Native Udacity Scholarship to advance my unders
 - [Udacity Scholarship Checklist - Google Sheets](https://docs.google.com/spreadsheets/d/1REpmEI5AFxAlclnatHyygawTVv2UKIoT5PH6dk72xII/edit#gid=0)
 - [SUSE Cloud Native Foundations Scholarship - How to use Slack?](https://sites.google.com/udacity.com/suse-cloud-native-foundations/resources/how-to-use-slack)
 - [SUSE Cloud Native Foundations Scholarship - Milestones & Course Timelines](https://sites.google.com/udacity.com/suse-cloud-native-foundations/resources/milestones-course-timelines)
+- [SUSE Cloud Native Foundations Scholarship - Study Teams](https://sites.google.com/udacity.com/suse-cloud-native-foundations/community/study-teams)
 
-<DT><A HREF="https://sites.google.com/udacity.com/suse-cloud-native-foundations/community/study-teams" ADD_DATE="1626863774" ICON="" >SUSE Cloud Native Foundations Scholarship - Study Teams</A>
 <DT><A HREF="https://www.notion.so/Lesson-1-Introduction-to-Micro-services-59febe7e1f5d43c4a52062b4674f93b5" ADD_DATE="1626863774" ICON="" >Lesson-1: Introduction to Micro-services</A>
 <DT><A HREF="https://softwareengineeringdaily.com/" ADD_DATE="1626863774" ICON="" >Software Engineering Daily</A>
 <DT><A HREF="https://github.com/ishashankkawle/Udacity-SUSE-Learnings/blob/main/Lesson%203%20:%20Docker%20and%20Kubernetes/Docker.md" ADD_DATE="1626863774" ICON="" >Udacity-SUSE-Learnings/Docker.md at main · ishashankkawle/Udacity-SUSE-Learnings</A>
