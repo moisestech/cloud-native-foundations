@@ -164,8 +164,8 @@ I am committed to the SUSE Cloud Native Udacity Scholarship to advance my unders
 - [SUSE Cloud Native Foundations Scholarship - How to use Slack?](https://sites.google.com/udacity.com/suse-cloud-native-foundations/resources/how-to-use-slack)
 - [SUSE Cloud Native Foundations Scholarship - Milestones & Course Timelines](https://sites.google.com/udacity.com/suse-cloud-native-foundations/resources/milestones-course-timelines)
 - [SUSE Cloud Native Foundations Scholarship - Study Teams](https://sites.google.com/udacity.com/suse-cloud-native-foundations/community/study-teams)
+- [Lesson-1: Introduction to Micro-services](https://www.notion.so/Lesson-1-Introduction-to-Micro-services-59febe7e1f5d43c4a52062b4674f93b5)
 
-<DT><A HREF="https://www.notion.so/Lesson-1-Introduction-to-Micro-services-59febe7e1f5d43c4a52062b4674f93b5" ADD_DATE="1626863774" ICON="" >Lesson-1: Introduction to Micro-services</A>
 <DT><A HREF="https://softwareengineeringdaily.com/" ADD_DATE="1626863774" ICON="" >Software Engineering Daily</A>
 <DT><A HREF="https://github.com/ishashankkawle/Udacity-SUSE-Learnings/blob/main/Lesson%203%20:%20Docker%20and%20Kubernetes/Docker.md" ADD_DATE="1626863774" ICON="" >Udacity-SUSE-Learnings/Docker.md at main · ishashankkawle/Udacity-SUSE-Learnings</A>
 <DT><A HREF="https://github.com/josepraveen/Udacity_Cloud_Native_Fundamentals/tree/main/resources" ADD_DATE="1626863774" ICON="" >Udacity_Cloud_Native_Fundamentals/resources at main · josepraveen/Udacity_Cloud_Native_Fundamentals</A>
