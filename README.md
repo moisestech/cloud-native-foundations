@@ -182,8 +182,7 @@ I am committed to the SUSE Cloud Native Udacity Scholarship to advance my unders
 - [csse_glossary/system-design.md at main · nomadme/csse_glossary](https://github.com/nomadme/csse_glossary/blob/main/system-design.md)
 - [SUSE Cloud Native Foundation course](https://www.notion.so/SUSE-Cloud-Native-Foundation-course-97216e94d7df4347bd99188f3fc09777)
 - [Cloud Native Fundamentals Scholarship Program Study Resources](https://www.notion.so/Cloud-Native-Fundamentals-Scholarship-Program-Study-Resources-8b814534d63c49a6bcfb760558a8bcba)
-
-<DT><A HREF="https://puzzel.org/crossword/play?p=-MeVzVi7T86-RfRkEB0q" ADD_DATE="1626863774" ICON="" >Play Crossword - Puzzel.org</A>
+- [Play Crossword - Puzzel.org](https://puzzel.org/crossword/play?p=-MeVzVi7T86-RfRkEB0q)
 <DT><A HREF="https://docs.google.com/forms/d/e/1FAIpQLSfIBaBYgLOIz7ACdNYETJCxbNcR0Q5WT1iJ1Sql2oFDr8F65A/closedform" ADD_DATE="1626863774" ICON="" >Helm and ArgoCD Quiz</A>
 </DL><p>
 
