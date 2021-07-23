@@ -2,7 +2,7 @@
 
 ---
 
-## Resources
+## **Resources**
 
 ### Courses
 
