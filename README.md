@@ -183,7 +183,7 @@ I am committed to the SUSE Cloud Native Udacity Scholarship to advance my unders
 - [SUSE Cloud Native Foundation course](https://www.notion.so/SUSE-Cloud-Native-Foundation-course-97216e94d7df4347bd99188f3fc09777)
 - [Cloud Native Fundamentals Scholarship Program Study Resources](https://www.notion.so/Cloud-Native-Fundamentals-Scholarship-Program-Study-Resources-8b814534d63c49a6bcfb760558a8bcba)
 - [Play Crossword - Puzzel.org](https://puzzel.org/crossword/play?p=-MeVzVi7T86-RfRkEB0q)
-- [Helm and ArgoCD Quiz](https://docs.google.com/forms/d/e/1FAIpQLSfIBaBYgLOIz7ACdNYETJCxbNcR0Q5WT1iJ1Sql2oFDr8F65A/closedform)
+- [Helm and ArgoCD Quiz](https://docs.google.com/forms/d/e/1FAIpQLSfIBaBYgLOIz7ACdNYETJCxbNcR0Q5WT1iJ1Sql2oFDr8F65A/closedform), **Google Form**
 
 ---
 
