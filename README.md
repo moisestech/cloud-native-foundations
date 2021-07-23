@@ -175,8 +175,8 @@ I am committed to the SUSE Cloud Native Udacity Scholarship to advance my unders
 - [SUSE-Cloud-Native-Foundations-Scholarship/Tools.md at main · Shivansh2407/SUSE-Cloud-Native-Foundations-Scholarship](https://github.com/Shivansh2407/SUSE-Cloud-Native-Foundations-Scholarship/blob/main/Tools.md)
 - [Airtable - SUSE Scholarship - Resources](https://airtable.com/shryLSJS4CQslJBO9/tbl6A99RXoOm7DYSJ)
 - [CNCF Notes Udacity - Google Docs](https://docs.google.com/document/d/128i2HD32vcnYjdaQJSokKoU83DW5gK_zjYKpsDoePGM/edit#heading=h.4vswagjnz90h)
+- [sg7801/SUSE-Cloud-Native-Foundations-Scholarship: This repository contains the detailed notes and summaries for the SUSE Cloud Native Foundations course](https://github.com/sg7801/SUSE-Cloud-Native-Foundations-Scholarship)
 
-<DT><A HREF="https://github.com/sg7801/SUSE-Cloud-Native-Foundations-Scholarship" ADD_DATE="1626863774" ICON="" >sg7801/SUSE-Cloud-Native-Foundations-Scholarship: This repository contains the detailed notes and summaries for the SUSE Cloud Native Foundations course</A>
 <DT><A HREF="https://www.youtube.com/watch?v=cL0aj3drVjY" ADD_DATE="1626863774" ICON="" >Microsoft Azure Machine Learning Nanodegree Scholarship by Udacity - YouTube</A>
 <DT><A HREF="https://gitlab.com/andreiliphd/nevalyashka-cloud/-/tree/master/src/main/java/com/andreiliphd/nevalyashka" ADD_DATE="1626863774" ICON="" >src/main/java/com/andreiliphd/nevalyashka · master · Andrei Li / nevalyashka-cloud · GitLab</A>
 <DT><A HREF="https://www.notion.so/Lesson-5-CI-CD-with-Cloud-Native-Tooling-17a50539b4e945cdaa0bec63fb8279df" ADD_DATE="1626863774" ICON="" >Lesson-5 CI/CD with Cloud-Native Tooling</A>
