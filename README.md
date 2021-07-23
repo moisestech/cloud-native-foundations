@@ -179,8 +179,8 @@ I am committed to the SUSE Cloud Native Udacity Scholarship to advance my unders
 - [Microsoft Azure Machine Learning Nanodegree Scholarship by Udacity - YouTube](https://www.youtube.com/watch?v=cL0aj3drVjY)
 - [src/main/java/com/andreiliphd/nevalyashka · master · Andrei Li / nevalyashka-cloud · GitLab](https://gitlab.com/andreiliphd/nevalyashka-cloud/-/tree/master/src/main/java/com/andreiliphd/nevalyashka)
 - [Lesson-5 CI/CD with Cloud-Native Tooling](https://www.notion.so/Lesson-5-CI-CD-with-Cloud-Native-Tooling-17a50539b4e945cdaa0bec63fb8279df)
+- [csse_glossary/system-design.md at main · nomadme/csse_glossary](https://github.com/nomadme/csse_glossary/blob/main/system-design.md)
 
-<DT><A HREF="https://github.com/nomadme/csse_glossary/blob/main/system-design.md" ADD_DATE="1626863774" ICON="" >csse_glossary/system-design.md at main · nomadme/csse_glossary</A>
 <DT><A HREF="https://www.notion.so/SUSE-Cloud-Native-Foundation-course-97216e94d7df4347bd99188f3fc09777" ADD_DATE="1626863774" ICON="" >SUSE Cloud Native Foundation course</A>
 <DT><A HREF="https://www.notion.so/Cloud-Native-Fundamentals-Scholarship-Program-Study-Resources-8b814534d63c49a6bcfb760558a8bcba" ADD_DATE="1626863774" ICON="" >Cloud Native Fundamentals Scholarship Program Study Resources</A>
 <DT><A HREF="https://puzzel.org/crossword/play?p=-MeVzVi7T86-RfRkEB0q" ADD_DATE="1626863774" ICON="" >Play Crossword - Puzzel.org</A>
