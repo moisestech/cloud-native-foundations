@@ -6,9 +6,9 @@
 
 ### Courses
 
-|     |                                                                                                                         |             |     |
-| --- | ----------------------------------------------------------------------------------------------------------------------- | ----------- | --- |
-| 🌐  | [Python Microservices Full Course, Event Drive Architecture with RabbitMQ](https://www.youtube.com/watch?v=ddrucr_aAzA) | **YouTube** |     |
+|     |                                                                                                                         |             |                   |
+| --- | ----------------------------------------------------------------------------------------------------------------------- | ----------- | ----------------- |
+| 🌐  | [Python Microservices Full Course, Event Drive Architecture with RabbitMQ](https://www.youtube.com/watch?v=ddrucr_aAzA) | **YouTube** | _ScalableScripts_ |
 
 ### Books
 
