@@ -1,6 +1,6 @@
 # Python
 
-## Resources
+## **Resources**
 
 ## Github
 
@@ -13,7 +13,7 @@
 
 |     |     |                                                                                                                                                                                                                                                                                                    |                |                                     |
 | --- | --- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------- | ----------------------------------- |
-| 🌐  |     | [Google's Python Class](https://developers.google.com/edu/python/?hl=en)                                                                                                                                                                                                                           | **Dev Google** |                                     |
+| 🌐  |     | [Google's Python Class](https://developers.google.com/edu/python/?hl=en)                                                                                                                                                                                                                           | **Dev Google** | _Google For Education_              |
 | 🌐  |     | [Web Development Master Class Complete Certification Course](https://www.udemy.com/course/web-development-masterclass-complete-certificate-course/?couponCode=YOUACCEL49269)                                                                                                                       | **Udemy**      |                                     |
 | 🌐  |     | [Python Programming - From Basics to Advanced Level](https://www.udemy.com/course/python-programming-beginner-to-advanced/?ranMID=39197&ranEAID=%2F7fFXpljNdk&ranSiteID=_7fFXpljNdk-rorvNtWbidTez5YGtKtQaQ&utm_source=aff-campaign&utm_medium=udemyads&LSNPUBID=%2F7fFXpljNdk&couponCode=FREEJUN2) | **Udemy**      |                                     |
 | 🌐  |     | [SoloLearn Online Classes](https://www.sololearn.com/home)                                                                                                                                                                                                                                         | **Website**    | _SoloLearn_                         |
