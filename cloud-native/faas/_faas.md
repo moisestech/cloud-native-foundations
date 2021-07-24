@@ -12,18 +12,22 @@
 
 - For this scenario, a **FaaS** or **Function as a Service** is a more suitable offering. FaaS is an event-driven cloud-computing service that allows the execution of code without any management of the infrastructure and configuration files. As a result, the timetable update service is invoked only once a day, and for the rest of the time, there are no replicas of this service. A team will be billed only for the time the service is executed.
 
-![](./../../assets/images/lessons/L4_11_fass_4_diagram.png)
+![](../../assets/images/lessons/L4_11_faas_2_providers.png)
 
 - Popular FaaS solutions are:
+
   - [**AWS Lambda**]()
   - [**Azure Functions**]()
   - [**Cloud Functions from GCP**]()
   - and many more.
 
-Throughout the release process, a FaaS solution only requires the application code that is built and executed immediately. In comparison with a PaaS offering, this FaaS has a quicker usability rate, as no data management or configuration files are necessary.
+- Throughout the release process, a FaaS solution only requires the application code that is built and executed immediately.
+- In comparison with a PaaS offering, this FaaS has a quicker usability rate, as no data management or configuration files are necessary.
 
-Diagram of FaaS offering dependencies to deploy an application
-FaaS dependencies to deploy an application
+- **Diagram of FaaS** offering dependencies to deploy an application
+- **FaaS** dependencies to deploy an application
+
+![](./../../assets/images/lessons/L4_11_fass_4_diagram.png)
 
 ### New Terms
 
