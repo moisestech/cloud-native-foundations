@@ -12,6 +12,8 @@
 
 - For this scenario, a **FaaS** or **Function as a Service** is a more suitable offering. FaaS is an event-driven cloud-computing service that allows the execution of code without any management of the infrastructure and configuration files. As a result, the timetable update service is invoked only once a day, and for the rest of the time, there are no replicas of this service. A team will be billed only for the time the service is executed.
 
+![](./../../assets/images/lessons/L4_11_fass_4_diagram.png)
+
 - Popular FaaS solutions are:
   - [**AWS Lambda**]()
   - [**Azure Functions**]()
