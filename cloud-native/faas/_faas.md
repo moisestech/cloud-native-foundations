@@ -71,11 +71,14 @@ Explore FaaS in more detail:
 
 [Udacity, Video Link](https://www.youtube.com/watch?v=OCrjcLkDSX8)
 
-For this particular exercise, choosing either a PaaS or FaaS would reach the end goal: making the service available to customers.
+- For this particular exercise, choosing either a **PaaS** or **FaaS** would reach the end goal: making the service available to customers.
 
-In most cases, in a newspaper context, the readers are more focused on the news content rather than managing their accounts. Also, the number of requests to get an article can be a thousandfold higher than the number of requests to create or delete an account. As such, you can assume that the microservice should not be running at all times consuming available resources, and instead invoke it on demand-only.
+- In most cases, in a newspaper context, the readers are more focused on the news content rather than managing their accounts.
 
-Conclusively, a FaaS solution would be more suitable for the management of customer account microservice.
+  - Also, the number of requests to get an article can be a thousandfold higher than the number of requests to create or delete an account.
+  - As such, you can assume that the microservice should not be running at all times consuming available resources, and instead invoke it on demand-only.
+
+- Conclusively, a **FaaS** solution would be more suitable for the management of customer account microservice.
 
 ---
 
@@ -83,7 +86,8 @@ Conclusively, a FaaS solution would be more suitable for the management of custo
 
 ### Summary 2
 
-Throughout its evolution, an organization needs to periodically evaluate available cloud-computing services, to ensure that the business requirements are always fulfilled. The industry has an abundance of cloud-computing offerings, such as on-premise, IaaS, PaaS, and FaaS, with a rich collection of open-source and vendor managed tools. In this lesson, we analyzed Cloud Foundry, an open-source PaaS, that can be hosted on any available compute and provide a unified and powerful end-user experience. We have also explored, FaaS an event-driven offering, that increases the cost-efficiency of a platform.
+- Throughout its evolution, an organization needs to periodically evaluate available cloud-computing services, to ensure that the business requirements are always fulfilled.
+  - The industry has an abundance of cloud-computing offerings, such as on-premise, **IaaS**, **PaaS**, and **FaaS**, with a rich collection of open-source and vendor managed tools. In this lesson, we analyzed Cloud Foundry, an open-source PaaS, that can be hosted on any available compute and provide a unified and powerful end-user experience. We have also explored, FaaS an event-driven offering, that increases the cost-efficiency of a platform.
 
 Overall, throughout this lesson we explored:
 
