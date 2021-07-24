@@ -4,17 +4,24 @@
 
 ### **Summary 1**
 
-- An organization will always explore the most efficient offering to deploy a product to consumers. PaaS solutions are lightweight on initial setup, as a team can release the code in production within days.
+- An organization will always explore the **most efficient offering to deploy a product to consumers**.
+- **PaaS** solutions are lightweight on initial setup, as a team can release the code in production within days.
 
-![](../../assets/images/lessons/L4_11_faas_1_requirements.png)
+![Ephemeral Services](../../assets/images/lessons/L4_11_faas_1_requirements.png)
 
-- However, there are use cases where customers interact with a service only once a day or for a couple of hours within a day. For example, a service to update a timetable with the new bus schedule once a day. In this case, using a PaaS offering has one major downside: it is not cost-efficient. For example, with Cloud Foundry there will always be an instance of the application up and running, even if the service is used once a day. However, the team is billed for a full day.
+- However, there are use cases where customers interact with a service only once a day or for a couple of hours within a day.
+  - **For example**, a service to update a timetable with the new bus schedule once a day. In this case, using a **PaaS** offering has one major downside:
+    - it is not cost-efficient.
+  - **For example**, with **Cloud Foundry** there will always be an instance of the application up and running, even if the service is used once a day. However, the team is billed for a full day.
 
 ![Function as a Service (FaaS)](../../assets/images/lessons/L4_11_faas_3_overview.png)
 
-- For this scenario, a **FaaS** or **Function as a Service** is a more suitable offering. FaaS is an event-driven cloud-computing service that allows the execution of code without any management of the infrastructure and configuration files. As a result, the timetable update service is invoked only once a day, and for the rest of the time, there are no replicas of this service. A team will be billed only for the time the service is executed.
+- For this scenario, a **FaaS** or **Function as a Service** is a more suitable offering.
+- **FaaS** is an event-driven cloud-computing service that allows the execution of code without any management of the infrastructure and configuration files.
+- As a result, the timetable update service is invoked only once a day, and for the rest of the time, there are no replicas of this service.
+- A team will be billed only for the time the service is executed.
 
-![](../../assets/images/lessons/L4_11_faas_2_providers.png)
+![FaaS Providers](../../assets/images/lessons/L4_11_faas_2_providers.png)
 
 - Popular FaaS solutions are:
 
@@ -23,19 +30,19 @@
   - [**Cloud Functions from GCP**]()
   - and many more.
 
-- Throughout the release process, a FaaS solution only requires the application code that is built and executed immediately.
-- In comparison with a PaaS offering, this FaaS has a quicker usability rate, as no data management or configuration files are necessary.
+- Throughout the release process, a **FaaS** solution only requires the application code that is built and executed immediately.
+- In comparison with a PaaS offering, this **FaaS** has a quicker usability rate, as no data management or configuration files are necessary.
 
 - **Diagram of FaaS** offering dependencies to deploy an application
 - **FaaS** dependencies to deploy an application
 
 ![Diagram of FaaS vs PaaS requirements](./../../assets/images/lessons/L4_11_fass_4_diagram.png)
 
-### New Terms
+### **New Terms**
 
 - **FaaS** or **Function as a Service** - event-driven cloud-computing service that requires only the application code to execute successfully.
 
-## Further Reading
+## **Further Reading**
 
 Explore FaaS in more detail:
 
@@ -43,16 +50,20 @@ Explore FaaS in more detail:
 
 ---
 
-## Exercise: Function as a Service
+## **Exercise: Function as a Service**
 
-- Exercise: Function as a Service
-- FaaS (Function as a service) unlocks the ability to solely focus on building an application with no concerns for the underlying infrastructure. However, it is crucial to comprehend its usage within a microservice-based design.
+- **FaaS (Function as a service)** unlocks the ability to solely focus on building an application with no concerns for the underlying infrastructure.
 
-Imagine the following scenario: you are working for a media (newspaper) company and was assigned to develop a microservice responsible for the life-cycle of customer accounts. **The principal operations include account creation and deletion.**
+  - However, it is crucial to comprehend its usage within a microservice-based design.
 
-Considering the above, reflect on what mechanisms you would choose to deploy the microservice, PaaS, or FaaS. Elaborate on your reasoning.
+- Imagine the following scenario:
 
-**What mechanism would you choose to deploy the customer account management microservice? Explain your reasoning.**
+  - you are working for a media (newspaper) company and was assigned to develop a microservice responsible for the life-cycle of customer accounts.
+  - **The principal operations include account creation and deletion.**
+
+- Considering the above, reflect on what mechanisms you would choose to deploy the **microservice**, **PaaS**, or **FaaS**. Elaborate on your reasoning.
+
+## **What mechanism would you choose to deploy the customer account management microservice? Explain your reasoning.**
 
 ---
 
