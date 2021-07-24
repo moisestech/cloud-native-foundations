@@ -99,11 +99,13 @@ Explore FaaS in more detail:
 
 ## **Glossary**
 
-- **On-premise** - cloud-computing service, where a team owns the entire technology stack.
-- **IaaS** or **Infrastructure as a Service** - cloud-computing service that offers the abstraction of networking, storage, server, and virtualization layers.
-- **PaaS** or **Platform as a Service** - cloud-computing service, where the infrastructure components are managed fully by a 3rd party provider, and a team manages only the application and the data associated with it.
-- **Cloud Foundry** - an open-source PaaS offering, that can be hosted on any available infrastructure
-- **FaaS** or **Function as a Service** - event-driven cloud-computing service that requires only the application code to execute successfully.
+| WORD                                        | DEFINITION                                                                                                                                                                       |
+| ------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **On-premise**                              | cloud-computing service, where a team owns the entire technology stack.                                                                                                          |
+| **IaaS** or **Infrastructure as a Service** | cloud-computing service that offers the abstraction of networking, storage, server, and virtualization layers.                                                                   |
+| **PaaS** or **Platform as a Service**       | cloud-computing service, where the infrastructure components are managed fully by a 3rd party provider, and a team manages only the application and the data associated with it. |
+| **Cloud Foundry**                           | an open-source PaaS offering, that can be hosted on any available infrastructure.                                                                                                |
+| **FaaS** or **Function as a Service**       | event-driven cloud-computing service that requires only the application code to execute successfully.                                                                            |
 
 ---
 
