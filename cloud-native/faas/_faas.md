@@ -2,13 +2,15 @@
 
 ## Function as a Service
 
-![Function as a Service (FaaS)](../../assets/images/lessons/L4_11_faas_3_overview.png)
-
 ### **Summary 1**
 
 - An organization will always explore the most efficient offering to deploy a product to consumers. PaaS solutions are lightweight on initial setup, as a team can release the code in production within days.
 
+![](../../assets/images/lessons/L4_11_faas_1_requirements.png)
+
 - However, there are use cases where customers interact with a service only once a day or for a couple of hours within a day. For example, a service to update a timetable with the new bus schedule once a day. In this case, using a PaaS offering has one major downside: it is not cost-efficient. For example, with Cloud Foundry there will always be an instance of the application up and running, even if the service is used once a day. However, the team is billed for a full day.
+
+![Function as a Service (FaaS)](../../assets/images/lessons/L4_11_faas_3_overview.png)
 
 - For this scenario, a **FaaS** or **Function as a Service** is a more suitable offering. FaaS is an event-driven cloud-computing service that allows the execution of code without any management of the infrastructure and configuration files. As a result, the timetable update service is invoked only once a day, and for the rest of the time, there are no replicas of this service. A team will be billed only for the time the service is executed.
 
@@ -27,7 +29,7 @@
 - **Diagram of FaaS** offering dependencies to deploy an application
 - **FaaS** dependencies to deploy an application
 
-![](./../../assets/images/lessons/L4_11_fass_4_diagram.png)
+![Diagram of FaaS vs PaaS requirements](./../../assets/images/lessons/L4_11_fass_4_diagram.png)
 
 ### New Terms
 
