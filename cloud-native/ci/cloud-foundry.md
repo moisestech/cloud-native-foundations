@@ -34,4 +34,41 @@ Let's explore the release of an application using Cloud Foundry!
 
 [Udacity Video Link](https://youtu.be/-JcgNGC3cpY)
 
+## Summary
+
+This demo showcases the main capabilities of the Stratos console and Cloud Foundry.
+
+Some of the noteworthy sections are:
+
+- **Marketplace and Services** - research the service catalog and explore any integrated services
+- **Organizations** - used to manage multi-tenancy, quotas, and access to applications
+- **Routes** - list all available endpoints used to access deployed applications
+- **Build Packs** - explore available buildpacks packages used to build an application
+- **Security groups** - configure the endpoints that the application can communicate with
+
 ---
+
+## Cloud Foundry Walkthrough - Part 2
+
+Note: This demo references the Python hello-world application.
+
+[Udacity, Video Link](https://youtu.be/RnNQO2NbZa8)
+
+## Summary 2
+
+This demo provides a step-by-step guide on how to deploy a simple Python hello-world application to Cloud Foundry.
+
+Noteworthy steps in this demo:
+
+- **Python** hello-world is a simple Flask application, serving on port 8080
+- **Cloud Foundry** can use a manifest.yml file to store the configuration of the application, such as name and quotas
+- **Routes** are used to access the application and can be configured or created randomly
+
+## Further Reading
+
+Explore Cloud Foundry and the Stratos Console in more detail:
+
+- [Cloud Foundry Overview](https://docs.cloudfoundry.org/concepts/overview.html)
+- [Introduction to Stratos](https://gettingstarted.cap.explore.suse.dev/stratos/)
+- [Cloud Foundry: Deploying with App Manifests](https://docs.cloudfoundry.org/devguide/deploy-apps/manifest.html)
+- [Moving a Cloud Foundry Hello World App to Kubernetes - how hard can it be?](https://www.suse.com/c/moving-a-cloud-foundry-hello-world-app-to-kubernetes-src/)
