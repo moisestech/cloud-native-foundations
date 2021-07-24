@@ -2,6 +2,8 @@
 
 ## Function as a Service
 
+![Function as a Service (FaaS)](../../assets/images/lessons/L4_11_faas_3_overview.png)
+
 ### **Summary 1**
 
 - An organization will always explore the most efficient offering to deploy a product to consumers. PaaS solutions are lightweight on initial setup, as a team can release the code in production within days.
@@ -35,8 +37,8 @@ Explore FaaS in more detail:
 
 ## Exercise: Function as a Service
 
-Exercise: Function as a Service
-FaaS (Function as a service) unlocks the ability to solely focus on building an application with no concerns for the underlying infrastructure. However, it is crucial to comprehend its usage within a microservice-based design.
+- Exercise: Function as a Service
+- FaaS (Function as a service) unlocks the ability to solely focus on building an application with no concerns for the underlying infrastructure. However, it is crucial to comprehend its usage within a microservice-based design.
 
 Imagine the following scenario: you are working for a media (newspaper) company and was assigned to develop a microservice responsible for the life-cycle of customer accounts. **The principal operations include account creation and deletion.**
 
@@ -46,7 +48,7 @@ Considering the above, reflect on what mechanisms you would choose to deploy the
 
 ---
 
-## Solution: Function as a Service
+## **Solution: Function as a Service**
 
 [Udacity, Video Link](https://www.youtube.com/watch?v=OCrjcLkDSX8)
 
