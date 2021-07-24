@@ -82,20 +82,22 @@ Explore FaaS in more detail:
 
 ---
 
-## Lesson Conclusion
+## **Lesson Conclusion**
 
-### Summary 2
+### **Summary 2**
 
 - Throughout its evolution, an organization needs to periodically evaluate available cloud-computing services, to ensure that the business requirements are always fulfilled.
-  - The industry has an abundance of cloud-computing offerings, such as on-premise, **IaaS**, **PaaS**, and **FaaS**, with a rich collection of open-source and vendor managed tools. In this lesson, we analyzed Cloud Foundry, an open-source PaaS, that can be hosted on any available compute and provide a unified and powerful end-user experience. We have also explored, FaaS an event-driven offering, that increases the cost-efficiency of a platform.
 
-Overall, throughout this lesson we explored:
+  - The industry has an abundance of cloud-computing offerings, such as on-premise, **IaaS**, **PaaS**, and **FaaS**, with a rich collection of open-source and vendor managed tools.
+  - In this lesson, we analyzed **Cloud Foundry**, an open-source **PaaS**, that can be hosted on any available compute and provide a unified and powerful end-user experience.
+  - e have also explored, **FaaS** an event-driven offering, that increases the cost-efficiency of a platform.
 
-- PaaS Mechanisms
-- Cloud Foundry
-- Function as a Service
+- Overall, throughout this lesson we explored:
+  - **PaaS Mechanisms**
+  - **Cloud Foundry**
+  - **Function as a Service**
 
-## Glossary
+## **Glossary**
 
 - **On-premise** - cloud-computing service, where a team owns the entire technology stack.
 - **IaaS** or **Infrastructure as a Service** - cloud-computing service that offers the abstraction of networking, storage, server, and virtualization layers.
