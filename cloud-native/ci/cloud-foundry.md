@@ -72,3 +72,73 @@ Explore Cloud Foundry and the Stratos Console in more detail:
 - [Introduction to Stratos](https://gettingstarted.cap.explore.suse.dev/stratos/)
 - [Cloud Foundry: Deploying with App Manifests](https://docs.cloudfoundry.org/devguide/deploy-apps/manifest.html)
 - [Moving a Cloud Foundry Hello World App to Kubernetes - how hard can it be?](https://www.suse.com/c/moving-a-cloud-foundry-hello-world-app-to-kubernetes-src/)
+
+---
+
+## Quiz: Cloud Foundry
+
+1. Why an engineering team can avoid vendor lock-in by using Cloud Foundry?
+
+   - [x] Cloud Foundry is an open-source PaaS
+   - [ ] Cloud Foundry can be deployed only on Kubernetes
+   - [ ] Cloud Foundry simplifies developer experience when deploying an application
+   - [x] Cloud Foundry can be deployed on top of existing cloud providers
+
+2. **Cloud Foundry** offers services as part of its core functionalities. It will use service brokers to provision on-demand the dependency services for an application. What kind of dependency services does it cover?
+
+   - [x] Third-party APIs
+   - [ ] logs
+   - [x] Databases
+   - [ ] metrics
+
+3. Which of the following sources you ca nuse to deploy an application using **Cloud Foundry**?
+
+   - [x] Public GitHub repository
+   - [x] Docker image
+   - [x] Public GitLab repository
+   - [x] Upload source code directly
+
+4. True or False: **Cloud Froundry** provides routing to applications from external users.
+
+   - [x] True
+   - [ ] False
+
+---
+
+## Exercise: Cloud Foundry
+
+Imagine the following scenario: you are part of the team that needs to assess the benefits and drawbacks of using Cloud Foundry versus Kubernetes.
+
+Considering that the application code is available, reflect on what operations and steps are necessary to adopt each solution (Cloud Foundry and Kubernetes) for a successful application deployment. What are the main drawbacks of each solution?
+
+Reflect on Cloud Foundry versus Kubernetes adoption - part 1
+What are the steps to adopt Kubernetes for a successful application deployment?
+
+---
+
+## Solution: **Cloud Foundry**
+
+It is pivotal to understand the application functionalities and available resources. This is especially the case when a microservice-based design is chosen, and solutions suck as IaaS (Infrastructure as a Service), PaaS (Platform as a Service), SaaS (Software as a Service) are available from a multitude of vendors. Choosing the most suitable deployment tooling will lead to the efficient delivery of the product.
+
+Considering that the application code is available, these are the steps to adopt each proposed solution:
+
+**Kubernetes**
+
+- create an OCI (Open Container Initiative) compliant image, usually created by using Docker
+- deploy a Kubernetes cluster with a valid ingress controller for the routing of requests
+- deploy an observability stack, including logs and metrics
+- create the YAML manifests for the application deployment
+- create a CI/CD pipeline to push the Kubernetes resources to the cluster
+
+**Cloud Foundry**
+
+- write a manifest file to provide main application deployment parameters
+- deploy Cloud Foundry or use Cloud Foundry PaaS solutions from 3rd part vendors
+- deploy the application to Cloud Foundry (via CLI or UI)
+  **Note:** _Cloud Foundry will create the OCI compliant image by default, and it will provide the routing capacities as well._
+
+Cloud Foundry provides a better developer experience for application deployment, as it offers a greater level of component abstraction (no need to manage the underlying infrastructure). However, a PaaS solution locks-in the customer to a specific vendor. On the other side, Kubernetes offers full control over the container orchestration, providing more flexible management of the application.
+
+---
+
+## Resources
