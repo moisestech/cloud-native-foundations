@@ -2,41 +2,53 @@
 
 ## **Summary**
 
-- Once an engineering team has automated the packaging of an application, the next phase is to release it to customers. Before the application is pushed to a production environment, it is important to check the functionality of an application when deployed and integrated with platform components. Only when the application meets the excepted behavior, it is deployed to a customer-facing environment. The process of propagating an application through multiple environments, until it reached the end-users, is known as the Continuous Delivery (or CD) stage.
+- Once an engineering team has automated the packaging of an application, the next phase is to release it to customers. Before the application is pushed to a production environment, it is important to check the functionality of an application when deployed and integrated with platform components. Only when the application meets the excepted behavior, it is deployed to a customer-facing environment. The process of propagating an application through multiple environments, until it reached the end-users, is known as the **Continuous Delivery** (or CD) stage.
 
 - It is common practice to push the code through at least 3 environments: sandbox, staging, and production. A reminder of each environment's purpose :
 
-- Sandbox - development environment, where new changes can be tested with minimal risk.
-- Staging - an environment identical to production, and where a release can be simulated without affecting the end-user experience.
-- Production - customer-facing environment and any changes in this environment will affect the customer experience.
+- **Sandbox** - development environment, where new changes can be tested with minimal risk.
+- **Staging** - an environment identical to production, and where a release can be simulated without affecting the end-user experience.
+- **Production** - customer-facing environment and any changes in this environment will affect the customer experience.
 
-The sandbox and staging environments are fully automated. As such, if the deployment to sandbox is successful and meets the expected behavior, then the code will be propagated to the staging automatically. However, the push to production requires engineering validation and triggering, as this is the environment that the end-users will interact with. The production deployment can be fully automated, however, doing so implies a high confidence rate that the code will not introduce customer-facing disruptions.
+- The sandbox and staging environments are fully automated. As such, if the deployment to sandbox is successful and meets the expected behavior, then the code will be propagated to the staging automatically. However, the push to production requires engineering validation and triggering, as this is the environment that the end-users will interact with. The production deployment can be fully automated, however, doing so implies a high confidence rate that the code will not introduce customer-facing disruptions.
 
-Diagram of Continuous Delivery stages
-Continuous Delivery stages
+![Diagram of Continuous Delivery stages]()
 
-Within the deployment pipeline, Continuous Delivery covers the deploy stage. Throughout this course, we have practiced the deployment of an application while using kubectl commands.
+- **Continuous Delivery stages**
 
-Kubernetes CLI (kubectl), support the management of imperative and declarative configuration. With the imperative approach, a Python hello-world application is deployed by creating a Deployment resource and referencing the desired Docker image:
+- Within the deployment pipeline, Continuous Delivery covers the **deploy** stage. Throughout this course, we have practiced the deployment of an application while using kubectl commands.
 
+- Kubernetes CLI (kubectl), support the management of imperative and declarative configuration. With the imperative approach, a Python hello-world application is deployed by creating a Deployment resource and referencing the desired Docker image:
+
+---
+
+```bash python
 # deploy `python-helloworld` using the imperative approach
-
 kubectl create deploy python-helloworld --image=pixelpotato/python-helloworld:v1.0.0
-On the other side, with the declarative approach, the Python hello-world Deployment is store in a YAML manifest and is created using the kubectl apply command:
+```
 
+- On the other side, with the declarative approach, the Python hello-world Deployment is store in a YAML manifest and is created using the `kubectl apply` command:
+
+```bash python
 # deploy `python-helloworld` using the declarative approach
-
 kubectl apply -f deployment.yaml
-Note: The declarative approach is the recommended way to deploy resources within a production environment. Hence, this configuration management technique will be referenced in the next sections.
+```
 
-Argo CD
+- **Note:** The declarative approach is the recommended way to deploy resources within a production environment. Hence, this configuration management technique will be referenced in the next sections.
 
-Summary
-The ecosystem is rich in the collection of tools that automate the Continuous Delivery stage, such as Jenkins, CircleCI, Concourse, and Spinnaker. However, in this lesson, we will explore ArgoCD to propagate an application to multiple Kubernetes clusters.
+---
 
-ArgoCD is a declarative Continuous Delivery tool for Kubernetes, which follows the GitOps patterns. As such, ArgoCD operates on configuration stored in manifests (declarative) and uses Git repositories as the source of truth for the desired state of an application (GitOps pattern). As such, ArgoCD monitors the new commits to Git repositories and applies the latest changes reconciled automatically or on a manual trigger. Additionally, ArgoCD offers deployment to target environments and multiple clusters, and support for multiple config management tools (such as plain YAML, Helm, Kustomize).
+## Argo CD
 
-For application deployment through multiple environments, ArgoCD provides CRDs (Custom Resource Definitions) to configure and manage the application release.
+![Argo CD Advantages]()
+
+### **Summary 2**
+
+- The ecosystem is rich in the collection of tools that automate the Continuous Delivery stage, such as Jenkins, CircleCI, Concourse, and Spinnaker. However, in this lesson, we will explore ArgoCD to propagate an application to multiple Kubernetes clusters.
+
+- ArgoCD is a declarative Continuous Delivery tool for Kubernetes, which follows the GitOps patterns. As such, ArgoCD operates on configuration stored in manifests (declarative) and uses Git repositories as the source of truth for the desired state of an application (GitOps pattern). As such, ArgoCD monitors the new commits to Git repositories and applies the latest changes reconciled automatically or on a manual trigger. Additionally, ArgoCD offers deployment to target environments and multiple clusters, and support for multiple config management tools (such as plain YAML, Helm, Kustomize).
+
+- For application deployment through multiple environments, ArgoCD provides CRDs (Custom Resource Definitions) to configure and manage the application release.
 
 Project resource
 The Project resource is a CRD that provides a logical grouping of applications, including access to source and destination repositories, and permissions to resources within the cluster. This resource is handy to segregate and control the deployment to multiple clusters.
