@@ -97,6 +97,8 @@ Explore FaaS in more detail:
   - **Cloud Foundry**
   - **Function as a Service**
 
+---
+
 ## **Glossary**
 
 | WORD                                        | DEFINITION                                                                                                                                                                       |
@@ -109,7 +111,7 @@ Explore FaaS in more detail:
 
 ---
 
-### Resources
+## **Resources**
 
 - [Serverless (FaaS) vs. Containers - when to pick which?](https://www.serverless.com/blog/serverless-faas-vs-containers), **Serverless**
 - [Serverless Vs Container (Lambda Vs Kubernetes)](https://www.youtube.com/watch?v=EpW28dvm_qo"), **YouTube**
