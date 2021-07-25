@@ -50,65 +50,55 @@ kubectl apply -f deployment.yaml
 
 - For application deployment through multiple environments, ArgoCD provides CRDs (Custom Resource Definitions) to configure and manage the application release.
 
-Project resource
-The Project resource is a CRD that provides a logical grouping of applications, including access to source and destination repositories, and permissions to resources within the cluster. This resource is handy to segregate and control the deployment to multiple clusters.
+### Project resource
 
-Application resource
-The Application resource that stores the configuration of how an application should be deployed and managed.
-Let's explore how a Python hello-world application is deployed using an ArgoCD Application resource: Note: It is assumed that the declarative manifests for Python hello-world are available ((e.g. deploy.yaml, service.yaml, etc).
+- The **Project** resource is a CRD that provides a logical grouping of applications, including access to source and destination repositories, and permissions to resources within the cluster. This resource is handy to segregate and control the deployment to multiple clusters.
 
+### Application resource
+
+- The **Application** resource that stores the configuration of how an application should be deployed and managed.
+- Let's explore how a Python hello-world application is deployed using an ArgoCD Application resource:
+- _Note:_ It is assumed that the declarative manifests for Python hello-world are available ((e.g. deploy.yaml, service.yaml, etc).
+
+```bash
 ## API endpoint used to create the Application resource
-
 apiVersion: argoproj.io/v1alpha1
 kind: Application
 
 ## Set the name of the resource and namespace where it should be deployed.
-
 ## In this case the Application resource name is set to `python-helloworld `
-
 ## and it is deployed in the `argocd` namespace
-
 metadata:
 name: python-helloworld
 namespace: argocd
 spec:
-
 ## Set the target cluster and namespace to deploy the Python hello-world application.
-
 ## For example, the Python hello-world application is deployed in the `default` namespace
-
 ## within the local cluster or `https://kubernetes.default.svc`
-
 destination:
 namespace: default
 server: https://kubernetes.default.svc
-
 ## Set the project the application belongs to.
-
 ## In this case the `default` project is used.
-
 project: default
-
 ## Define the source of the Python hello-world application manifests.
-
 ## In this example, the manifests are stored in the `argocd-demo` repository
-
 ## under the `python-manifests` folder. Additionally, the latest commit within
-
 ## the repository is targeted or `HEAD`.
-
 source:
 path: python-manifests
 repoURL:
 https://github.com/kgamanji/argocd-demo
 targetRevision: HEAD
-
 # # Set the sync policy.
-
 ## If left empty, the sync policy will default to manual.
-
 syncPolicy: {}
-App of Apps
+```
+
+---
+
+![App of Apps]()
+
 Diagram of a web-store Application that manages the configuration multiple microservices
 App of Apps: manage the Application CRDs for multiple microservices with a single Application CRD
 
