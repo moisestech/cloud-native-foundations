@@ -99,19 +99,23 @@ syncPolicy: {}
 
 ![App of Apps]()
 
-Diagram of a web-store Application that manages the configuration multiple microservices
-App of Apps: manage the Application CRDs for multiple microservices with a single Application CRD
+- Diagram of a web-store Application that manages the configuration multiple microservices
 
-ArgoCD provides an “app-of-apps” technique that enables a group of applications to be deployed and configured together. This technique is useful if a product is developed using a microservice-based architecture, and a single point of orchestration is necessary to deploy all microservices. For example, a Web-store Application CRD can be used to manage the Application CRDs for the UI, Login, and Payment units. In this case, one point of control is provisioned to release and manage multiple microservices.
+- App of Apps: manage the Application CRDs for multiple microservices with a single Application CRD
 
-New Terms
-GitOps - an operating model that refers to the Git repositories as the source of truth for declarative infrastructure and applications.
-Further Reading
-Explore the GitOps pattern and ArgoCD resources:
+- **ArgoCD** provides an “app-of-apps” technique that enables a group of applications to be deployed and configured together. This technique is useful if a product is developed using a microservice-based architecture, and a single point of orchestration is necessary to deploy all microservices. For example, a Web-store Application CRD can be used to manage the Application CRDs for the UI, Login, and Payment units. In this case, one point of control is provisioned to release and manage multiple microservices.
 
-A Guide To GitOps
-ArgoCD Project CRD
-ArgoCD Application CRD
+### New Terms
+
+- **GitOps** - an operating model that refers to the Git repositories as the source of truth for declarative infrastructure and applications.
+
+### Further Reading
+
+- Explore the GitOps pattern and ArgoCD resources:
+
+- [A Guide To GitOps]()
+- [ArgoCD Project CRD]()
+- [ArgoCD Application CRD]()
 
 ---
 
