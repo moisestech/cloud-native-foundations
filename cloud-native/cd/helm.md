@@ -7,9 +7,11 @@
 
 - To follow this demo closely, reference these resources:
 
-- Python hello-world Helm chart that is used to parameterized the Namespace and Deployment resources. Note how the values.yaml and values-prod.yaml files are used to overwrite name of the Namespace.
+- **Python hello-world** Helm chart that is used to parameterized the Namespace and Deployment resources. Note how the values.yaml and values-prod.yaml files are used to overwrite name of the Namespace.
 - The Application CRD to deploy the Helm chart referencing the default input values file, can be found in argocd-helm-python.yaml manifest
 - The Application CRD used to deploy the Helm chart referencing the values-prod.yaml file, can be found in argocd-helm-python-prod.yaml manifest
+
+- [Udacity Video Link](https://youtu.be/i1ZvdS7qdAI)
 
 ---
 
