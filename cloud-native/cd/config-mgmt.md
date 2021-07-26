@@ -49,37 +49,24 @@
 Chart.yaml
 A Chart.yaml file encompasses the details of the chart, such as version, description, and maintainer list. For example, a Python hello-world Helm chart contains the following Chart.yaml configuration:
 
+```bash
 ## The chart API version
-
 apiVersion: v1
-
 ## The name of the chart.
-
 ## In this case, the chart name is`python-helloworld `.
-
 name: python-helloworld
-
-## A single-sentence description of this project
-
-description: Install Python HelloWorld
-
+## A single-sentence description of this project description: Install Python helloworld
 ## A list of keywords about this project to quickly identify the chart's capabilities.
-
 keywords:
-
 - python
 - helloworld
-
 ## The chart version, here set to `3.7.0`
-
 version: 3.7.0
-
 ## List of maintainers, their names, and method of contact
-
 maintainers:
-
 - name: kgamanji
   email: kgamanji@xyz.com
+```
 
 ### Templates folder
 
