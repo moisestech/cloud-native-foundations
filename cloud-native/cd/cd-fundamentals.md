@@ -40,17 +40,27 @@ kubectl apply -f deployment.yaml
 
 ## Argo CD
 
+[Udacity Video Link](https://youtu.be/rHUeSniRVUk)
+
 ![Argo CD Advantages]()
+
+![Argo CD Info](../../assets/images/lessons/lesson_1_icon.jpeg)
+![Argo CD Info](../../assets/images/lessons/lesson_2_icon.jpeg)
+![Argo CD Info](../../assets/images/lessons/lesson_3_icon.jpeg)
+![Argo CD Info](../../assets/images/lessons/lesson_4_icon.jpeg)
+![Argo CD Info](../../assets/images/lessons/lesson_5_icon.jpeg)
+![Argo CD Info](../../assets/images/lessons/lesson_6_icon.jpeg)
+![Argo CD Info](../../assets/images/lessons/lesson_7_icon.jpeg)
 
 ### **Summary 2**
 
 - The ecosystem is rich in the collection of tools that automate the Continuous Delivery stage, such as Jenkins, CircleCI, Concourse, and Spinnaker. However, in this lesson, we will explore ArgoCD to propagate an application to multiple Kubernetes clusters.
 
-- ArgoCD is a declarative Continuous Delivery tool for Kubernetes, which follows the GitOps patterns. As such, ArgoCD operates on configuration stored in manifests (declarative) and uses Git repositories as the source of truth for the desired state of an application (GitOps pattern). As such, ArgoCD monitors the new commits to Git repositories and applies the latest changes reconciled automatically or on a manual trigger. Additionally, ArgoCD offers deployment to target environments and multiple clusters, and support for multiple config management tools (such as plain YAML, Helm, Kustomize).
+- **ArgoCD** is a declarative Continuous Delivery tool for Kubernetes, which follows the GitOps patterns. As such, ArgoCD operates on configuration stored in manifests (declarative) and uses Git repositories as the source of truth for the desired state of an application (GitOps pattern). As such, ArgoCD monitors the new commits to Git repositories and applies the latest changes reconciled automatically or on a manual trigger. Additionally, ArgoCD offers deployment to target environments and multiple clusters, and support for multiple config management tools (such as plain YAML, Helm, Kustomize).
 
-- For application deployment through multiple environments, ArgoCD provides CRDs (Custom Resource Definitions) to configure and manage the application release.
+- For application deployment through multiple environments, **ArgoCD** provides CRDs (Custom Resource Definitions) to configure and manage the application release.
 
-### Project resource
+### **Project resource**
 
 - The **Project** resource is a CRD that provides a logical grouping of applications, including access to source and destination repositories, and permissions to resources within the cluster. This resource is handy to segregate and control the deployment to multiple clusters.
 
