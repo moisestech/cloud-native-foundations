@@ -46,8 +46,9 @@
 
 ## Helm Chart structure
 
-Chart.yaml
-A Chart.yaml file encompasses the details of the chart, such as version, description, and maintainer list. For example, a Python hello-world Helm chart contains the following Chart.yaml configuration:
+### Chart.yaml
+
+A `Chart.yaml` file encompasses the details of the chart, such as version, description, and maintainer list. For example, a Python hello-world Helm chart contains the following Chart.yaml configuration:
 
 ```bash
 ## The chart API version
