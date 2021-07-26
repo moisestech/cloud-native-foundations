@@ -130,9 +130,11 @@ Argo CD and Helm
 
 ## Summary 3
 
-So far, we have explored how an engineering team can use Helm charts to template the manifests for multiple clusters. The next stage consists of integrating the Helm charts in the deploy phase of the CI/CD pipeline.
+- So far, we have explored how an engineering team can use **Helm charts** to template the manifests for multiple clusters.
 
-ArgoCD supports the deployment of manifests that are managed by a Helm chart. To implement this approach, the Application CRD requires to change the source of manifests to a Helm chart. An example of the manifest can be found below:
+  - The next stage consists of integrating the **Helm charts** in the deploy phase of the CI/CD pipeline.
+
+- **ArgoCD** supports the deployment of manifests that are managed by a Helm chart. To implement this approach, the Application CRD requires to change the source of manifests to a Helm chart. An example of the manifest can be found below:
 
 [...]
 source: ## change the source of manifests to a Helm chart
