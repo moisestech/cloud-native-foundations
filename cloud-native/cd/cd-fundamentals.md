@@ -115,7 +115,7 @@ syncPolicy: {}
 
 - [A Guide To GitOps](https://www.weave.works/technologies/gitops/)
 - [ArgoCD Project CRD](https://argoproj.github.io/argo-cd/operator-manual/declarative-setup/#projects)
-- [ArgoCD Application CRD]()
+- [ArgoCD Application CRD](https://argoproj.github.io/argo-cd/operator-manual/declarative-setup/#applications)
 
 ---
 
