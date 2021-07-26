@@ -132,6 +132,8 @@ Argo CD and Helm
 
 ## Argo CD and Helm
 
+[Udacity, Video Link](https://youtu.be/DMeMXarg6Q0)
+
 ## Summary 3
 
 - So far, we have explored how an engineering team can use **Helm charts** to template the manifests for multiple clusters.
