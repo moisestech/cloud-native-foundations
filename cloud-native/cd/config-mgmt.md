@@ -80,12 +80,17 @@ maintainers:
 
 - name: kgamanji
   email: kgamanji@xyz.com
-  Templates folder
-  The templates/ folder is a directory containing templated YAML manifests, that require an input file to generate valid Kubernetes resources. For example, the templates/ folder contains the manifests for Deployment and Namespace resources, used to deploy the Python hello-world application:
 
+### Templates folder
+
+- The `templates/` folder is a directory containing templated YAML manifests, that require an input file to generate valid Kubernetes resources.
+- For example, the `templates/` folder contains the manifests for Deployment and Namespace resources, used to deploy the Python hello-world application:
+
+```bash
 templates/
 ├── deployment.yaml
 └── namespace.yaml
+```
 
 - These manifests can be templated using Go template.
 - For example, instead of hardcoding the name of the Namespace, it can be parameterized as following:
