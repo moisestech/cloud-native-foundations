@@ -128,14 +128,21 @@ metadata:
 name: prod
 Argo CD and Helm
 
+---
+
+## Argo CD and Helm
+
 ## Summary 3
 
 - So far, we have explored how an engineering team can use **Helm charts** to template the manifests for multiple clusters.
 
   - The next stage consists of integrating the **Helm charts** in the deploy phase of the CI/CD pipeline.
 
-- **ArgoCD** supports the deployment of manifests that are managed by a Helm chart. To implement this approach, the Application CRD requires to change the source of manifests to a Helm chart. An example of the manifest can be found below:
+- **ArgoCD** supports the deployment of manifests that are managed by a Helm chart.
+  - To implement this approach, the Application CRD requires to change the source of manifests to a Helm chart.
+  - An example of the manifest can be found below:
 
+```bash python
 [...]
 source: ## change the source of manifests to a Helm chart
 helm: ## define the input values file
@@ -144,6 +151,7 @@ path: solutions/helm/python-helloworld ## set the base repository that contains 
 repoURL: https://github.com/udacity/nd064_course_1
 targetRevision: HEAD
 The full YAML representation of the Application CRD that deploys a Helm chart can be found in the course repository.
+```
 
 ---
 
