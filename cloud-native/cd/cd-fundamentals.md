@@ -113,7 +113,7 @@ syncPolicy: {}
 
 - Explore the GitOps pattern and ArgoCD resources:
 
-- [A Guide To GitOps]()
+- [A Guide To GitOps](https://www.weave.works/technologies/gitops/)
 - [ArgoCD Project CRD]()
 - [ArgoCD Application CRD]()
 
