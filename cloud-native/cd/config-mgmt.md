@@ -86,16 +86,24 @@ maintainers:
 templates/
 ├── deployment.yaml
 └── namespace.yaml
-These manifests can be templated using Go template. For example, instead of hardcoding the name of the Namespace, it can be parameterized as following:
 
+- These manifests can be templated using Go template.
+- For example, instead of hardcoding the name of the Namespace, it can be parameterized as following:
+
+```bash
 apiVersion: v1
 kind: Namespace
 metadata:
-name: {{ .Values.namespace.name }}
-Note: The .Values object is used to access the parameters passed from the input values.yaml file.
+  name: {{ .Values.namespace.name }}
+```
 
-values.yaml
-The values.yaml file contains default input parameters for a Helm chart. The parameters are consumed by the templated YAML manifests through the .Values object. The end result is a suite of valid Kubernetes resources that can be successfully deployed. For example, to provide the configuration for the Deployment and Namespace resources, the values.yaml has the following structure:
+**Note:** The `.Values` object is used to access the parameters passed from the input `values.yaml` file.
+
+### values.yaml
+
+- The `values.yaml` file contains default input parameters for a Helm chart. The parameters are consumed by the templated YAML manifests through the `.Values` object.
+- The end result is a suite of valid Kubernetes resources that can be successfully deployed.
+- For example, to provide the configuration for the Deployment and Namespace resources, the `values.yaml` has the following structure:
 
 ```bash
 ## provide the name of the namespace
