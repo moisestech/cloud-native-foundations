@@ -122,11 +122,13 @@ namespace:
 name: prod
 The end result will be a valid Kubernetes Namespace object:
 
+```bash
 apiVersion: v1
 kind: Namespace
 metadata:
 name: prod
 Argo CD and Helm
+```
 
 ---
 
@@ -144,7 +146,7 @@ Argo CD and Helm
   - To implement this approach, the Application CRD requires to change the source of manifests to a Helm chart.
   - An example of the manifest can be found below:
 
-```bash python
+```bash
 [...]
 source: ## change the source of manifests to a Helm chart
 helm: ## define the input values file
