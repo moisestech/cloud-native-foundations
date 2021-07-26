@@ -158,9 +158,9 @@ The full YAML representation of the Application CRD that deploys a Helm chart ca
 
 - Explore Helm configuration in more detail:
 
-  - [The Chart Template Developer's Guide]()
-  - [The Chart.yaml File]()
-  - [Templates and Values]()
+  - [The Chart Template Developer's Guide](https://helm.sh/docs/chart_template_guide/#the-chart-template-developers-guide)
+  - [The Chart.yaml File](https://helm.sh/docs/topics/charts/#the-chartyaml-file)
+  - [Templates and Values](https://helm.sh/docs/topics/charts/#templates-and-values)
 
 ---
 
