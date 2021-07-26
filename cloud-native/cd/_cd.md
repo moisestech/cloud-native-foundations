@@ -24,6 +24,8 @@ Configuration Managers
 
 ## Big Picture: Application Releases
 
+![Udacity, Video Link]()
+
 ### Summary 2
 
 - Up to this stage, we have practiced the packaging of an application using Docker and its deployment to a Kubernetes cluster using kubectl commands. As well, we have explored the simplified developer experience of application release with Cloud Foundry. However, in both cases, a user has to manually trigger and complete all the operations. This is not sustainable if tens and hundreds of releases are performed within a day. Automation of the release process is fundamental!
