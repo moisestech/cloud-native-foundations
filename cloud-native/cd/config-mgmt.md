@@ -97,37 +97,41 @@ Note: The .Values object is used to access the parameters passed from the input 
 values.yaml
 The values.yaml file contains default input parameters for a Helm chart. The parameters are consumed by the templated YAML manifests through the .Values object. The end result is a suite of valid Kubernetes resources that can be successfully deployed. For example, to provide the configuration for the Deployment and Namespace resources, the values.yaml has the following structure:
 
+```bash
 ## provide the name of the namespace
-
 namespace:
-name: test
+  name: test
 
 ## define the image to execute with the Deployment
-
 image:
-repository:
-pixelpotato/python-helloworld
-tag: v1.0.0
-
+  repository:
+    pixelpotato/python-helloworld
+  tag: v1.0.0
 ## set the number of replicas for an application
-
 replicaCount: 3
-It is noteworthy, that any fields within the Kubernetes resources can be parameterized. Additionally, the values.yaml file can be overwritten fully or partially, depending if changes are required to all parameters or just to a subset of them. If no override input file is provided, the Helm chart will fallback to using the default values.yaml file (included with the chart).
+```
 
-For example, to override the name of the Namespace to prod the following values-prod.yaml file can be constructed:
+- It is noteworthy, that any fields within the Kubernetes resources can be parameterized.
+
+  - Additionally, the `values.yaml` file can be overwritten fully or partially, depending if changes are required to all parameters or just to a subset of them.
+  - If no override input file is provided, the Helm chart will fallback to using the default values.yaml file (included with the chart).
+
+- For example, to override the name of the Namespace to `prod` the following `values-prod.yaml` file can be constructed:
 
 ## override the name of the namespace
 
+```bash
 namespace:
 name: prod
+```
+
 The end result will be a valid Kubernetes Namespace object:
 
 ```bash
 apiVersion: v1
 kind: Namespace
 metadata:
-name: prod
-Argo CD and Helm
+  name: prod
 ```
 
 ---
