@@ -1,5 +1,7 @@
 # CD Fundamentals
 
+[Udacity Video Link](https://www.youtube.com/watch?v=OSg1NXhQoXk)
+
 ## **Summary**
 
 - Once an engineering team has automated the packaging of an application, the next phase is to release it to customers. Before the application is pushed to a production environment, it is important to check the functionality of an application when deployed and integrated with platform components. Only when the application meets the excepted behavior, it is deployed to a customer-facing environment. The process of propagating an application through multiple environments, until it reached the end-users, is known as the **Continuous Delivery** (or CD) stage.
