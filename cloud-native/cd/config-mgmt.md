@@ -2,38 +2,41 @@
 
 ## Configuration Managers
 
-Summary
-A CI/CD pipeline is essential to automate and standardize the application release process. New changes are propagated through multiple environments, including the production cluster, and ensure that the consumers can use the latest features. In an ideal situation, all clusters are similarly configured, such that the engineering team can inspect a realistic simulation of a production deployment. This implies that a set of nearly similar manifests are required for each cluster, sandbox, staging, and production. To reduce the management overhead of overseeing a similar suite configuration for each cluster, templating is necessary.
+## Summary
 
-For example, to deploy the nginx-alpine application 4 resource manifests were necessary: Namespace, Deployment, Service, and Configmap. However, this suite of manifests represents the deployment to a single environment, e.g sandbox. The application should be propagated through staging and production environment, which reference a separate set of manifests. It is essential to ensure that the application configuration is tailored for each environment, for example, allocate more CPU and memory to the application in production since it handles more traffic, or have a different number of replicas for each cluster. In this case, an engineering team ends up managing 3 sets of manifests, 1 for each cluster.
+- A CI/CD pipeline is essential to automate and standardize the application release process. New changes are propagated through multiple environments, including the production cluster, and ensure that the consumers can use the latest features. In an ideal situation, all clusters are similarly configured, such that the engineering team can inspect a realistic simulation of a production deployment. This implies that a set of nearly similar manifests are required for each cluster, sandbox, staging, and production. To reduce the management overhead of overseeing a similar suite configuration for each cluster, templating is necessary.
 
-Diagram showcasing the amount of manifests a team needs to manage for all enviroments
-A team has to manage multiple manifests, one for each enviroment, to deploy an application successfully to ptoduction
+- For example, to deploy the nginx-alpine application 4 resource manifests were necessary: Namespace, Deployment, Service, and Configmap. However, this suite of manifests represents the deployment to a single environment, e.g sandbox. The application should be propagated through staging and production environment, which reference a separate set of manifests. It is essential to ensure that the application configuration is tailored for each environment, for example, allocate more CPU and memory to the application in production since it handles more traffic, or have a different number of replicas for each cluster. In this case, an engineering team ends up managing 3 sets of manifests, 1 for each cluster.
 
-However, the number of manifests grows exponentially when the application is distributed across multiple regions. As such, if the application is released in AP(Asia Pacific) and the US, a team ends up managing 9 different sets of manifests.
+- Diagram showcasing the amount of manifests a team needs to manage for all enviroments
+- A team has to manage multiple manifests, one for each enviroment, to deploy an application successfully to ptoduction
 
-Diagram highlighting the growing amount of manifests a team has to manage if the application is distributed across different regions
-Application distribution across multiple regions implies a larger number of manifests that a team should manage
+- However, the number of manifests grows exponentially when the application is distributed across multiple regions. As such, if the application is released in AP(Asia Pacific) and the US, a team ends up managing 9 different sets of manifests.
 
-It is clear that it is necessary to introduce a mechanism to store and manage manifests in a reliable, scalable, and flexible way. This capability is offered by configuration management tools, such as:
+- Diagram highlighting the growing amount of manifests a team has to manage if the application is distributed across different regions
+- Application distribution across multiple regions implies a larger number of manifests that a team should manage
 
-Helm - package manager that templates exiting manifests, and uses input files to tailor configuration for each environment
-Kustomize - a template-free mechanism that uses a base and multiple overlays, to manage the configuration for each environment
-Jsonnet - a programming language, that enables the templating of manifests as JSON files, that can be easily consumed by Kubernetes
-In the following sections, we will deep-dive into Helm, as the template manager of choice for this course.
+- It is clear that it is necessary to introduce a mechanism to store and manage manifests in a reliable, scalable, and flexible way. This capability is offered by configuration management tools, such as:
 
-Helm
+- Helm - package manager that templates exiting manifests, and uses input files to tailor configuration for each environment
+- Kustomize - a template-free mechanism that uses a base and multiple overlays, to manage the configuration for each environment
+- Jsonnet - a programming language, that enables the templating of manifests as JSON files, that can be easily consumed by Kubernetes
+  In the following sections, we will deep-dive into Helm, as the template manager of choice for this course.
 
-Summary
-Helm is a package manager, that manages Kubernetes manifests through charts. A Helm chart is a collection of YAML files that describe the state of multiple Kubernetes resources. These files can be parametrized using Go template.
+## Helm
 
-A Helm chart is composed of the following files:
+## Summary 2
 
-Chart.yaml - expose chart details, such as description, version, and dependencies
-templates/ folder - contains templates YAML manifests for Kubernetes resources
-values.yaml - default input configuration file for the chart. If no other values file is supplied, the parameters in this file will be used.
-Helm Chart structure including a chart configuration, input file and templated manifests  
-Helm Chart structure
+- Helm is a package manager, that manages Kubernetes manifests through charts. A Helm chart is a collection of YAML files that describe the state of multiple Kubernetes resources. These files can be parametrized using Go template.
+
+- A Helm chart is composed of the following files:
+
+- Chart.yaml - expose chart details, such as description, version, and dependencies
+- templates/ folder - contains templates YAML manifests for Kubernetes resources
+- values.yaml - default input configuration file for the chart. If no other values file is supplied, the parameters in this file will be used.
+- Helm Chart structure including a chart configuration, input file and templated manifests
+
+## Helm Chart structure
 
 Chart.yaml
 A Chart.yaml file encompasses the details of the chart, such as version, description, and maintainer list. For example, a Python hello-world Helm chart contains the following Chart.yaml configuration:
