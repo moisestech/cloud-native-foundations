@@ -12,7 +12,7 @@
 
 - The sandbox and staging environments are fully automated. As such, if the deployment to sandbox is successful and meets the expected behavior, then the code will be propagated to the staging automatically. However, the push to production requires engineering validation and triggering, as this is the environment that the end-users will interact with. The production deployment can be fully automated, however, doing so implies a high confidence rate that the code will not introduce customer-facing disruptions.
 
-![Diagram of Continuous Delivery stages]()
+![Diagram of Continuous Delivery stages](../../assets/images/lessons/L5_9_cd_fundamentals_continous_delivery_stages.png)
 
 - **Continuous Delivery stages**
 
