@@ -54,7 +54,7 @@ kubectl apply -f deployment.yaml
 
 - The **Project** resource is a CRD that provides a logical grouping of applications, including access to source and destination repositories, and permissions to resources within the cluster. This resource is handy to segregate and control the deployment to multiple clusters.
 
-### Application resource
+### **Application resource**
 
 - The **Application** resource that stores the configuration of how an application should be deployed and managed.
 - Let's explore how a Python hello-world application is deployed using an ArgoCD Application resource:
