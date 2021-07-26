@@ -32,6 +32,14 @@
 
 [Udacity, Video Link](https://youtu.be/hTBrg_1Z_FA)
 
+![](L5_14_config_mgmt_1.png)
+![](L5_14_config_mgmt_2.png)
+![](L5_14_config_mgmt_3.png)
+![](L5_14_config_mgmt_4.png)
+![](L5_14_config_mgmt_5.png)
+![](L5_14_config_mgmt_6.png)
+![](L5_14_config_mgmt_7.png)
+
 ## Summary 2
 
 - **Helm** is a package manager, that manages Kubernetes manifests through charts. A Helm chart is a collection of YAML files that describe the state of multiple Kubernetes resources. These files can be parametrized using Go template.
@@ -42,7 +50,7 @@
 - **templates/ folder** - contains templates YAML manifests for Kubernetes resources
 - **values.yaml** - default input configuration file for the chart. If no other values file is supplied, the parameters in this file will be used.
 
-![Helm Chart structure including a chart configuration, input file and templated manifests]()
+![Helm Chart structure including a chart configuration, input file and templated manifests](./../../assets/images/lessons/L5_9_config_mgmt_1.png)
 
 ## Helm Chart structure
 
