@@ -14,28 +14,35 @@
 
 - However, the number of manifests grows exponentially when the application is distributed across multiple regions. As such, if the application is released in AP(Asia Pacific) and the US, a team ends up managing 9 different sets of manifests.
 
-- Diagram highlighting the growing amount of manifests a team has to manage if the application is distributed across different regions
+![Diagram highlighting the growing amount of manifests a team has to manage if the application is distributed across different regions]()
+
 - Application distribution across multiple regions implies a larger number of manifests that a team should manage
 
 - It is clear that it is necessary to introduce a mechanism to store and manage manifests in a reliable, scalable, and flexible way. This capability is offered by configuration management tools, such as:
 
-- Helm - package manager that templates exiting manifests, and uses input files to tailor configuration for each environment
-- Kustomize - a template-free mechanism that uses a base and multiple overlays, to manage the configuration for each environment
-- Jsonnet - a programming language, that enables the templating of manifests as JSON files, that can be easily consumed by Kubernetes
-  In the following sections, we will deep-dive into Helm, as the template manager of choice for this course.
+- **Helm** - package manager that templates exiting manifests, and uses input files to tailor configuration for each environment
+- **Kustomize** - a template-free mechanism that uses a base and multiple overlays, to manage the configuration for each environment
+- **Jsonnet** - a programming language, that enables the templating of manifests as JSON files, that can be easily consumed by Kubernetes
+
+- In the following sections, we will deep-dive into Helm, as the template manager of choice for this course.
+
+---
 
 ## Helm
 
+[Udacity, Video Link](https://youtu.be/hTBrg_1Z_FA)
+
 ## Summary 2
 
-- Helm is a package manager, that manages Kubernetes manifests through charts. A Helm chart is a collection of YAML files that describe the state of multiple Kubernetes resources. These files can be parametrized using Go template.
+- **Helm** is a package manager, that manages Kubernetes manifests through charts. A Helm chart is a collection of YAML files that describe the state of multiple Kubernetes resources. These files can be parametrized using Go template.
 
 - A Helm chart is composed of the following files:
 
-- Chart.yaml - expose chart details, such as description, version, and dependencies
-- templates/ folder - contains templates YAML manifests for Kubernetes resources
-- values.yaml - default input configuration file for the chart. If no other values file is supplied, the parameters in this file will be used.
-- Helm Chart structure including a chart configuration, input file and templated manifests
+- **Chart.yaml** - expose chart details, such as description, version, and dependencies
+- **templates/ folder** - contains templates YAML manifests for Kubernetes resources
+- **values.yaml** - default input configuration file for the chart. If no other values file is supplied, the parameters in this file will be used.
+
+![Helm Chart structure including a chart configuration, input file and templated manifests]()
 
 ## Helm Chart structure
 
@@ -121,7 +128,8 @@ metadata:
 name: prod
 Argo CD and Helm
 
-Summary
+## Summary 3
+
 So far, we have explored how an engineering team can use Helm charts to template the manifests for multiple clusters. The next stage consists of integrating the Helm charts in the deploy phase of the CI/CD pipeline.
 
 ArgoCD supports the deployment of manifests that are managed by a Helm chart. To implement this approach, the Application CRD requires to change the source of manifests to a Helm chart. An example of the manifest can be found below:
