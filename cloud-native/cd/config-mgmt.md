@@ -148,12 +148,20 @@ The full YAML representation of the Application CRD that deploys a Helm chart ca
 New Terms
 Helm - package manager tool used to template a suite of Kubernetes manifests.
 Helm chart - a collection of configuration, input, and templated YAML files used to deploy Kubernetes resources.
-Further reading
-Explore Helm configuration in more detail:
 
-The Chart Template Developer's Guide
-The Chart.yaml File
-Templates and Values
+---
+
+### Further reading
+
+- Explore Helm configuration in more detail:
+
+  - [The Chart Template Developer's Guide]()
+  - [The Chart.yaml File]()
+  - [Templates and Values]()
+
+---
+
+## Resources
 
 ---
 
