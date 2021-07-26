@@ -6,6 +6,8 @@
 
 - Once an engineering team has automated the packaging of an application, the next phase is to release it to customers. Before the application is pushed to a production environment, it is important to check the functionality of an application when deployed and integrated with platform components. Only when the application meets the excepted behavior, it is deployed to a customer-facing environment. The process of propagating an application through multiple environments, until it reached the end-users, is known as the **Continuous Delivery** (or CD) stage.
 
+![](../../assets/images/lessons/L5_9_cd_fundamentals_vid_4.png)
+
 - It is common practice to push the code through at least 3 environments: sandbox, staging, and production. A reminder of each environment's purpose :
 
 - **Sandbox** - development environment, where new changes can be tested with minimal risk.
@@ -14,7 +16,9 @@
 
 - The sandbox and staging environments are fully automated. As such, if the deployment to sandbox is successful and meets the expected behavior, then the code will be propagated to the staging automatically. However, the push to production requires engineering validation and triggering, as this is the environment that the end-users will interact with. The production deployment can be fully automated, however, doing so implies a high confidence rate that the code will not introduce customer-facing disruptions.
 
-![Diagram of Continuous Delivery stages](../../assets/images/lessons/L5_9_cd_fundamentals_continous_delivery_stages.png)
+![Diagram of Continuous Delivery stages](../../assets/images/lessons/L5_9_cd_fundamentals_vid_3.png)
+
+![](../../assets/images/lessons/L5_9_cd_fundamentals_vid_1.png)
 
 - **Continuous Delivery stages**
 
