@@ -145,9 +145,12 @@ repoURL: https://github.com/udacity/nd064_course_1
 targetRevision: HEAD
 The full YAML representation of the Application CRD that deploys a Helm chart can be found in the course repository.
 
-New Terms
-Helm - package manager tool used to template a suite of Kubernetes manifests.
-Helm chart - a collection of configuration, input, and templated YAML files used to deploy Kubernetes resources.
+---
+
+### New Terms
+
+- **Helm** - package manager tool used to template a suite of Kubernetes manifests.
+- **Helm chart** - a collection of configuration, input, and templated YAML files used to deploy Kubernetes resources.
 
 ---
 
