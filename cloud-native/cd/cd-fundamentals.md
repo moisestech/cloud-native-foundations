@@ -97,7 +97,7 @@ syncPolicy: {}
 
 ---
 
-![App of Apps]()
+![App of Apps](./../../assets/images/lessons/L5_9_cd_fundamentals_app_of_apps.png)
 
 - Diagram of a web-store Application that manages the configuration multiple microservices
 
