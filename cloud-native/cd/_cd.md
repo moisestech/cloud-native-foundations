@@ -1,6 +1,26 @@
 # CD
 
-![](../assets/images/lessons/udacity_cnf_course_outline.png)
+## Introduction
+
+![Udacity, Video Link](https://youtu.be/HbF6hf1WgWU)
+
+Welcome to the Cloud Native CI/CD lesson!
+
+Once a team has built a product and has structured a release process onto the platform, the next phase is to bring automation. A release process should enable a team to deliver new features to consumers, and it should be highly automated to eliminate misconfiguration scenarios. These functionalities are encapsulated by a CI/CD pipeline, for continuous integration and delivery of the new code changes.
+
+In this lesson, we will explore how to use cloud-native tooling to construct a CI/CD pipeline. As well, we will explore template configuration managers, such as Helm to enable the easy deployment of an application to multiple clusters.
+
+Cloud Native CI/CD lesson outline
+Cloud Native CI/CD lesson outline
+
+Overall, in this lesson we will explore:
+
+Continuous Application Deployment
+The CI Fundamentals
+The CD Fundamentals
+Configuration Managers
+
+---
 
 ## Continuous Deployment
 
