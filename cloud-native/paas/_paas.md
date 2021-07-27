@@ -15,16 +15,15 @@
 
 - In this lesson, we will explore the **Platform as a Service (PaaS)** mechanism as a way to deploy a service without underlying infrastructure knowledge.
 
-![Open Source PaaS lesson outline]()
-Open Source PaaS lesson outline
+![Open Source PaaS lesson outline](../../assets/images/lessons/L4_1_open_source_paas_lesson_outline.png)
+
+- Open Source PaaS lesson outline
 
 ## Throughout this lesson we will explore:
 
-1. PaaS Mechanisms
-2. Cloud Foundry
-3. Function as a Service
-
----
+1. [PaaS Mechanisms]()
+2. [Cloud Foundry]()
+3. [Function as a Service]()
 
 ---
 
