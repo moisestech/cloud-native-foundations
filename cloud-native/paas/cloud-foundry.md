@@ -94,3 +94,66 @@ True or False: Cloud Foundry provides routing to applications from external user
 True
 
 ---
+
+Exercise: Cloud Foundry
+So far, you have been exposed to two ways of deploying an application: using a PaaS solution such as Cloud Foundry and using Kubernetes resources. However, both mechanism allows for a variable level of configuration flexibility and abstractions of infrastructure components.
+
+Imagine the following scenario: you are part of the team that needs to assess the benefits and drawbacks of using Cloud Foundry versus Kubernetes.
+
+Considering that the application code is available, reflect on what operations and steps are necessary to adopt each solution (Cloud Foundry and Kubernetes) for a successful application deployment. What are the main drawbacks of each solution?
+
+Reflect on Cloud Foundry versus Kubernetes adoption - part 1
+What are the steps to adopt Kubernetes for a successful application deployment?
+
+Your reflection
+Considering that the application code is available, these are the steps to adopt each proposed solution:
+Things to think about
+Go to the next solution page.
+
+Reflect on Cloud Foundry versus Kubernetes adoption - part 2
+What are the steps to adopt Cloud Foundry for a successful application deployment?
+
+Your reflection
+Kubernetes
+create an OCI (Open Container Initiative) compliant image, usually created by using Docker
+deploy a Kubernetes cluster with a valid ingress controller for the routing of requests
+deploy an observability stack, including logs and metrics
+create the YAML manifests for the application deployment
+create a CI/CD pipeline to push the Kubernetes resources to the cluster
+Things to think about
+Go to the solution page.
+
+Reflect on Cloud Foundry versus Kubernetes adoption - part 3
+What are the main drawbacks of each solution?
+
+Your reflection
+Cloud Foundry
+write a manifest file to provide main application deployment parameters
+deploy Cloud Foundry or use Cloud Foundry PaaS solutions from 3rd part vendors
+deploy the application to Cloud Foundry (via CLI or UI)
+
+Note: Cloud Foundry will create the OCI compliant image by default, and it will provide the routing capacities as well.
+Things to think about
+Go to the solution page.
+
+---
+
+Solution: Cloud Foundry
+It is pivotal to understand the application functionalities and available resources. This is especially the case when a microservice-based design is chosen, and solutions suck as IaaS (Infrastructure as a Service), PaaS (Platform as a Service), SaaS (Software as a Service) are available from a multitude of vendors. Choosing the most suitable deployment tooling will lead to the efficient delivery of the product.
+
+Considering that the application code is available, these are the steps to adopt each proposed solution:
+
+Kubernetes
+create an OCI (Open Container Initiative) compliant image, usually created by using Docker
+deploy a Kubernetes cluster with a valid ingress controller for the routing of requests
+deploy an observability stack, including logs and metrics
+create the YAML manifests for the application deployment
+create a CI/CD pipeline to push the Kubernetes resources to the cluster
+Cloud Foundry
+write a manifest file to provide main application deployment parameters
+deploy Cloud Foundry or use Cloud Foundry PaaS solutions from 3rd part vendors
+deploy the application to Cloud Foundry (via CLI or UI)
+Note: Cloud Foundry will create the OCI compliant image by default, and it will provide the routing capacities as well.
+Cloud Foundry provides a better developer experience for application deployment, as it offers a greater level of component abstraction (no need to manage the underlying infrastructure). However, a PaaS solution locks-in the customer to a specific vendor. On the other side, Kubernetes offers full control over the container orchestration, providing more flexible management of the application.
+
+---
