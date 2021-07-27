@@ -157,3 +157,7 @@ Note: Cloud Foundry will create the OCI compliant image by default, and it will 
 Cloud Foundry provides a better developer experience for application deployment, as it offers a greater level of component abstraction (no need to manage the underlying infrastructure). However, a PaaS solution locks-in the customer to a specific vendor. On the other side, Kubernetes offers full control over the container orchestration, providing more flexible management of the application.
 
 ---
+
+## Related Foam Links
+
+- [[_paas]]
