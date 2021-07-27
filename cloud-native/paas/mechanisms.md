@@ -162,3 +162,9 @@ database - for storing the customer details, orders, and products details
 compute - accessible scalability for the application to serve millions of customers
 networking - hosting and serving the requests with no downtime
 analytics - an add-on to collect data and provide metrics and logs about customer interaction with the web-store
+
+---
+
+## Related Foam Links
+
+- [[_paas]]
