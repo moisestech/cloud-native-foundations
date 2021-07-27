@@ -59,3 +59,38 @@ Introduction to Stratos
 Cloud Foundry: Deploying with App Manifests
 
 Moving a Cloud Foundry Hello World App to Kubernetes - how hard can it be?
+
+---
+
+Quizzes: Cloud Foundry
+QUESTION 1 OF 4
+Why an engineering team can avoid vendor lock-in by using Cloud Foundry?
+
+Cloud Foundry is an open-source PaaS
+
+Cloud Foundry can be deployed on top of existing cloud providers
+
+QUESTION 2 OF 4
+Cloud Foundry offers services as part of its core functionalities. It will use service brokers to provision on-demand the dependency services for an application. What kind of dependency services does it cover?
+
+Third-party APIs
+
+Databases
+
+QUESTION 3 OF 4
+Which of the following sources you can use to deploy an application using Cloud Foundry?
+
+Public GitHub repository
+
+Docker image
+
+Public GitLab repository
+
+Upload source code directly
+
+QUESTION 4 OF 4
+True or False: Cloud Foundry provides routing to applications from external users.
+
+True
+
+---
