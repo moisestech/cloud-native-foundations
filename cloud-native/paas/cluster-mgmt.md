@@ -16,7 +16,8 @@
 - As a result, if the infrastructure is distributed across the US, Europe, and the Asia Pacific, a team ends up operating 9 clusters.
 - Configuring, managing, upgrading, updating, and deploying to all of these clusters is a herculean task and often requires a dedicated team.
 
-- In these circumstances, if an organization does not have sufficient engineering resources, delegating the platform management to a 3rd party provider is a more suitable solution. This is covered by a PaaS or Platform as a Service solution.
+- In these circumstances, if an organization does not have sufficient engineering resources, delegating the platform management to a 3rd party provider is a more suitable solution.
+- This is covered by a PaaS or Platform as a Service solution.
 
 ---
 
