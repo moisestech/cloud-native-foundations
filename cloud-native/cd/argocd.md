@@ -6,7 +6,7 @@
 
 - This demo is a walkthrough of the process of installing and accessing ArgoCD.
 
-Here are some noteworthy steps:
+- Here are some noteworthy steps:
 
 Use the official ArgoCD install page
 The YAML manifest for the NodePort service can be found under the argocd-server-nodeport.yaml file in the course repository
