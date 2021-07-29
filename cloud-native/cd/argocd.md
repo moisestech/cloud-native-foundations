@@ -26,8 +26,8 @@
 
 - To follow the demo closely, use the following resources:
 
-Python-manifests folder contains the YAML configuration for the Python hello-world application
-argocd-python manifest for the Application CRD to used to deploy the Python hello-world application
+- Python-manifests folder contains the YAML configuration for the Python hello-world application
+  argocd-python manifest for the Application CRD to used to deploy the Python hello-world application
 
 ---
 
