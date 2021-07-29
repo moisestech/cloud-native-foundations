@@ -4,7 +4,7 @@
 
 ## Summary
 
-This demo is a walkthrough of the process of installing and accessing ArgoCD.
+- This demo is a walkthrough of the process of installing and accessing ArgoCD.
 
 Here are some noteworthy steps:
 
