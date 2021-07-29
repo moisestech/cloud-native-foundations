@@ -2,7 +2,7 @@
 
 ## Continuous Deployment
 
-## Summary
+### Summary
 
 - Throughout the Microservice Fundamentals course, we walked through a realistic example of how to choose an architecture for an application, package it using Docker, and deployed it to a Kubernetes cluster using a CI/CD pipeline.
 
@@ -19,7 +19,7 @@
 - [ND064 C1 L4 13 Course Recap](https://www.youtube.com/watch?v=rb4BOakWoe4&feature=emb_imp_woyt)
 - [ND064 C1 L4 14 Goodbye](https://www.youtube.com/watch?v=NabhBOKXn5Y&feature=emb_imp_woyt)
 
-## Application Releases
+### Application Releases
 
 ![](../../assets/images/lessons/udacity_cnf_lesson_5_cicd_app_release_1.png)
 
