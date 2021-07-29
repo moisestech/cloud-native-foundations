@@ -21,7 +21,7 @@
         - As a result, the warning prompt is encountered and you should just bypass the warning page
 
         - Login credentials can be retrieved using the steps in the credentials guide
-          Application Deployment
+        - Application Deployment
           This demo provides a step by step guide on how to deploy an application using ArgoCD.
 
 To follow the demo closely, use the following resources:
