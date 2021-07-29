@@ -15,12 +15,18 @@
 
 ---
 
-Exercise: Configuration Managers
-For the management of multiple declarative Kubernetes manifests, a templating layer is necessary, especially if the application is replicated across different regions. For this purpose configuration managers, such as Helm and Kustomize, were introduced.
+### Exercise: Configuration Managers
 
-This exercise will focus on creating your first Helm chart to deploy multiple Nginx applications using the same template and multiple input files.
+- For the management of multiple declarative Kubernetes manifests, a templating layer is necessary, especially if the application is replicated across different regions.
 
-Exercise
+  - For this purpose configuration managers, such as Helm and Kustomize, were introduced.
+
+- This exercise will focus on creating your first Helm chart to deploy multiple Nginx applications using the same template and multiple input files.
+
+---
+
+### Exercise
+
 Using the manifests provided in the course repository, create a helm chart (Chart.yaml, templates, values.yaml) that will template the following parameters:
 
 namespace name
@@ -79,13 +85,13 @@ Make sure you completed the following tasks:
 
 ## Solution: Configutation Managers
 
-Create Helm Chart
+### Create Helm Chart
 
-Helm provides a powerful mechanism to inject values to templated YAML manifests.
+- Helm provides a powerful mechanism to inject values to templated YAML manifests.
 
-The full Helm chart for nginx-deployment can found in the course repository.
+- The full Helm chart for nginx-deployment can found in the course repository.
 
-The Helm chart is defined in the Chart.yaml file, which contains the API version, name and version of the chart:
+- The Helm chart is defined in the Chart.yaml file, which contains the API version, name and version of the chart:
 
 apiVersion: v1
 name: nginx-deployment
@@ -121,7 +127,7 @@ configmap:
 data: "version: alpine"
 The above configuration represents the default parameters of application deployment if it is not overwritten by a different values file.
 
-Below is an example of the values-prod.yaml file, which will override the default parameters:
+- Below is an example of the values-prod.yaml file, which will override the default parameters:
 
 namespace:
 name: prod
