@@ -22,7 +22,7 @@
 
         - Login credentials can be retrieved using the steps in the credentials guide
         - Application Deployment
-          This demo provides a step by step guide on how to deploy an application using ArgoCD.
+        - This demo provides a step by step guide on how to deploy an application using ArgoCD.
 
 To follow the demo closely, use the following resources:
 
