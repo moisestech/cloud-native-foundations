@@ -159,4 +159,13 @@ syncPolicy: {}
 
 ---
 
+## Jenkins Resources
+
+- [Jenkins Cheat Sheet](https://lzone.de/cheat-sheet/Jenkins)
+- [Online Courses - Anytime, Anywhere | Udemy](https://www.udemy.com/cart/subscribecourse/2780262/)
+- [Free Jenkins Tutorial - DevOps Crash Course: CI/CD with Jenkins Pipelines Groovy DSL| Udemy](https://www.udemy.com/course/devops-crash-course-cicd-with-jenkins-pipelines-groovy-dsl/?LSNPUBID=6atJFJ4NNe4)
+- [7 Best Courses to learn Jenkins and CI/CD for DevOps Engineers and SoftwareDevelopers in 2021 | by javinpaul | Javarevisited | Medium](https://medium.com/javarevisited/7-best-courses-to-learn-jenkins-and-ci-cd-for-devops-engineers-and-software-developers-df2de8fe38f3)
+- [New eBook: Jenkins is the Way for IT and software developers](https://www.jenkins.ioblog/2021/06/10/jenkins-is-the-way-ebook-2/)
+- [Complete end-to end Automation integrating Docker, Github with Jenkins CI/CD | byAnkush Sinha Roy | Medium](https://medium.com/@srank2000/complete-end-to-end-automation-integrating-docker-github-with-jenkins-ci-cd-b555e721aad4)
+
 ## **Related**
