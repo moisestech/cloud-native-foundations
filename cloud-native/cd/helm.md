@@ -176,6 +176,13 @@ The nginx-staging.yaml Application for ArgoCD can be found in the course reposit
 
 ---
 
+## Helm Resources
+
+- [10 Helm Tutorials to Start your Kubernetes Journey | JFrog](https://jfrog.com/blog/10-helm-tutorials-to-start-your-kubernetes-journey/)
+- [Setting up a private Helm chart repository on GitHub | by Jasiek Petryk | Medium](https://jasiek-petryk.medium.com/setting-up-a-private-helm-chart-repository-on-github-4a767703cec8)
+- [Application and package management using Helm - Learn | Microsoft Docs](https://docs.microsoft.com/en-us/learn/modules/aks-app-package-management-using-helm/?WT.mc_id=udacity_learn-wwl)
+- [13 Best Practices for using Helm — Coder Society](https://codersociety.com/blog/articles/helm-best-practices)
+
 ### Related
 
 - [[_cd]]
