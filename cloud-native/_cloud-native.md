@@ -254,7 +254,7 @@ Using multiple containers and managing them can be quite hectic so you can use a
 - [Cloud Storage Safety 101\. Today, file storage is all about the… | by Diamond Inc. | Medium](https://medium.com/@diamond_io/cloud-storage-safety-101-ba965fcb8804)
 - [Introduction to Cloud Computing. Cloud Computing is on-demand… | by ankur shishodia | Medium](https://ankurshishodia011.medium.com/introduction-to-cloud-computing-8fefd278640f)
 - [What Is Cloud-Native All About?. With new technologies new possibilities… | by Radek Grębski | Stepwise | Medium](https://medium.com/stepwise/what-is-cloud-native-all-about-2bae83878d1b)
-  [LXC vs Docker & LXC 101\. linuxcontainers.org is the umbrella… | by Harsh Manvar | Medium](https://medium.com/@harsh.manvar111/lxc-vs-docker-lxc-101-bd49db95933a)
+- [LXC vs Docker & LXC 101\. linuxcontainers.org is the umbrella… | by Harsh Manvar | Medium](https://medium.com/@harsh.manvar111/lxc-vs-docker-lxc-101-bd49db95933a)
   [Cloud Native Application Architecture | by Siddharth Patnaik | Walmart Global Tech Blog | Medium](https://medium.com/walmartglobaltech/cloud-native-application-architecture-a84ddf378f82)
   [Learning How to Learn- the Secret to Succeeding as a Software Engineer | by Madison Schott | Capital One Tech | Medium](https://medium.com/capital-one-tech/secret-to-succeeding-as-a-software-engineer-a0ac0cd6cd18)
   [How we designed our Continuous Integration System to be more than 50% Faster | by Pinterest Engineering | Pinterest Engineering Blog | Medium](https://medium.com/pinterest-engineering/how-we-designed-our-continuous-integration-system-to-be-more-than-50-faster-b70a59342fe2)
