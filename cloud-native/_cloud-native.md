@@ -246,7 +246,7 @@ Using multiple containers and managing them can be quite hectic so you can use a
 - [How to Become Cloud Native - And the Tools to Get You There — Coder Society](https://codersociety.com/blog/articles/cloud-native-tools)
 - [DevOps Roadmap: Learn to become a DevOps Engineer or SRE](https://roadmap.sh/devops)
 - [Comprehensive Cloud Skills Training Drives Digital Transformation Success](https://pages.awscloud.com/Globa_traincert_Get_AWS_Certified_Developer_Associate.html)
-  [Learn the Foundational Knowledge of How the Internet Works](https://internetfundamentals.com/)
+- [Learn the Foundational Knowledge of How the Internet Works](https://internetfundamentals.com/)
   [Introduction to Cloud Computing. Cloud Computing is on-demand… | by ankur shishodia | Medium](https://ankurshishodia011.medium.com/introduction-to-cloud-computing-8fefd278640f)
   [Pulumi: A True Infrastructure as Code Paradigm | by Komal Venkatesh Ganesan | Jun, 2021 | Better Programming](https://betterprogramming.pub/pulumi-a-true-infrastructure-as-code-paradigm-ac07c530e219)
   [Automating Terraform with GitHub Actions | by Rohan Singh | Jun, 2021 | Medium](https://rohankalhans.medium.com/automating-terraform-with-github-actions-5b3aac5abea7)
