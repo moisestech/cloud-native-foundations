@@ -341,10 +341,10 @@ Using multiple containers and managing them can be quite hectic so you can use a
 - [CFEngine 3.18.0 Documentation - Guide](https://docs.cfengine.com/docs/3.18/guide.html)
 - [Google Cloud for Education - Curriculum](https://cloud.google.com/edu/curriculum)
 - [Google Cloud skills campaign](https://inthecloud.withgoogle.com/google-cloud-skills/register.html)
-- [Cloud Native 101 Video - YouTube](https://www.youtube.com/watch?v=9Ik96SBaIvs)
-- [Understanding Cloud Native Storage | Cloudian](https://cloudian.com/blog/understanding-cloud-native-storage/)
-- [Cloud Computing For Dummies Cheat Sheet - dummies](https://www.dummies.com/programming/cloud-computing/cloud-computing-for-dummies-cheat-sheet/)
-- [The Cloud Native Show | Channel 9](https://channel9.msdn.com/Shows/The-Cloud-Native-Show?=&WT.mc_id=cloudnative-c9-shboyer)
+- [Cloud Native 101 Video](https://www.youtube.com/watch?v=9Ik96SBaIvs), **YouTube**
+- [Understanding Cloud Native Storage](https://cloudian.com/blog/understanding-cloud-native-storage/), **Cloudian**
+- [Cloud Computing For Dummies Cheat Sheet](https://www.dummies.com/programming/cloud-computing/cloud-computing-for-dummies-cheat-sheet/), **Dummies**
+- [The Cloud Native Show](https://channel9.msdn.com/Shows/The-Cloud-Native-Show?=&WT.mc_id=cloudnative-c9-shboyer). **Channel 9**
 - [Cloud Stakeholders as per NIST](https://www.geeksforgeeks.org/cloud-stakeholders-as-per-nist/), **GeeksForGeeks**
 - [Cloud Native Free Training and Certifications](https://faun.dev/c/stories/joseadanof/cloud-native-free-training-and-certifications/), **Faun**
 - [Cloud-Native Days {with Kubernetes} 2021](https://www.mediaopsevents.com/cloudnative2021), **MediaOps**
