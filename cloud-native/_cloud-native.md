@@ -337,10 +337,10 @@ Using multiple containers and managing them can be quite hectic so you can use a
 - [Cyber Security Training : HTB Academy](https://academy.hackthebox.eu/)
 - [Learn Cloud Native | www.learncloudnative.com](https://www.learncloudnative.com/)
 - [What is cloud-native? The modern way to develop applications | InfoWorld](https://www.infoworld.com/article/3281046/what-is-cloud-native-the-modern-way-to-develop-software.html)
-- [10 Key Attributes of Cloud-Native Applications – The New Stack](https://thenewstack.io/10-key-attributes-of-cloud-native-applications/)
-- [CFEngine 3.18.0 Documentation - Guide](https://docs.cfengine.com/docs/3.18/guide.html)
-- [Google Cloud for Education - Curriculum](https://cloud.google.com/edu/curriculum)
-- [Google Cloud skills campaign](https://inthecloud.withgoogle.com/google-cloud-skills/register.html)
+- [10 Key Attributes of Cloud-Native Applications](https://thenewstack.io/10-key-attributes-of-cloud-native-applications/), **The New Stacks**
+- [CFEngine 3.18.0 Documentation - Guide](https://docs.cfengine.com/docs/3.18/guide.html), **CFEngine**
+- [Google Cloud for Education - Curriculum](https://cloud.google.com/edu/curriculum), **Cloud Google**
+- [Google Cloud skills campaign](https://inthecloud.withgoogle.com/google-cloud-skills/register.html), **InTheCloud WithGoogle**
 - [Cloud Native 101 Video](https://www.youtube.com/watch?v=9Ik96SBaIvs), **YouTube**
 - [Understanding Cloud Native Storage](https://cloudian.com/blog/understanding-cloud-native-storage/), **Cloudian**
 - [Cloud Computing For Dummies Cheat Sheet](https://www.dummies.com/programming/cloud-computing/cloud-computing-for-dummies-cheat-sheet/), **Dummies**
