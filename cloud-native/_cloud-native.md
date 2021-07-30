@@ -346,7 +346,7 @@ Using multiple containers and managing them can be quite hectic so you can use a
 - [Cloud Computing For Dummies Cheat Sheet - dummies](https://www.dummies.com/programming/cloud-computing/cloud-computing-for-dummies-cheat-sheet/)
 - [The Cloud Native Show | Channel 9](https://channel9.msdn.com/Shows/The-Cloud-Native-Show?=&WT.mc_id=cloudnative-c9-shboyer)
 - [Cloud Stakeholders as per NIST - GeeksforGeeks](https://www.geeksforgeeks.org/cloud-stakeholders-as-per-nist/)
-  [Cloud Native Free Training and Certifications](https://faun.dev/c/stories/joseadanof/cloud-native-free-training-and-certifications/)
+- [Cloud Native Free Training and Certifications](https://faun.dev/c/stories/joseadanof/cloud-native-free-training-and-certifications/)
 - [Cloud-Native Days {with Kubernetes} 2021](https://www.mediaopsevents.com/cloudnative2021?utm_campaign=Cloud%20Native%20Con&utm_medium=invite&_hsmi=143521812&_hsenc=p2ANqtz--4A7Zt6MSOCgCf2KDOTR_Cm868gaa5QqDAy5hEZRz-WwOEGAoTNh5X0t1v4BrRLVqvrj62NBGj7X7Qb1F2SBOjM9ugiAtslGC7l23on5_KUBJix88&utm_content=invite&utm_source=email)
 - [Morioh](https://morioh.com/p/4194c86a24cd), **Website**
 
