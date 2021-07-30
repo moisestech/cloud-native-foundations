@@ -234,7 +234,7 @@ Using multiple containers and managing them can be quite hectic so you can use a
 
 - [Google Cloud Next | October 12-14, 2021](https://cloud.withgoogle.com/next/)
 - [Make a Your Own Free VPN with AWS/Cloud Computing! | Udemy](https://www.udemy.com/course/make-a-your-own-free-vpn-with-awscloud-computing/)
-  [The Complete Introduction to Data Analytics with Tableau | Udemy](https://www.udemy.com/course/the-complete-introduction-to-data-analytics-with-tableau/?ranMID=39197&ranEAID=nN98ER4vNAU&ranSiteID=nN98ER4vNAU-hvLt9X.IVxXr9kLq8BbnFw&utm_source=aff-campaign&LSNPUBID=nN98ER4vNAU&utm_medium=udemyads)
+- [The Complete Introduction to Data Analytics with Tableau | Udemy](https://www.udemy.com/course/the-complete-introduction-to-data-analytics-with-tableau/?ranMID=39197&ranEAID=nN98ER4vNAU&ranSiteID=nN98ER4vNAU-hvLt9X.IVxXr9kLq8BbnFw&utm_source=aff-campaign&LSNPUBID=nN98ER4vNAU&utm_medium=udemyads)
   [Free Learning | Daily Programming eBook from Packt](https://www.packtpub.com/free-learning?utm_source=all+updates&utm_campaign=7c705a199e-packt_crm_new_freelearner_email_2&utm_medium=email&utm_term=0_c970747b22-7c705a199e-176907650&mc_cid=7c705a199e&mc_eid=926ae7a542#fl-jump?utm_source=mailchimp&utm_medium=email&utm_campaign=free_learner_onboarding)
   [GCP | Professional Cloud Architect | Practice Exams | jun 21 | Udemy](https://www.udemy.com/course/gcp-professional-cloud-architect-practice-exams-jun-21/?couponCode=FA3B9D2862F438F9C2A7)
   [VMware Certified Professional - VCP-DTM Practice Exams 2021 | Udemy](https://www.udemy.com/course/vmware-certified-professional-vcp-dtm-practice-exams-2021-z/?couponCode=FC9BA27EB37953EFC986)
