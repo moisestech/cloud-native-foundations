@@ -15,7 +15,7 @@
 
 ---
 
-### Exercise: Configuration Managers
+## Exercise: Configuration Managers
 
 - For the management of multiple declarative Kubernetes manifests, a templating layer is necessary, especially if the application is replicated across different regions.
 
@@ -25,7 +25,7 @@
 
 ---
 
-### Exercise
+## Exercise
 
 Using the manifests provided in the course repository, create a helm chart (Chart.yaml, templates, values.yaml) that will template the following parameters:
 
@@ -183,6 +183,8 @@ The nginx-staging.yaml Application for ArgoCD can be found in the course reposit
 - [Application and package management using Helm - Learn | Microsoft Docs](https://docs.microsoft.com/en-us/learn/modules/aks-app-package-management-using-helm/?WT.mc_id=udacity_learn-wwl)
 - [13 Best Practices for using Helm — Coder Society](https://codersociety.com/blog/articles/helm-best-practices)
 
-### Related
+---
+
+## Foam Node Links
 
 - [[_cd]]
