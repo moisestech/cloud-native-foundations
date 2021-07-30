@@ -241,7 +241,7 @@ Using multiple containers and managing them can be quite hectic so you can use a
 - [Why Edge Computing is the future of cloud | Accenture](https://www.accenture.com/us-en/blogs/cloud-computing/why-edge-computing-is-the-future-of-cloud)
 - [Predicts 2021: Cloud and Edge Infrastructure Cloud Infrastructure Edge](https://www.gartner.com/smarterwithgartner/gartner-predicts-the-future-of-cloud-and-edge-infrastructure/)
 - [Manning | Cloud Native Applications](https://www.manning.com/books/cloud-native-applications)
-  [Manning | Going Cloud Native](https://www.manning.com/books/going-cloud-native?query=cloud%20native)
+- [Manning | Going Cloud Native](https://www.manning.com/books/going-cloud-native?query=cloud%20native)
   [Watch On Demand A Cloud Guru Community Summit | A Cloud Guru](https://get.acloudguru.com/acg-community-summit/on-demand-42835-1494CR.html)
   [How to Become Cloud Native - And the Tools to Get You There — Coder Society](https://codersociety.com/blog/articles/cloud-native-tools)
   [DevOps Roadmap: Learn to become a DevOps Engineer or SRE](https://roadmap.sh/devops)
