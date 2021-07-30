@@ -89,6 +89,33 @@
 
 ---
 
+### CI/CD Resources
+
+- [(3433) GitHub Actions Tutorial - Basic Concepts and CI/CD Pipeline with Docker - YouTube](https://www.youtube.com/watch?v=R8_veQiYBjI)
+- [(5219) GitHub Actions Tutorial - Basic Concepts and CI/CD Pipeline with Docker - YouTube](https://www.youtube.com/watch?v=R8_veQiYBjI)
+- [Build a complete CI/CD Pipeline and its infrastructure with AWS — Jenkins — Bitbucket — Docker — Terraform → Part 3 | by Kevin De Notariis | Jun, 2021 | FAUN](https://faun.pub/build-a-complete-ci-cd-pipeline-and-its-infrastructure-with-aws-jenkins-bitbucket-docker-22c49ad4674a)
+- [Using Grafana to visualize Continuous Delivery Indicators in the open source Jenkins X cloud native CI/CD project | Grafana Labs](https://grafana.com/go/grafanaconline/2021/jenkinsx-grafana/)
+- [Lesser Known Techniques for Attacking AWS Environments - tl;dr sec](https://tldrsec.com/blog/lesser-known-aws-attacks/)
+- [Configure GitHub Actions | Docker Documentation](https://docs.docker.com/ci-cd/github-actions/)
+- [Leveraging GitOps to Automate the Delivery of Code and Infrastructure | SUSE & Rancher Community](https://community.suse.com/posts/15181795?utm_source=manual)
+- [(165) Let's Learn Epinio - YouTube](https://www.youtube.com/watch?v=ietNQSQXhAc)
+- [(165) 127.0.0.1 vs 0.0.0.0 (Simple Explanation) - YouTube](https://www.youtube.com/watch?v=my2vBYZ1RFw)
+- [GitHub Actions with built-in CI/CD comparing v1 & v2\. | Lothar Schulz](https://www.lotharschulz.info/2019/08/26/ci-cd-with-github-actions-v2/)
+- [Automating Developer Things with GitHub Action - Brian Douglas - YouTube](https://www.youtube.com/watch?v=jnpVn6jTKYM)
+- [(3217) The Monthly Dev #6: Special Edition with Microsoft Reactor & GitHub (June 2021) - YouTube](https://www.youtube.com/watch?v=ufEjbVpaqc4)
+- [CI/CD Tutorials - YouTube](https://www.youtube.com/playlist?list=PLy7NrYWoggjzSIlwxeBbcgfAdYoxCIrM2)
+- [Deployment Pipelines using GitHub Actions | A Cloud Guru](https://acloudguru.com/course/deployment-pipelines-using-github-actions)
+- [Code House - Store House of 300+ Developer Cheatsheets](https://codehouse.vercel.app/)
+- [CI/CD - Wikipedia](https://en.m.wikipedia.org/wiki/CI/CD)
+- [Introduction to GitHub Actions](https://www.telerik.com/blogs/introduction-github-actions)
+- [cdCon 2021 - YouTube](https://www.youtube.com/playlist?list=PL2KXbZ9-EY9TWsV-Jz8ARSt1ko0Yd36ah)
+- [Continuous integration vs. continuous delivery vs. continuous deployment](https://www.atlassian.com/continuous-delivery/principles/continuous-integration-vs-delivery-vs-deployment)
+- [8 Security Considerations for CI/CD - DevOps.com](https://devops.com/8-security-considerations-for-ci-cd/amp/)
+- [CI/CD Tutorials - YouTube](https://www.youtube.com/playlist?list=PLy7NrYWoggjzSIlwxeBbcgfAdYoxCIrM2)
+- [Pulumi GitHub Actions | Pulumi](https://www.pulumi.com/docs/guides/continuous-delivery/github-actions/)
+- [CI/CD: Continuous Integration & Delivery Explained - Semaphore](https://semaphoreci.com/cicd)
+- [What's the Difference Between Continuous Integration, Continuous Deployment and Continuous Delivery? - Semaphore](https://semaphoreci.com/blog/2017/07/27/what-is-the-difference-between-continuous-integration-continuous-deployment-and-continuous-delivery.html)
+
 ## Related Foam Links
 
 - [[README]]
