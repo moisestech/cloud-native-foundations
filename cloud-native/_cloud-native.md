@@ -239,7 +239,7 @@ Using multiple containers and managing them can be quite hectic so you can use a
 - [GCP | Professional Cloud Architect | Practice Exams | jun 21 | Udemy](https://www.udemy.com/course/gcp-professional-cloud-architect-practice-exams-jun-21/?couponCode=FA3B9D2862F438F9C2A7)
 - [VMware Certified Professional - VCP-DTM Practice Exams 2021 | Udemy](https://www.udemy.com/course/vmware-certified-professional-vcp-dtm-practice-exams-2021-z/?couponCode=FC9BA27EB37953EFC986)
 - [Why Edge Computing is the future of cloud | Accenture](https://www.accenture.com/us-en/blogs/cloud-computing/why-edge-computing-is-the-future-of-cloud)
-  [Predicts 2021: Cloud and Edge Infrastructure Cloud Infrastructure Edge](https://www.gartner.com/smarterwithgartner/gartner-predicts-the-future-of-cloud-and-edge-infrastructure/)
+- [Predicts 2021: Cloud and Edge Infrastructure Cloud Infrastructure Edge](https://www.gartner.com/smarterwithgartner/gartner-predicts-the-future-of-cloud-and-edge-infrastructure/)
   [Manning | Cloud Native Applications](https://www.manning.com/books/cloud-native-applications)
   [Manning | Going Cloud Native](https://www.manning.com/books/going-cloud-native?query=cloud%20native)
   [Watch On Demand A Cloud Guru Community Summit | A Cloud Guru](https://get.acloudguru.com/acg-community-summit/on-demand-42835-1494CR.html)
