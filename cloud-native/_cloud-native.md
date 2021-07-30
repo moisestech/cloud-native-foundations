@@ -252,7 +252,7 @@ Using multiple containers and managing them can be quite hectic so you can use a
 - [Automating Terraform with GitHub Actions | by Rohan Singh | Jun, 2021 | Medium](https://rohankalhans.medium.com/automating-terraform-with-github-actions-5b3aac5abea7)
 - [Introduction to Cloud Computing. Cloud Computing is on-demand… | by ankur shishodia | Medium](https://ankurshishodia011.medium.com/introduction-to-cloud-computing-8fefd278640f)
 - [Cloud Storage Safety 101\. Today, file storage is all about the… | by Diamond Inc. | Medium](https://medium.com/@diamond_io/cloud-storage-safety-101-ba965fcb8804)
-  [Introduction to Cloud Computing. Cloud Computing is on-demand… | by ankur shishodia | Medium](https://ankurshishodia011.medium.com/introduction-to-cloud-computing-8fefd278640f)
+- [Introduction to Cloud Computing. Cloud Computing is on-demand… | by ankur shishodia | Medium](https://ankurshishodia011.medium.com/introduction-to-cloud-computing-8fefd278640f)
   [What Is Cloud-Native All About?. With new technologies new possibilities… | by Radek Grębski | Stepwise | Medium](https://medium.com/stepwise/what-is-cloud-native-all-about-2bae83878d1b)
   [LXC vs Docker & LXC 101\. linuxcontainers.org is the umbrella… | by Harsh Manvar | Medium](https://medium.com/@harsh.manvar111/lxc-vs-docker-lxc-101-bd49db95933a)
   [Cloud Native Application Architecture | by Siddharth Patnaik | Walmart Global Tech Blog | Medium](https://medium.com/walmartglobaltech/cloud-native-application-architecture-a84ddf378f82)
